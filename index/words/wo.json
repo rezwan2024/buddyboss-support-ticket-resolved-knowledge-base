@@ -1,7 +1,13 @@
 {
+"woocommerce": [
+"1576/157605:integration"
+],
 "wording": [
 "1544/154490:app",
 "1544/154490-2:app"
+],
+"wordpress": [
+"1594/159405:app"
 ],
 "work": [
 "1492/149241:web",

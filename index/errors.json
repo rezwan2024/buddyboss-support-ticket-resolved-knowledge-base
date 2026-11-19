@@ -8,6 +8,9 @@
 "critical error": [
 "1592/159261-2"
 ],
+"duplicate column name 'app_product_id'": [
+"1596/159646-2"
+],
 "error downloading app resources from client server": [
 "1591/159127-2"
 ],
@@ -20,11 +23,20 @@
 "learndash quiz: one user completed a quiz": [
 "1584/158401"
 ],
+"membership required": [
+"1576/157605"
+],
 "no google analytics was found on your website. please follow the snippet installation instructions and try again.": [
 "1597/159735"
 ],
 "senderid mismatch": [
 "1572/157272-2"
+],
+"something went wrong — tap to retry; buddybossapp\\restcdn::rewrite_url(): argument #1 ($asset) must be passed by reference, value given (include/restcdn.php line 297)": [
+"1596/159646"
+],
+"typeerror: undefined is not a function (titletrim, cellrenderer, applist)": [
+"1568/156848"
 ],
 "uncaught typeerror: cannot read properties of undefined (reading 'find') at object.opendocumentmove": [
 "1492/149241"
