@@ -1,0 +1,6 @@
+{
+"1584/158401": {
+"title": "BuddyBoss App LearnDash quiz completed in the app sends default email \"LearnDash Quiz: One user completed a quiz\" without $categories category scores, ignores custom Quiz Email Settings admin notification subject and message (web completion works)",
+"type": "app"
+}
+}
