@@ -1,0 +1,10 @@
+{
+"1544/154490": {
+"title": "BuddyBoss App Next Gen custom wording made with Loco Translate not showing in the app, LearnDash lesson buttons Mark as Complete and Mark as Incomplete not changed",
+"type": "app"
+},
+"1544/154490-2": {
+"title": "BuddyBoss App Next Gen LearnDash lesson button shows raw key ld_mark_as_incomplete, Mark as Incomplete string missing from BuddyBoss App Translations list, wording from older app lost after moving to Next Gen",
+"type": "app"
+}
+}

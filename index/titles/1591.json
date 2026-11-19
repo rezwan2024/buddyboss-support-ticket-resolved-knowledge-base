@@ -1,0 +1,10 @@
+{
+"1591/159127": {
+"title": "BuddyBoss App (Classic and Next Gen) offline downloaded Vimeo videos not playing while streaming still works, after Vimeo videos were transferred to another Vimeo account",
+"type": "app"
+},
+"1591/159127-2": {
+"title": "BuddyBoss App build fails in App Center with \"Error downloading app resources from client server\", language file download blocked by Cloudflare or server security",
+"type": "app"
+}
+}

@@ -1,4 +1,12 @@
 {
+"1592/159211": {
+"title": "BuddyBoss Platform ReadyLaunch - header navigation, hamburger menu and top-right profile icon missing on mobile for logged-in members on course pages, single courses, forums, timeline and notifications",
+"type": "web"
+},
+"1592/159211-2": {
+"title": "BuddyBoss Platform ReadyLaunch - custom fonts and colors not applied on course pages after enabling the ReadyLaunch course template, course background color ignored and default styles override custom styling",
+"type": "web"
+},
 "1592/159297": {
 "title": "BuddyBoss Platform registration activation email not received by new users after adding custom bot protection to the registration form, signup completes but account cannot be activated",
 "type": "web"
