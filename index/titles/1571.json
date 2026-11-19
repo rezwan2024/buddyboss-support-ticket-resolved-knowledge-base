@@ -1,6 +1,6 @@
 {
 "1571/157191": {
-"fix": "unconfirmed",
+"fix": "confirmed",
 "title": "BuddyBoss App Next Gen LearnDash quizzes show yellow highlight or underline on quiz answers in the app on iOS and Android, looks like a bug, cannot turn it off",
 "type": "app"
 }

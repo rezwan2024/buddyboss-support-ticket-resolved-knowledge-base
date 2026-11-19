@@ -1,6 +1,6 @@
 {
 "1592/159211": {
-"fix": "unconfirmed",
+"fix": "confirmed",
 "title": "BuddyBoss Platform ReadyLaunch, header navigation, hamburger menu and top-right profile icon missing on mobile for logged-in members on LearnDash course pages, forums, timeline and notifications",
 "type": "web"
 },
@@ -15,7 +15,7 @@
 "type": "app"
 },
 "1592/159261": {
-"fix": "unconfirmed",
+"fix": "confirmed",
 "title": "BuddyBoss App iOS users report an error screen \"Unhandled JS Exception TypeError undefined is not a function\" in ActivitiesWidget on the latest app version, app works fine when tested by support",
 "type": "app"
 },
@@ -30,7 +30,7 @@
 "type": "web"
 },
 "1592/159297": {
-"fix": "unconfirmed",
+"fix": "confirmed",
 "title": "BuddyBoss Platform registration activation email not received by new users, account cannot be activated after adding custom bot protection to the registration form",
 "type": "web"
 }
