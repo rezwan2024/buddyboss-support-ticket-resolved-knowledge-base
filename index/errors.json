@@ -13,5 +13,11 @@
 ],
 "learndash quiz: one user completed a quiz": [
 "1584/158401"
+],
+"no google analytics was found on your website. please follow the snippet installation instructions and try again.": [
+"1597/159735"
+],
+"warning: undefined array key 0 in wp-content/plugins/buddyboss-platform/bp-forums/forums/capabilities.php on line 125; warning: attempt to read property \"id\" on null in wp-content/plugins/elementor/core/base/document.php on line 356": [
+"1592/159265"
 ]
 }

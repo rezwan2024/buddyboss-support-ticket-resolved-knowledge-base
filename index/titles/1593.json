@@ -1,0 +1,6 @@
+{
+"1593/159361": {
+"title": "BuddyBoss Platform password change in member profile Account Settings (members/USERID/settings) does not work, user gets password changed email but old password still works, lost password reset on wp-login works",
+"type": "web"
+}
+}
