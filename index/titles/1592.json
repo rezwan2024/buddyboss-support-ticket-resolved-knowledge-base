@@ -7,6 +7,18 @@
 "title": "BuddyBoss Platform ReadyLaunch - custom fonts and colors not applied on course pages after enabling the ReadyLaunch course template, course background color ignored and default styles override custom styling",
 "type": "web"
 },
+"1592/159218": {
+"title": "BuddyBoss App activity feed blog post takes multiple taps to open or does not respond to taps, mostly on iOS after returning to the app or reopening it, pinned blog posts",
+"type": "app"
+},
+"1592/159261": {
+"title": "BuddyBoss App iOS users report error screen in the app, Unhandled JS Exception TypeError undefined is not a function in ActivitiesWidget, while running the latest app version",
+"type": "app"
+},
+"1592/159261-2": {
+"title": "BuddyBoss App Android shows Critical Error message when commenting on a group post, still happens after reinstalling the app",
+"type": "app"
+},
 "1592/159265": {
 "title": "BuddyBoss Platform PHP warnings shown at top of frontend and backend screens after updating to Platform 3.5.0, Platform Pro 3.3.2 and Theme 2.22.0, Undefined array key 0 in bp-forums/forums/capabilities.php line 125 and Elementor Attempt to read property \"ID\" on null in document.php line 356",
 "type": "web"

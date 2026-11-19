@@ -2,6 +2,12 @@
 "@undefined": [
 "1566/156685"
 ],
+"apns device token error": [
+"1572/157272"
+],
+"critical error": [
+"1592/159261-2"
+],
 "error downloading app resources from client server": [
 "1591/159127-2"
 ],
@@ -16,6 +22,15 @@
 ],
 "no google analytics was found on your website. please follow the snippet installation instructions and try again.": [
 "1597/159735"
+],
+"senderid mismatch": [
+"1572/157272-2"
+],
+"uncaught typeerror: cannot read properties of undefined (reading 'find') at object.opendocumentmove": [
+"1492/149241"
+],
+"unhandled js exception: typeerror: undefined is not a function (activitieswidget)": [
+"1592/159261"
 ],
 "warning: undefined array key 0 in wp-content/plugins/buddyboss-platform/bp-forums/forums/capabilities.php on line 125; warning: attempt to read property \"id\" on null in wp-content/plugins/elementor/core/base/document.php on line 356": [
 "1592/159265"
