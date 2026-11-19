@@ -10,6 +10,7 @@ Short cases written from resolved BuddyBoss support tickets. Each case is genera
 ---
 title: long searchable title
 type: app | web | addon | integration | account
+fix: confirmed | unconfirmed
 error: exact error text or code, or empty
 keywords: comma separated
 ---
@@ -20,6 +21,8 @@ keywords: comma separated
 ## Solution
 The fix in one to three lines. Root cause: one line.
 ```
+
+`fix: confirmed` means the ticket showed the fix worked: the customer confirmed it, the agent verified it, or it was a released fix for a confirmed bug. Everything else is `fix: unconfirmed` and is a lead only. `index/unconfirmed.md` lists them for review.
 
 ## Index
 

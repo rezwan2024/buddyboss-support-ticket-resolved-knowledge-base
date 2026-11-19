@@ -1,5 +1,6 @@
 {
 "1597/159735": {
+"fix": "confirmed",
 "title": "BuddyBoss Theme Google Analytics tracking code not working, Google says \"No Google Analytics was found on your website\" after adding the code in Theme Options, fixed by clearing Cloudflare cache",
 "type": "web"
 }

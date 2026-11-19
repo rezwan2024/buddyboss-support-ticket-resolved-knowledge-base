@@ -1,5 +1,6 @@
 {
 "1607/160724": {
+"fix": "unconfirmed",
 "title": "BuddyBoss support receives automated \"Visitor requested a human\" ticket from a site's third-party live chat tool, not a real support request",
 "type": "web"
 }

@@ -1,5 +1,6 @@
 {
 "1492/149241": {
+"fix": "confirmed",
 "title": "BuddyBoss Platform Documents \"Move\" does not work inside a folder on the member profile Documents tab, console error Uncaught TypeError Cannot read properties of undefined (reading 'find') at openDocumentMove",
 "type": "web"
 }

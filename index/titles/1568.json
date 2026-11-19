@@ -1,5 +1,6 @@
 {
 "1568/156848": {
+"fix": "confirmed",
 "title": "BuddyBoss App crashes with critical error \"relaunch or quit\" when opening comments on an activity or group post that has a reaction on a comment, TypeError undefined is not a function in titleTrim, iOS and Android, Platform 3.4.3 and App plugin 3.2.3",
 "type": "app"
 }
