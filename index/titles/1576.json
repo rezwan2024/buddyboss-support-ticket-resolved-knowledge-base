@@ -1,7 +1,0 @@
-{
-"1576/157605": {
-"fix": "confirmed",
-"title": "BuddyBoss Platform with WooCommerce and a third-party membership plugin shows double login and register forms, several sign up routes, login page shows a registration form, and new members are asked for an activation code or land on Membership Required screen",
-"type": "integration"
-}
-}

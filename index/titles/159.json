@@ -1,0 +1,97 @@
+{
+"159/159119": {
+"fix": "unconfirmed",
+"title": "BuddyBoss App menu item \"Always open in external browser\" checkbox not saved, unchecks after Save Menu and link still opens inside the app (More menu, caching and security plugins active)",
+"type": "app"
+},
+"159/159127": {
+"fix": "confirmed",
+"title": "BuddyBoss App Classic and Next Gen downloaded offline Vimeo videos not playing while streaming still works, after the videos were transferred to another Vimeo account",
+"type": "app"
+},
+"159/159127-2": {
+"fix": "unconfirmed",
+"title": "BuddyBoss App build fails in App Center with \"Error downloading app resources from client server\" because a firewall or Cloudflare blocks the BuddyBossBot user agent from downloading the language file",
+"type": "app"
+},
+"159/159211": {
+"fix": "confirmed",
+"title": "BuddyBoss Platform ReadyLaunch, header navigation, hamburger menu and top-right profile icon missing on mobile for logged-in members on LearnDash course pages, forums, timeline and notifications",
+"type": "web"
+},
+"159/159211-2": {
+"fix": "confirmed",
+"title": "BuddyBoss Platform ReadyLaunch - custom fonts and colors not applied on course pages after enabling the ReadyLaunch course template, course background color ignored and default styles override custom styling",
+"type": "web"
+},
+"159/159218": {
+"fix": "unconfirmed",
+"title": "BuddyBoss App blog post in Activity Feed takes multiple taps to open or does not respond to taps on iOS and Android, worse after returning to the app or reopening it, possibly on pinned blog posts",
+"type": "app"
+},
+"159/159261": {
+"fix": "confirmed",
+"title": "BuddyBoss App iOS users report an error screen \"Unhandled JS Exception TypeError undefined is not a function\" in ActivitiesWidget on the latest app version, app works fine when tested by support",
+"type": "app"
+},
+"159/159261-2": {
+"fix": "unconfirmed",
+"title": "BuddyBoss App Android shows \"Critical Error\" message when commenting on a group activity post, still happens after reinstalling the app",
+"type": "app"
+},
+"159/159265": {
+"fix": "confirmed",
+"title": "BuddyBoss Platform PHP warnings shown at the top of frontend and backend screens after updating to Platform 3.5.0, Platform Pro 3.3.2 and Theme 2.22.0, \"Undefined array key 0\" in forums capabilities.php and Elementor \"Attempt to read property ID on null\"",
+"type": "web"
+},
+"159/159297": {
+"fix": "confirmed",
+"title": "BuddyBoss Platform registration activation email not received by new users, account cannot be activated after adding custom bot protection to the registration form",
+"type": "web"
+},
+"159/159361": {
+"fix": "confirmed",
+"title": "BuddyBoss Platform password change from member profile Settings page has no effect, user gets the password changed email but the old password still works, while the lost password reset on wp-login works fine",
+"type": "web"
+},
+"159/159405": {
+"fix": "unconfirmed",
+"title": "BuddyBoss App unable to connect to the BuddyBoss App Center from WordPress admin, cannot request a new app build because the App Center connection fails",
+"type": "app"
+},
+"159/159646": {
+"fix": "unconfirmed",
+"title": "BuddyBoss App Next Gen (Flutter) LearnDash Courses screen shows section headings for a second then \"Something went wrong - tap to retry\", single course also fails, while all LearnDash course API endpoints return HTTP 200 with valid data, App plugin 3.2.6 with LearnDash 4.25.6",
+"type": "app"
+},
+"159/159646-2": {
+"fix": "confirmed",
+"title": "BuddyBoss App plugin update to 3.2.6 migration fails with database error Duplicate column name 'app_product_id' and table wp_bbapp_background_process_logs is not created, plus PHP warnings in AccessControls.php on In-App Purchases product edit screen",
+"type": "app"
+},
+"159/159735": {
+"fix": "confirmed",
+"title": "BuddyBoss Theme Google Analytics tracking code not detected, Google says \"No Google Analytics was found on your website\" after pasting the snippet in Theme Options, fixed by clearing Cloudflare CDN cache",
+"type": "web"
+},
+"159/159846": {
+"fix": "unconfirmed",
+"title": "BuddyBoss App Next Gen image descriptions missing when swiping through activity photos on iOS, shown in some places (groups, main gallery) but not others, while the website shows them correctly",
+"type": "app"
+},
+"159/159846-2": {
+"fix": "unconfirmed",
+"title": "BuddyBoss App Next Gen left-right swipe between images does not work in the main media gallery, each photo must be closed to open the next, while swiping works in activity images",
+"type": "app"
+},
+"159/159940": {
+"fix": "unconfirmed",
+"title": "BuddyBoss Platform admin Inbox notification count stuck at 6 unread, dismissed or read notices go back to unread after page reload in the BuddyBoss Settings admin Inbox bell",
+"type": "web"
+},
+"159/159940-2": {
+"fix": "confirmed",
+"title": "BuddyBoss Platform and Platform Pro load buddypress.min.css, bp-zoom.min.css and other unused CSS and JavaScript on the homepage with a third-party theme, Zoom disabled but its files still load, slow mobile PageSpeed reduce unused CSS and render-blocking requests",
+"type": "web"
+}
+}

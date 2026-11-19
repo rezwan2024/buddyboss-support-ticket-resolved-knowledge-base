@@ -28,7 +28,7 @@ def parse_case(path, folder, name):
     m = NAME_RE.match(name)
     if not m:
         raise ValueError("bad file name")
-    if m.group(1)[:-2] != folder:
+    if m.group(1)[:-3] != folder:
         raise ValueError("wrong folder")
     with open(path, encoding="utf-8") as f:
         text = f.read()

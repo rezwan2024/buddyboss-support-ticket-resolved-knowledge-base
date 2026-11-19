@@ -1,7 +1,0 @@
-{
-"1593/159361": {
-"fix": "confirmed",
-"title": "BuddyBoss Platform password change from member profile Settings page has no effect, user gets the password changed email but the old password still works, while the lost password reset on wp-login works fine",
-"type": "web"
-}
-}

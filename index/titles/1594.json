@@ -1,7 +1,0 @@
-{
-"1594/159405": {
-"fix": "unconfirmed",
-"title": "BuddyBoss App unable to connect to the BuddyBoss App Center from WordPress admin, cannot request a new app build because the App Center connection fails",
-"type": "app"
-}
-}

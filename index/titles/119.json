@@ -1,5 +1,5 @@
 {
-"1195/119534": {
+"119/119534": {
 "fix": "unconfirmed",
 "title": "BuddyBoss App shows \"App Unavailable - Please contact the site administrator for more information\" after the app subscription renewal was paid, message does not clear on its own and keeps coming back after each late renewal",
 "type": "app"

@@ -1,5 +1,5 @@
 {
-"1538/153847": {
+"153/153847": {
 "fix": "unconfirmed",
 "title": "BuddyBoss Platform private message email notifications not sent when notification delay is enabled (5 or 15 minutes), emails work only when delay is disabled, recipient logged out",
 "type": "web"

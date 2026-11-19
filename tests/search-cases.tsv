@@ -1,5 +1,5 @@
 query	type	error	expect
-quiz finished in the mobile app sends the default learndash email without category scores	app		1584/158401
-new members never get the account activation email after signing up	web		1592/159297
-flutter app cannot slide between photos in the gallery	app		1598/159846-2
-photo captions not showing in the app activity feed but fine on website	app		1598/159846
+quiz finished in the mobile app sends the default learndash email without category scores	app		158/158401
+new members never get the account activation email after signing up	web		159/159297
+flutter app cannot slide between photos in the gallery	app		159/159846-2
+photo captions not showing in the app activity feed but fine on website	app		159/159846

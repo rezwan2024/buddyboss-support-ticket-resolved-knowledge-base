@@ -1,0 +1,32 @@
+{
+"157/157191": {
+"fix": "confirmed",
+"title": "BuddyBoss App Next Gen LearnDash quizzes show yellow highlight or underline on quiz answers in the app on iOS and Android, looks like a bug, cannot turn it off",
+"type": "app"
+},
+"157/157272": {
+"fix": "confirmed",
+"title": "BuddyBoss App push notifications never delivered on iOS and Android, push log shows SenderId mismatch and APNs device token errors after Firebase setup, app delivered by Done For You service",
+"type": "app"
+},
+"157/157272-2": {
+"fix": "confirmed",
+"title": "BuddyBoss App cannot generate new iOS and Android builds after changing Firebase configuration for push notifications",
+"type": "app"
+},
+"157/157605": {
+"fix": "confirmed",
+"title": "BuddyBoss Platform with WooCommerce and a third-party membership plugin shows double login and register forms, several sign up routes, login page shows a registration form, and new members are asked for an activation code or land on Membership Required screen",
+"type": "integration"
+},
+"157/157897": {
+"fix": "confirmed",
+"title": "BuddyBoss App Sign in with Apple social login not working, invalid client error, Apple asks for login when saving the Apple Login settings in BuddyBoss",
+"type": "app"
+},
+"157/157897-2": {
+"fix": "confirmed",
+"title": "BuddyBoss App iOS rejected by Apple App Review because Sign in with Apple and SSO buttons look transparent or invisible on the login screen when a Login Background image is set in Branding",
+"type": "app"
+}
+}

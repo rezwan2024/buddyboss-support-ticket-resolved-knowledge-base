@@ -1,5 +1,5 @@
 {
-"1514/151417": {
+"151/151417": {
 "fix": "confirmed",
 "title": "BuddyBoss App plugin 3.1.0 security issue - Firebase service account JSON, APNs p8 key, p12 push certificates, CSR private key and Android keystore stored in public wp-content/uploads/bbapp folder with no .htaccess or index.html access protection (csr and keystore folders listable when directory indexing is on)",
 "type": "app"

@@ -4,7 +4,7 @@ Short cases written from resolved BuddyBoss support tickets. Each case is genera
 
 ## Case format
 
-`cases/<ticket number without last two digits>/<ticket>.md`, with `-2`, `-3` for further issues in the same ticket.
+`cases/<ticket number without last three digits>/<ticket>.md`, so one folder covers 1,000 ticket numbers, with `-2`, `-3` for further issues in the same ticket.
 
 ```
 ---
@@ -25,7 +25,7 @@ The fix in one to three lines. Root cause: one line.
 What the customer said in their last reply, one short line.
 ```
 
-`fix: confirmed` means the Jira PROD fix was released, or the customer said it is solved, it worked, or thanked for the fix. Everything else is `fix: unconfirmed` and is a lead only. `index/unconfirmed.md` lists them for review.
+`fix: confirmed` means the Jira PROD fix was released, or the customer replied with positive words such as solved, worked or thanks. Everything else is `fix: unconfirmed` and is a lead only. `index/unconfirmed.md` lists them for review.
 
 ## Index
 
