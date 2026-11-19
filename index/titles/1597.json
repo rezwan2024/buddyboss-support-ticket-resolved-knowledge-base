@@ -1,7 +1,7 @@
 {
 "1597/159735": {
 "fix": "confirmed",
-"title": "BuddyBoss Theme Google Analytics tracking code not working, Google says \"No Google Analytics was found on your website\" after adding the code in Theme Options, fixed by clearing Cloudflare cache",
+"title": "BuddyBoss Theme Google Analytics tracking code not detected, Google says \"No Google Analytics was found on your website\" after pasting the snippet in Theme Options, fixed by clearing Cloudflare CDN cache",
 "type": "web"
 }
 }

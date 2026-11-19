@@ -19,7 +19,7 @@ INDEX = os.path.join(ROOT, "index")
 TYPES = ["app", "web", "addon", "integration", "account"]
 FIELDS = ["title", "type", "fix", "error", "keywords"]
 FIX = ["confirmed", "unconfirmed"]
-HEADINGS = ["## Debugging steps", "## Solution"]
+HEADINGS = ["## Debugging steps", "## Solution", "## Customer note"]
 NAME_RE = re.compile(r"^(\d{3,})(-\d+)?\.md$")
 
 
@@ -65,7 +65,7 @@ def parse_case(path, folder, name):
         elif not in_code and l.startswith("#"):
             headings.append(l.rstrip())
     if headings != HEADINGS:
-        raise ValueError("headings must be exactly Debugging steps, Solution")
+        raise ValueError("headings must be exactly Debugging steps, Solution, Customer note")
     return "%s/%s" % (folder, name[:-3]), header
 
 

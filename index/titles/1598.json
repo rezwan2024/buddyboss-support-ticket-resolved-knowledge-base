@@ -1,12 +1,12 @@
 {
 "1598/159846": {
 "fix": "unconfirmed",
-"title": "BuddyBoss App Next Gen image descriptions missing when swiping through activity images, shown in groups or gallery but not in activity, website shows them correctly, clearing phone caches does not help",
+"title": "BuddyBoss App Next Gen image descriptions missing when swiping through activity photos on iOS, shown in some places (groups, main gallery) but not others, while the website shows them correctly",
 "type": "app"
 },
 "1598/159846-2": {
 "fix": "unconfirmed",
-"title": "BuddyBoss App Next Gen left-right swipe does not work in the main photo gallery, must close each image and open the next, swiping works in activity images, iOS",
+"title": "BuddyBoss App Next Gen left-right swipe between images does not work in the main media gallery, each photo must be closed to open the next, while swiping works in activity images",
 "type": "app"
 }
 }

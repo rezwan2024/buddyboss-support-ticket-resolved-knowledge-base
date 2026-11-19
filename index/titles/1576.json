@@ -1,7 +1,7 @@
 {
 "1576/157605": {
-"fix": "unconfirmed",
-"title": "BuddyBoss Platform with WooCommerce and User Registration and Membership plugin shows duplicate login and register forms, several sign up routes, activation code asked after registration, Membership Required screen, free and paid plans not on one registration page",
+"fix": "confirmed",
+"title": "BuddyBoss Platform with WooCommerce and a third-party membership plugin shows double login and register forms, several sign up routes, login page shows a registration form, and new members are asked for an activation code or land on Membership Required screen",
 "type": "integration"
 }
 }

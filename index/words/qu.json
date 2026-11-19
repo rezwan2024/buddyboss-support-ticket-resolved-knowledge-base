@@ -4,9 +4,12 @@
 ],
 "quiz": [
 "1571/157191:app",
-"1584/158401:app"
+"1584/158401:integration"
 ],
 "quizcomplete": [
-"1584/158401:app"
+"1584/158401:integration"
+],
+"quizze": [
+"1571/157191:app"
 ]
 }

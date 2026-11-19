@@ -20,9 +20,12 @@ keywords: comma separated
 
 ## Solution
 The fix in one to three lines. Root cause: one line.
+
+## Customer note
+What the customer said in their last reply, one short line.
 ```
 
-`fix: confirmed` means the ticket showed the fix worked: the customer confirmed it, the agent verified it, or it was a released fix for a confirmed bug. Everything else is `fix: unconfirmed` and is a lead only. `index/unconfirmed.md` lists them for review.
+`fix: confirmed` means the Jira PROD fix was released, or the customer said it is solved, it worked, or thanked for the fix. Everything else is `fix: unconfirmed` and is a lead only. `index/unconfirmed.md` lists them for review.
 
 ## Index
 

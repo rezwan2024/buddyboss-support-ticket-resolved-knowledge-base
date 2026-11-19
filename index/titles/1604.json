@@ -1,12 +1,12 @@
 {
 "1604/160485": {
 "fix": "unconfirmed",
-"title": "BuddyBoss App Events Calendar map view, tapping a map pin moves the map but the events list below does not change or filter to that location",
+"title": "BuddyBoss App Events Calendar map view, tapping a map pin moves the map but the events list on the page does not change or filter to that location",
 "type": "app"
 },
 "1604/160486": {
 "fix": "unconfirmed",
-"title": "BuddyBoss App event details card missing event website link that shows on the web event page with BuddyBoss Theme (The Events Calendar events in app)",
+"title": "BuddyBoss App event details card does not show the event website link that the BuddyBoss Theme shows on the web event page",
 "type": "app"
 }
 }

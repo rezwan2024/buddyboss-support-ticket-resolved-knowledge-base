@@ -1,7 +1,7 @@
 {
 "1607/160724": {
 "fix": "unconfirmed",
-"title": "BuddyBoss support receives automated \"Visitor requested a human\" ticket from a site's third-party live chat tool, not a real support request",
+"title": "BuddyBoss support ticket \"Visitor requested a human\" is an automated alert from a third-party live chat tool on the customer site, not a BuddyBoss issue, because the support email was added as a chat notification recipient",
 "type": "web"
 }
 }

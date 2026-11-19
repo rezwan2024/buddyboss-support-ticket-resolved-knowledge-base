@@ -1,12 +1,12 @@
 {
 "1599/159940": {
-"fix": "confirmed",
-"title": "BuddyBoss Platform and Platform Pro load CSS and JavaScript on the WordPress home page with a third-party theme, buddypress.min.css, bp-zoom.min.css and MemberPress or Tutor LMS styles flagged as unused CSS and render-blocking in the mobile PageSpeed test, even with Zoom disabled",
+"fix": "unconfirmed",
+"title": "BuddyBoss Platform admin Inbox notification count stuck at 6 unread, dismissed or read notices go back to unread after page reload in the BuddyBoss Settings admin Inbox bell",
 "type": "web"
 },
 "1599/159940-2": {
-"fix": "unconfirmed",
-"title": "BuddyBoss Platform admin Inbox notifications count stuck at 6 unread in WordPress admin, dismissed or read notices drop to 0 then come back as unread after reload",
+"fix": "confirmed",
+"title": "BuddyBoss Platform and Platform Pro load buddypress.min.css, bp-zoom.min.css and other unused CSS and JavaScript on the homepage with a third-party theme, Zoom disabled but its files still load, slow mobile PageSpeed reduce unused CSS and render-blocking requests",
 "type": "web"
 }
 }

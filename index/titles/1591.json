@@ -1,17 +1,17 @@
 {
 "1591/159119": {
 "fix": "unconfirmed",
-"title": "BuddyBoss App menu \"Always open in external browser\" checkbox not saved, unchecked again after Save Menu, link still opens inside the app",
+"title": "BuddyBoss App menu item \"Always open in external browser\" checkbox not saved, unchecks after Save Menu and link still opens inside the app (More menu, caching and security plugins active)",
 "type": "app"
 },
 "1591/159127": {
-"fix": "unconfirmed",
-"title": "BuddyBoss App (Classic and Next Gen) offline downloaded Vimeo videos not playing while streaming still works, after Vimeo videos were transferred to another Vimeo account",
+"fix": "confirmed",
+"title": "BuddyBoss App Classic and Next Gen downloaded offline Vimeo videos not playing while streaming still works, after the videos were transferred to another Vimeo account",
 "type": "app"
 },
 "1591/159127-2": {
 "fix": "unconfirmed",
-"title": "BuddyBoss App build fails in App Center with \"Error downloading app resources from client server\", language file download blocked by Cloudflare or server security",
+"title": "BuddyBoss App build fails in App Center with \"Error downloading app resources from client server\" because a firewall or Cloudflare blocks the BuddyBossBot user agent from downloading the language file",
 "type": "app"
 }
 }

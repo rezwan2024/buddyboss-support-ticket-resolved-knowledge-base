@@ -1,7 +1,7 @@
 {
 "1584/158401": {
 "fix": "confirmed",
-"title": "BuddyBoss App LearnDash quiz completed in the app sends default email \"LearnDash Quiz: One user completed a quiz\" without $categories category scores, ignores custom Quiz Email Settings admin notification subject and message (web completion works)",
-"type": "app"
+"title": "BuddyBoss App LearnDash quiz completed in the app sends default \"LearnDash Quiz: One user completed a quiz\" email without $categories category scores, ignores custom Quiz Email Settings admin notification subject and message that work on web",
+"type": "integration"
 }
 }

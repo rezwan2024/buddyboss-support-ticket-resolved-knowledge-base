@@ -1,12 +1,12 @@
 {
 "1578/157897": {
 "fix": "confirmed",
-"title": "BuddyBoss App Sign in with Apple login not working after configuring Services ID, Team ID, Key ID and private key, invalid client error, then Apple asks to log in when saving settings",
+"title": "BuddyBoss App Sign in with Apple social login not working, invalid client error, Apple asks for login when saving the Apple Login settings in BuddyBoss",
 "type": "app"
 },
 "1578/157897-2": {
-"fix": "unconfirmed",
-"title": "BuddyBoss App iOS rejected by Apple App Store review for Sign in with Apple, login screen background image makes Apple and other SSO login buttons transparent or invisible",
+"fix": "confirmed",
+"title": "BuddyBoss App iOS rejected by Apple App Review because Sign in with Apple and SSO buttons look transparent or invisible on the login screen when a Login Background image is set in Branding",
 "type": "app"
 }
 }

@@ -1,7 +1,7 @@
 {
 "1409/140965": {
 "fix": "confirmed",
-"title": "BuddyBoss Platform Documents - document owner clicks Move (Déplacer) in the document 3-dot menu but the move dialog popup does not appear, so the file cannot be moved to another folder",
+"title": "BuddyBoss Platform Documents - document owner clicks Move in the document three-dot menu but the move dialog (folder picker popup) never opens, cannot move file to another folder, no console error",
 "type": "web"
 }
 }

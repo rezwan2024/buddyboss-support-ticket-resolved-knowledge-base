@@ -2,25 +2,23 @@
 "@undefined": [
 "1566/156685"
 ],
-"apns device token error": [
-"1572/157272"
-],
 "app unavailable - please contact the site administrator for more information": [
 "1195/119534"
 ],
 "critical error": [
 "1592/159261-2"
 ],
-"duplicate column name 'app_product_id'": [
+"duplicate column name 'app_product_id'; attempt to read property \"id\" on null in include/menus/accesscontrols.php": [
 "1596/159646-2"
 ],
 "error downloading app resources from client server": [
 "1591/159127-2"
 ],
-"invalid_client": [
+"invalid client": [
 "1578/157897"
 ],
 "ld_mark_as_incomplete": [
+"1544/154490",
 "1544/154490-2"
 ],
 "learndash quiz: one user completed a quiz": [
@@ -32,13 +30,13 @@
 "no google analytics was found on your website. please follow the snippet installation instructions and try again.": [
 "1597/159735"
 ],
-"reduce unused css, buddypress.min.css 100% unused; render-blocking requests": [
-"1599/159940"
+"reduce unused css; render-blocking requests": [
+"1599/159940-2"
 ],
-"senderid mismatch": [
-"1572/157272-2"
+"senderid mismatch; apns device token error": [
+"1572/157272"
 ],
-"something went wrong — tap to retry; buddybossapp\\restcdn::rewrite_url(): argument #1 ($asset) must be passed by reference, value given (include/restcdn.php line 297)": [
+"something went wrong - tap to retry": [
 "1596/159646"
 ],
 "typeerror: undefined is not a function (titletrim, cellrenderer, applist)": [
