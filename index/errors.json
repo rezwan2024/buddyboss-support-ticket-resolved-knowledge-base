@@ -5,6 +5,9 @@
 "apns device token error": [
 "1572/157272"
 ],
+"app unavailable - please contact the site administrator for more information": [
+"1195/119534"
+],
 "critical error": [
 "1592/159261-2"
 ],
@@ -28,6 +31,9 @@
 ],
 "no google analytics was found on your website. please follow the snippet installation instructions and try again.": [
 "1597/159735"
+],
+"reduce unused css, buddypress.min.css 100% unused; render-blocking requests": [
+"1599/159940"
 ],
 "senderid mismatch": [
 "1572/157272-2"

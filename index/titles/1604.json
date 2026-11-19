@@ -1,0 +1,10 @@
+{
+"1604/160485": {
+"title": "BuddyBoss App Events Calendar map view, tapping a map pin moves the map but the events list below does not change or filter to that location",
+"type": "app"
+},
+"1604/160486": {
+"title": "BuddyBoss App event details card missing event website link that shows on the web event page with BuddyBoss Theme (The Events Calendar events in app)",
+"type": "app"
+}
+}

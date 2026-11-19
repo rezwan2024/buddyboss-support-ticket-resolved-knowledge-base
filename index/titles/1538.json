@@ -1,0 +1,6 @@
+{
+"1538/153847": {
+"title": "BuddyBoss Platform delayed private message email notifications not being sent when a notification delay (5 or 15 minutes) is enabled, emails arrive immediately only when the delay is disabled, recipient logged out",
+"type": "web"
+}
+}
