@@ -27,7 +27,7 @@ URL_RE = re.compile(r"(?i)\b(?:https?://|www\.)([^\s/'\"<>)\]]+)")
 DOMAIN_RE = re.compile(r"(?i)(?<![\w@/.-])((?:[a-z0-9-]+\.)+(?:%s))(?![\w-])" % TLDS)
 IP_RE = re.compile(r"(?<![\d.])(\d{1,3})\.(\d{1,3})\.(\d{1,3})\.(\d{1,3})(?![\d.])")
 CRED_RE = re.compile(
-    r"(?i)\b(password|passwd|pwd|user\s*name|username|login|s?ftp|ssh|api[\s_-]?key|secret|token|license[\s_-]?key)"
+    r"(?i)\b(password|passwd|passcode|pwd|pw|creds?|user\s*name|username|login|s?ftp|ssh|api[\s_-]?key|secret|token|license[\s_-]?key)"
     r"\s*[:=]\s*[\"']?[^\s\"']{3,}"
     r"|\b(password|passwd|pwd)\s+is\s+[\"']?[^\s\"']{3,}"
 )
