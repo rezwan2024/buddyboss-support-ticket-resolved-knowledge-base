@@ -4,6 +4,11 @@
 "title": "BuddyBoss App blog slider missing and some blog posts show \"An unknown error occurred\" or \"Blog post not found\" in the app while they work on the website, caused by Elementor CSS printed before the REST API JSON",
 "type": "integration"
 },
+"160/160471": {
+"fix": "unconfirmed",
+"title": "BuddyBoss Platform Polls - cannot create a poll in an activity post from the website or the BuddyBoss App, tried several times with different options",
+"type": "web"
+},
 "160/160479": {
 "fix": "confirmed",
 "title": "BuddyBoss App (Classic and Next Gen) multilingual setup, Polylang translated pages not showing per language in the app, is WPML required, does Loco Translate carry over to app translations",
@@ -28,6 +33,26 @@
 "fix": "unconfirmed",
 "title": "BuddyBoss App event details card does not show the event website link that the BuddyBoss Theme shows on the web event page",
 "type": "app"
+},
+"160/160492": {
+"fix": "unconfirmed",
+"title": "BuddyBoss Platform News Feed post composer defaults to All Members, how to change the default posting destination to a group or make selecting a group mandatory when creating an activity post",
+"type": "web"
+},
+"160/160495": {
+"fix": "confirmed",
+"title": "BuddyBoss Platform with Tutor LMS course overview page shows an old or deleted demo course card when opened directly, start learning button does nothing on desktop and errors on mobile, correct courses appear only after choosing a filter such as newest courses (Tutor LMS 4.1.1 course shortcode with course_filter on)",
+"type": "integration"
+},
+"160/160516": {
+"fix": "unconfirmed",
+"title": "BuddyBoss Platform fatal error email \"Your Site is Experiencing a Technical Issue\" on admin-ajax.php, failed to open class-bp-admin.php in bp-core/classes, even though the latest Platform version is installed",
+"type": "web"
+},
+"160/160525": {
+"fix": "unconfirmed",
+"title": "BuddyBoss Platform where to turn off or disable Telemetry data, no Telemetry option in BuddyBoss settings although WordPress Data Privacy mentions it, Platform 3.6.0 with Platform Pro",
+"type": "web"
 },
 "160/160545": {
 "fix": "confirmed",
