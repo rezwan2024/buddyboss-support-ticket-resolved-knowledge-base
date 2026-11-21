@@ -1,4 +1,14 @@
 {
+"158/158179": {
+"fix": "unconfirmed",
+"title": "BuddyBoss App plugin update compatibility question - minimum App plugin version to request a build, does App plugin 3.2.4 need a minimum Platform and Platform Pro version, which app build meets Apple iOS 26 SDK requirement, written upgrade steps without site access",
+"type": "app"
+},
+"158/158179-2": {
+"fix": "unconfirmed",
+"title": "BuddyBoss App signup not loading in the app - recurring 403 Forbidden on GET /wp-json/buddyboss-app/v1/signup/form for logged-out users, server WAF and ModSecurity logs show no block",
+"type": "app"
+},
 "158/158221": {
 "fix": "unconfirmed",
 "title": "BuddyBoss App Next Gen where is the documentation to create custom app pages, custom screens and interfaces, docs and App Codex seem to cover only the old Classic React Native app, custom landing screen by user type",
@@ -43,6 +53,11 @@
 "fix": "unconfirmed",
 "title": "BuddyBoss Platform ReadyLaunch activity comment box does not close when clicking Cancel on a group activity post, form stays visible with no console errors, Platform 3.4.4",
 "type": "web"
+},
+"158/158391": {
+"fix": "unconfirmed",
+"title": "BuddyBoss App Sign in with Apple asks for first and last name again after Apple sign in, account created with the Apple ID name instead of the entered name, App Store review rejection Guideline 4 - Design",
+"type": "app"
 },
 "158/158401": {
 "fix": "confirmed",

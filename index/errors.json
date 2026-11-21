@@ -15,6 +15,7 @@
 "161/161966"
 ],
 "403 forbidden on get /wp-json/buddyboss-app/v1/signup/form": [
+"158/158179-2",
 "158/158862"
 ],
 "404": [
@@ -173,6 +174,9 @@
 ],
 "guideline 4 - design": [
 "156/156484"
+],
+"guideline 4 - design: users are required to provide their name and/or email address after using sign in with apple even though that information is already provided by the authentication services framework.": [
+"158/158391"
 ],
 "http 200 with 0 byte body on /wp-json/buddyboss/v1/members": [
 "156/156337-2"
@@ -364,6 +368,9 @@
 "token generation failed: private key format is not valid!": [
 "159/159018"
 ],
+"type error": [
+"149/149253-2"
+],
 "typeerror: undefined is not a function (titletrim, cellrenderer, applist)": [
 "156/156848"
 ],
@@ -436,6 +443,9 @@
 "warning: undefined array key 0 in wp-content/plugins/buddyboss-platform/bp-forums/forums/capabilities.php on line 125; warning: attempt to read property \"id\" on null in wp-content/plugins/elementor/core/base/document.php on line 356": [
 "159/159265"
 ],
+"we were unable to complete this build request for the following reason(s): unknown error. / magick: improper image header splash-logo.png": [
+"149/149253"
+],
 "we were unable to complete this build upload request for the following reason(s): error # unknown error": [
 "157/157632"
 ],
@@ -447,6 +457,9 @@
 ],
 "you are unauthorized to view this page.": [
 "160/160806"
+],
+"you currently have no builds in progress": [
+"157/157882"
 ],
 "you have no pending digest notifications to preview — interact with the community and try again, or check the digest templates under emails.": [
 "158/158764"

@@ -4,6 +4,16 @@
 "title": "BuddyBoss Platform Documents - Move Documents does not work inside a folder on the user profile Documents tab, console error \"Uncaught TypeError: Cannot read properties of undefined (reading 'find')\" at openDocumentMove",
 "type": "web"
 },
+"149/149253": {
+"fix": "confirmed",
+"title": "BuddyBoss App Next Gen Android build fails with \"Unknown error\" while Classic builds work, log says splash logo improper image header, site behind Cloudflare",
+"type": "app"
+},
+"149/149253-2": {
+"fix": "confirmed",
+"title": "BuddyBoss App existing published app stopped working with a type error after a recent BuddyBoss plugin update",
+"type": "app"
+},
 "149/149642": {
 "fix": "confirmed",
 "title": "BuddyBoss Platform Profile Completion widget says profile photo not uploaded after avatars and cover photos are offloaded with Offload Media, photo still shows everywhere else",

@@ -59,6 +59,16 @@
 "title": "BuddyBoss App Next Gen LearnDash quizzes show yellow highlight or underline on quiz answers in the app on iOS and Android, looks like a bug, cannot turn it off",
 "type": "app"
 },
+"157/157192": {
+"fix": "confirmed",
+"title": "BuddyBoss App 3.0 Next Gen custom app branding not applying, course status labels on the Courses screen show default colors after upgrading BuddyBoss",
+"type": "app"
+},
+"157/157192-2": {
+"fix": "unconfirmed",
+"title": "BuddyBoss App 3.0 Next Gen how to hide the number of enrolled students on LearnDash courses in the course carousel on the app Home page",
+"type": "app"
+},
 "157/157227": {
 "fix": "unconfirmed",
 "title": "BuddyBoss App likes on images or videos in group post comments are not registered when liked from the opened full media view, like works only from the thumbnail in the comment",
@@ -288,6 +298,16 @@
 "fix": "unconfirmed",
 "title": "BuddyBoss Platform social login (Google and Apple sign in) suddenly gone from the site, settings show a crown icon and \"Start\" upgrade prompt and the option cannot be reactivated, after an update moved social login into the BuddyBoss Addon plugin",
 "type": "addon"
+},
+"157/157882": {
+"fix": "confirmed",
+"title": "BuddyBoss App production build request does nothing, Send Build Request returns to Build page showing \"you currently have no builds in progress\" because site firewall or region restriction blocks App Center server requests",
+"type": "app"
+},
+"157/157882-2": {
+"fix": "confirmed",
+"title": "BuddyBoss App new build shows a new version of the app, what is App Next Gen compared to Classic after updating the BuddyBoss App plugin",
+"type": "app"
 },
 "157/157897": {
 "fix": "confirmed",

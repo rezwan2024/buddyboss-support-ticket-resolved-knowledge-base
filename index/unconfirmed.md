@@ -69,6 +69,7 @@ To confirm one, change its header line to fix: confirmed and push.
 - 157/157147-4 BuddyBoss App show blog posts from a separate external WordPress site in the app, no RSS block or similar option found in app builder
 - 157/157169-2 BuddyBoss Platform group Members tab says no members found although the group has members, after fixing a critical error
 - 157/157169-3 BuddyBoss Platform group activity feed shows everything from the News Feed and posts from other groups instead of only that group's posts
+- 157/157192-2 BuddyBoss App 3.0 Next Gen how to hide the number of enrolled students on LearnDash courses in the course carousel on the app Home page
 - 157/157227 BuddyBoss App likes on images or videos in group post comments are not registered when liked from the opened full media view, like works only from the thumbnail in the comment
 - 157/157232 BuddyBoss Platform members cannot see other members' newsfeed posts and admin pinned posts are not visible to everyone in the activity feed, while group posts should stay visible only to group members
 - 157/157232-2 BuddyBoss Platform with GamiPress shows a critical error on the GamiPress settings page and GamiPress points and rank activity floods the newsfeed, caused by BuddyBoss Gamification and GamiPress both active
@@ -100,12 +101,15 @@ To confirm one, change its header line to fix: confirmed and push.
 - 157/157824 BuddyBoss Platform social login (Google and Apple sign in) suddenly gone, settings show a crown (king) icon and Start upgrade prompt, cannot reactivate, after update moved social login into the separate BuddyBoss Addon plugin
 - 157/157825 BuddyBoss Platform social login (Google and Apple sign in) suddenly gone from the site, settings show a crown icon and "Start" upgrade prompt and the option cannot be reactivated, after an update moved social login into the BuddyBoss Addon plugin
 - 157/157971 BuddyBoss App PDF file only shows a preview with no option to download, open or fill it out inside a LifterLMS lesson or course, while download works from the activity feed
+- 158/158179 BuddyBoss App plugin update compatibility question - minimum App plugin version to request a build, does App plugin 3.2.4 need a minimum Platform and Platform Pro version, which app build meets Apple iOS 26 SDK requirement, written upgrade steps without site access
+- 158/158179-2 BuddyBoss App signup not loading in the app - recurring 403 Forbidden on GET /wp-json/buddyboss-app/v1/signup/form for logged-out users, server WAF and ModSecurity logs show no block
 - 158/158221 BuddyBoss App Next Gen where is the documentation to create custom app pages, custom screens and interfaces, docs and App Codex seem to cover only the old Classic React Native app, custom landing screen by user type
 - 158/158221-2 BuddyBoss Platform 3.0 custom group meta fields added by other plugins disappeared, not showing on the new group admin screens after update to 3.0 dashboard, customizations broke
 - 158/158345 BuddyBoss Platform and Platform Pro slow site with 1,400+ database queries on simple static pages, 7 to 20 second page loads and slow login, cart page slow, much faster when BuddyBoss is deactivated
 - 158/158364-2 BuddyBoss Platform login page does not show on mobile after installing Wordfence and a plugin that changes the admin login URL, only loads when the full custom login address is typed
 - 158/158387 BuddyBoss Platform ReadyLaunch group (community) name runs shortcodes in the group header instead of showing the text, privacy bug report where shortcode output from another plugin shows private form data, Platform 3.4.4
 - 158/158387-2 BuddyBoss Platform ReadyLaunch activity comment box does not close when clicking Cancel on a group activity post, form stays visible with no console errors, Platform 3.4.4
+- 158/158391 BuddyBoss App Sign in with Apple asks for first and last name again after Apple sign in, account created with the Apple ID name instead of the entered name, App Store review rejection Guideline 4 - Design
 - 158/158553-2 BuddyBoss App iOS build is not uploading to the App Store after the app license status and Android build were fixed
 - 158/158561 BuddyBoss Platform video upload fails on activity feed for 72 MB and 82 MB files even though Settings Media Video max size is set to 1024 MB, server PHP upload limit lower than file size
 - 158/158561-2 BuddyBoss Platform photo uploads from mobile devices fail intermittently on activity feed, sometimes work and sometimes do not, server PHP upload and memory limits
