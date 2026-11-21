@@ -2,6 +2,12 @@
 "vendor": [
 "160/160753:web"
 ],
+"verification": [
+"159/159964:integration"
+],
+"verify": [
+"159/159018:app"
+],
 "version": [
 "159/159261:app",
 "159/159261-2:app",

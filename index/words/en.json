@@ -14,5 +14,8 @@
 "endpoint": [
 "159/159646:app",
 "160/160410:integration"
+],
+"entering": [
+"159/159964:integration"
 ]
 }

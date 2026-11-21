@@ -2,7 +2,13 @@
 "auth": [
 "157/157272:app"
 ],
+"authenticate": [
+"159/159964:integration"
+],
 "automated": [
 "160/160724:web"
+],
+"automatic": [
+"160/160867:web"
 ]
 }

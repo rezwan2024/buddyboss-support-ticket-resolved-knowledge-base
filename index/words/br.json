@@ -2,8 +2,15 @@
 "branding": [
 "157/157897-2:app"
 ],
+"break": [
+"159/159964:integration"
+],
+"breaking": [
+"160/160543:web"
+],
 "broken": [
-"159/159397:web"
+"159/159397:web",
+"160/160543:web"
 ],
 "browser": [
 "156/156780:app",

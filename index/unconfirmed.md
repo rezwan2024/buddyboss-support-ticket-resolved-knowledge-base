@@ -24,11 +24,17 @@ To confirm one, change its header line to fix: confirmed and push.
 - 159/159846 BuddyBoss App Next Gen image descriptions missing when swiping through activity photos on iOS, shown in some places (groups, main gallery) but not others, while the website shows them correctly
 - 159/159846-2 BuddyBoss App Next Gen left-right swipe between images does not work in the main media gallery, each photo must be closed to open the next, while swiping works in activity images
 - 159/159940 BuddyBoss Platform admin Inbox notification count stuck at 6 unread, dismissed or read notices go back to unread after page reload in the BuddyBoss Settings admin Inbox bell
+- 159/159964 BuddyBoss Platform reCAPTCHA v3 on login breaks Wordfence 2FA, the Log In button does nothing or shows "Verification failed, please try again." after entering the six-digit 2FA code
+- 159/159964-2 BuddyBoss Platform reCAPTCHA settings page missing from admin, bb-settings&tab=recaptcha shows "Feature not found" but the stored reCAPTCHA settings are still active on login, registration and lost password
+- 160/160389 BuddyBoss Platform license activation fails on staging site with "License activation failed: The requested action could not be performed due to validation errors. The license does not have any available production activations remaining" while the license page still shows activations available
+- 160/160389-2 BuddyBoss account checkout shows "Invalid URL: Please go to your Account area and try again" when applying account credit to buy more licenses
 - 160/160471 BuddyBoss Platform Polls - cannot create a poll in an activity post from the website or the BuddyBoss App, tried several times with different options
 - 160/160485 BuddyBoss App Events Calendar map view, tapping a map pin moves the map but the events list on the page does not change or filter to that location
 - 160/160486 BuddyBoss App event details card does not show the event website link that the BuddyBoss Theme shows on the web event page
 - 160/160492 BuddyBoss Platform News Feed post composer defaults to All Members, how to change the default posting destination to a group or make selecting a group mandatory when creating an activity post
 - 160/160516 BuddyBoss Platform fatal error email "Your Site is Experiencing a Technical Issue" on admin-ajax.php, failed to open class-bp-admin.php in bp-core/classes, even though the latest Platform version is installed
 - 160/160525 BuddyBoss Platform where to turn off or disable Telemetry data, no Telemetry option in BuddyBoss settings although WordPress Data Privacy mentions it, Platform 3.6.0 with Platform Pro
+- 160/160543 BuddyBoss Theme Activity Feed long URL or unbroken text does not wrap on mobile and overflows past the right edge of the post card, breaking the mobile layout (long link in the activity post title)
 - 160/160724 BuddyBoss support ticket "Visitor requested a human" is an automated alert from a third-party live chat tool on the customer site, not a BuddyBoss issue, because the support email was added as a chat notification recipient
 - 160/160753 BuddyBoss Platform how to add a per-member store on the profile where members upload their own products, with points, store balance, product requests from friends and activity feed sharing, similar to the Documents tab folders (feature question)
+- 160/160867 BuddyBoss Platform plugin cannot be updated from WordPress, update notice says license does not allow the update even though the license is active in the BuddyBoss account dashboard

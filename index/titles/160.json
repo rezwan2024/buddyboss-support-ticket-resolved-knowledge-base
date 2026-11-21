@@ -1,4 +1,14 @@
 {
+"160/160389": {
+"fix": "unconfirmed",
+"title": "BuddyBoss Platform license activation fails on staging site with \"License activation failed: The requested action could not be performed due to validation errors. The license does not have any available production activations remaining\" while the license page still shows activations available",
+"type": "account"
+},
+"160/160389-2": {
+"fix": "unconfirmed",
+"title": "BuddyBoss account checkout shows \"Invalid URL: Please go to your Account area and try again\" when applying account credit to buy more licenses",
+"type": "account"
+},
 "160/160410": {
 "fix": "confirmed",
 "title": "BuddyBoss App blog slider missing and some blog posts show \"An unknown error occurred\" or \"Blog post not found\" in the app while they work on the website, caused by Elementor CSS printed before the REST API JSON",
@@ -54,6 +64,11 @@
 "title": "BuddyBoss Platform where to turn off or disable Telemetry data, no Telemetry option in BuddyBoss settings although WordPress Data Privacy mentions it, Platform 3.6.0 with Platform Pro",
 "type": "web"
 },
+"160/160543": {
+"fix": "unconfirmed",
+"title": "BuddyBoss Theme Activity Feed long URL or unbroken text does not wrap on mobile and overflows past the right edge of the post card, breaking the mobile layout (long link in the activity post title)",
+"type": "web"
+},
 "160/160545": {
 "fix": "confirmed",
 "title": "BuddyBoss Platform password reset link always shows invalid link error after clicking the reset email, with Private Network enabled, plugin deactivation does not help",
@@ -82,6 +97,11 @@
 "160/160861": {
 "fix": "confirmed",
 "title": "BuddyBoss Platform Pro activity post freezes after clicking Post when visibility is \"My profile\" or \"All members\", console error \"Cannot read properties of null (reading 'id')\" in post feature image script, regular members only, Public and group posts work, fixed in Platform Pro 3.3.3",
+"type": "web"
+},
+"160/160867": {
+"fix": "unconfirmed",
+"title": "BuddyBoss Platform plugin cannot be updated from WordPress, update notice says license does not allow the update even though the license is active in the BuddyBoss account dashboard",
 "type": "web"
 }
 }

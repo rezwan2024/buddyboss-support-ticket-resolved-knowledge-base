@@ -18,11 +18,17 @@
 "159/159127-2",
 "159/159199"
 ],
+"feature not found": [
+"159/159964-2"
+],
 "invalid client": [
 "157/157897"
 ],
 "invalid link (invalidkey) on password reset": [
 "160/160545"
+],
+"invalid url: please go to your account area and try again.": [
+"160/160389-2"
 ],
 "ld_mark_as_incomplete": [
 "154/154490",
@@ -30,6 +36,9 @@
 ],
 "learndash quiz: one user completed a quiz": [
 "158/158401"
+],
+"license activation failed: the requested action could not be performed due to validation errors. the license does not have any available production activations remaining.": [
+"160/160389"
 ],
 "membership required": [
 "157/157605"
@@ -49,6 +58,9 @@
 "something went wrong - tap to retry": [
 "159/159646"
 ],
+"token generation failed: private key format is not valid!": [
+"159/159018"
+],
 "typeerror: undefined is not a function (titletrim, cellrenderer, applist)": [
 "156/156848"
 ],
@@ -60,6 +72,9 @@
 ],
 "unhandled js exception: typeerror: undefined is not a function (activitieswidget)": [
 "159/159261"
+],
+"verification failed, please try again.": [
+"159/159964"
 ],
 "visitor requested a human": [
 "160/160724"
