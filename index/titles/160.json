@@ -104,14 +104,29 @@
 "title": "BuddyBoss support ticket \"Visitor requested a human\" is an automated alert from a third-party live chat tool on the customer site, not a BuddyBoss issue, because the support email was added as a chat notification recipient",
 "type": "web"
 },
+"160/160725": {
+"fix": "confirmed",
+"title": "BuddyBoss App iOS Sign in with Apple button not showing on app login screen even though Apple Social Login is enabled in WordPress, app stuck in Apple App Store review",
+"type": "app"
+},
 "160/160735": {
 "fix": "confirmed",
 "title": "BuddyBoss Member Blogging Preview button text hard to read, plum or purple text on same color background in the member blog editor, low contrast, button not following Theme Options button text color",
 "type": "addon"
 },
+"160/160741": {
+"fix": "confirmed",
+"title": "BuddyBoss App release builds come out as version 0.0.1 (build 2), lower than the live store apps, so App Store and Google Play will reject them when replacing an existing app; how to set Build Version and Build Version Code",
+"type": "app"
+},
 "160/160753": {
 "fix": "unconfirmed",
 "title": "BuddyBoss Platform how to add a per-member store on the profile where members upload their own products, with points, store balance, product requests from friends and activity feed sharing, similar to the Documents tab folders (feature question)",
+"type": "web"
+},
+"160/160754": {
+"fix": "unconfirmed",
+"title": "BuddyBoss Platform how to add a custom \"Store\" tab to member profiles with the same design as the Documents section, showing products, member balance, search, and likes and comments linked to activity posts",
 "type": "web"
 },
 "160/160793": {
