@@ -40,6 +40,8 @@ To confirm one, change its header line to fix: confirmed and push.
 - 156/156764-3 BuddyBoss App build screen "App Core Version" is not the BuddyBoss App plugin version, feature request to show the app plugin version on the build screen
 - 156/156780 BuddyBoss App Next Gen custom group tab created with PHP (bp_register_group_extension) or a tab creator plugin fails to load, loops back to the start or kicks the user out of the app, works fine in the Classic app and in the browser, iOS and Android
 - 156/156907-3 BuddyBoss App iOS Test build fails with an error after the test provisioning profile was fixed, while moving to the new app version
+- 156/156914 BuddyBoss App iOS live App Store app asks users to upgrade to Pro membership on every LearnDash course even though courses are set Free/Public and access is All Logged-In Members, in-app purchase Show on Course(s) set to All Courses with Paid Memberships Pro
+- 156/156914-3 BuddyBoss App iOS Sign Up registration page takes about two minutes to load after tapping Sign Up in the live App Store app and TestFlight build, users think the app is frozen
 - 156/156966 BuddyBoss Theme and Platform Pro license shows invalid or incomplete even though the new BuddyBoss Web license is active with 1 of 1 sites activated, caused by very old Platform, Pro and Theme versions
 - 157/157043 BuddyBoss Gamification and Member Blogging add-ons stay in English after translating strings to German with Loco Translate, translations have no effect
 - 157/157122 BuddyBoss Platform 3.0.4 Network Search Members report of SQL injection, search term not escaped in the Members search query, reachable by logged-out visitors through the search AJAX endpoint
@@ -52,12 +54,15 @@ To confirm one, change its header line to fix: confirmed and push.
 - 157/157295 BuddyBoss Theme alert says the theme is no longer available although the BuddyBoss Web license is active and valid
 - 157/157296 BuddyBoss Courses can a course be a single page built with Elementor without lessons, topics or quizzes, or does every course need lessons
 - 157/157296-2 BuddyBoss Courses migrator tool does not bring the Elementor page design, migrated courses show only simple course text even after enabling Elementor for the course post type
+- 157/157297 BuddyBoss Platform with GamiPress and WPML, Achievements and Ranks items in the user profile menu stay in English after translating the strings, while Timeline, Connections and Invites translate fine
 - 157/157305-2 BuddyBoss Platform "Run Migration" admin notice shows in WordPress dashboard, customer asks how to handle it, seen while fixing license activation
 - 157/157477 Tutor LMS 4.0 Tutor Dashboard broken, layout not working with BuddyBoss Theme active after updating Tutor LMS to 4.0, works with Twenty Twenty-Five
 - 157/157583-2 BuddyBoss Theme membership product page shows the logged-in private area navigation (left and top menu) while other public pages do not
 - 157/157622 BuddyBoss Membership 1.14.1 fatal error when clicking a paid membership plan or Change Plan, checkout page breaks at the Stripe payment step, Class "BbmsStripeTaxIntegration" not found, paid Stripe checkouts cannot complete
 - 157/157686 BuddyBoss App cannot generate a Test Build from the App Secondary website, the build requires all BuddyBoss plugins to be up to date on the primary website first, so App updates cannot be tested on staging before production
 - 157/157817 BuddyBoss security researcher asks for the correct contact channel for a responsible disclosure report and whether there is a bug bounty, reward or recognition before sharing details
+- 157/157818 BuddyBoss general - researcher asks where to send a responsible disclosure security report and whether a bug bounty or reward program exists, before sharing any details
+- 157/157824 BuddyBoss Platform social login (Google and Apple sign in) suddenly gone, settings show a crown (king) icon and Start upgrade prompt, cannot reactivate, after update moved social login into the separate BuddyBoss Addon plugin
 - 157/157971 BuddyBoss App PDF file only shows a preview with no option to download, open or fill it out inside a LifterLMS lesson or course, while download works from the activity feed
 - 159/159060 BuddyBoss App iOS build keeps failing at the signing step, provisioning profile expired and Apple Distribution certificate could not be found, Apple Developer account not connected in iOS settings
 - 159/159060-2 BuddyBoss App Android Google Play Console warning about Play Billing Library 8.0.0 or later still shows after releasing a new build, blocking app release on the Play Store

@@ -134,6 +134,11 @@
 "title": "BuddyBoss Platform and Theme site still displayed in English although WordPress site language was set to German before installing BuddyBoss - translation not applied",
 "type": "web"
 },
+"156/156646": {
+"fix": "confirmed",
+"title": "BuddyBoss Web DFY site security scanner report flags Elementor Pro 4.2.1 file upload, LiteSpeed Cache 7.8.1 and AutomatorWP 5.8.4 as critical, customer asks if they can update or remove DFY-installed plugins without breaking the build",
+"type": "integration"
+},
 "156/156685": {
 "fix": "confirmed",
 "title": "BuddyBoss Platform user blocking does not work, blocked user still sees and comments on the blocking user's posts in the activity feed and groups, mention shows \"@undefined\", fixed in Platform 3.5.1",
@@ -202,6 +207,21 @@
 "156/156907-3": {
 "fix": "unconfirmed",
 "title": "BuddyBoss App iOS Test build fails with an error after the test provisioning profile was fixed, while moving to the new app version",
+"type": "app"
+},
+"156/156914": {
+"fix": "unconfirmed",
+"title": "BuddyBoss App iOS live App Store app asks users to upgrade to Pro membership on every LearnDash course even though courses are set Free/Public and access is All Logged-In Members, in-app purchase Show on Course(s) set to All Courses with Paid Memberships Pro",
+"type": "integration"
+},
+"156/156914-2": {
+"fix": "confirmed",
+"title": "BuddyBoss App iOS Pro in-app purchase product not showing during registration in the live App Store app even though \"Show this product during Registration\" is enabled and the iOS product is synced and Approved in App Store Connect",
+"type": "app"
+},
+"156/156914-3": {
+"fix": "unconfirmed",
+"title": "BuddyBoss App iOS Sign Up registration page takes about two minutes to load after tapping Sign Up in the live App Store app and TestFlight build, users think the app is frozen",
 "type": "app"
 },
 "156/156965": {

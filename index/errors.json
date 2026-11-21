@@ -83,6 +83,9 @@
 "critical uncaught error: class \"wpseo_frontend\" not found in /wp-content/plugins/buddyboss-sharing/includes/modules/plugin_compatibility.php:134": [
 "161/161582"
 ],
+"critical: elementor pro 4.2.1 - arbitrary file upload": [
+"156/156646"
+],
 "delivery failed: invalid apns credential": [
 "159/159290"
 ],
@@ -267,6 +270,9 @@
 ],
 "something went wrong - tap to retry": [
 "159/159646"
+],
+"start prompt with a crown icon on the social login settings": [
+"157/157824"
 ],
 "the snippet was saved, but remains inactive due to this error: cannot redeclare function": [
 "161/161520"
