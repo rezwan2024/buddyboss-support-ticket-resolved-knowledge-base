@@ -129,10 +129,30 @@
 "title": "BuddyBoss App iOS cannot generate new provisioning profiles for App Store publishing, Generate New Profiles fails with \"There are no current certificates on this team matching the provided certificate IDs compatible with iOS_APP_STORE profiles\" and \"Relationship is required but was not provided: certificates\"",
 "type": "app"
 },
+"162/162612": {
+"fix": "unconfirmed",
+"title": "BuddyBoss App Next Gen hide or remove featured image on single post screen only, image still shows for a moment after removing it with rest_prepare_post filter, keep images in Posts block and Related Posts",
+"type": "app"
+},
 "162/162614": {
 "fix": "confirmed",
 "title": "BuddyBoss App Next Gen Tutor LMS Pro courses block shows unsupported block message and clicking a Tutor LMS course in the image carousel opens an error screen",
 "type": "app"
+},
+"162/162661": {
+"fix": "confirmed",
+"title": "BuddyBoss Platform forums discussion tags not loading, no tag suggestions appear when typing in the tags field on new discussion, conflict with Events Manager plugin",
+"type": "integration"
+},
+"162/162661-2": {
+"fix": "confirmed",
+"title": "BuddyBoss Theme forums clicking a discussion tag just refreshes the page instead of opening the tag page with the list of discussions, tag name with extra text in parentheses",
+"type": "web"
+},
+"162/162730": {
+"fix": "confirmed",
+"title": "BuddyBoss Platform Social Login dashboard notice \"BB Social Login detected that your Apple credentials have expired\" keeps showing in WP Admin, how to delete and regenerate Apple Sign-In credentials without affecting existing members",
+"type": "web"
 },
 "162/162731": {
 "fix": "confirmed",

@@ -44,6 +44,9 @@
 "app unavailable - please contact the site administrator for more information": [
 "119/119534"
 ],
+"bb social login detected that your apple credentials have expired. please delete the current credentials and generate new one!": [
+"162/162730"
+],
 "call to undefined function buddybossapp\\wp_get_current_user() in include/nativeapppage.php:1503 create_default_apppage(), via brand/backward/versions/2_4_00/dbupdate/legacyupdater.php:146 on_database_update()": [
 "161/161939"
 ],
@@ -95,6 +98,9 @@
 ],
 "google recaptcha token is missing.": [
 "160/160519"
+],
+"imunify360 marks buddyboss-theme/inc/theme/functions.php as malicious": [
+"163/163003"
 ],
 "incomplete advertising id declaration": [
 "162/162164"
@@ -157,6 +163,9 @@
 ],
 "php fatal error: uncaught error: class \"wpseo_frontend\" not found in /wp-content/plugins/buddyboss-sharing/includes/modules/plugin_compatibility.php:134": [
 "161/161146"
+],
+"php fatal error: uncaught error: class \"wpseo_frontend\" not found in buddyboss-sharing/includes/modules/plugin_compatibility.php line 134, buddyboss\\sharing\\modules\\plugin_compatibility->disable_yoast_seo()": [
+"161/161769"
 ],
 "php fatal error: uncaught error: class \"wpseo_frontend\" not found in buddyboss-sharing/includes/modules/plugin_compatibility.php:134": [
 "161/161072"

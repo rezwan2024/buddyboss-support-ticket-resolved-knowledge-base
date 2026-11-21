@@ -219,6 +219,11 @@
 "title": "BuddyBoss App Android published Google Play app shows \"Error loading. There was an error loading the data. Please try again\" on one user's Samsung Galaxy device on launch, reinstall does not help, works on other test devices",
 "type": "app"
 },
+"161/161769": {
+"fix": "confirmed",
+"title": "BuddyBoss Sharing add-on with Yoast SEO 28.7 - member profile, group and single activity pages return HTTP 500, PHP Fatal error Uncaught Error Class \"WPSEO_Frontend\" not found in Plugin_Compatibility.php after Yoast SEO update",
+"type": "addon"
+},
 "161/161806": {
 "fix": "unconfirmed",
 "title": "BuddyBoss App signup form shows a required Nickname field even though the display name is set to First Name only, how to remove Nickname from app registration",

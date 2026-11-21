@@ -1,0 +1,7 @@
+{
+"163/163003": {
+"fix": "confirmed",
+"title": "BuddyBoss Theme - Imunify360 scanner flags /wp-content/themes/buddyboss-theme/inc/theme/functions.php as malicious or malware, false positive detection on the theme update check code",
+"type": "web"
+}
+}
