@@ -1,0 +1,22 @@
+{
+"161/161071": {
+"fix": "confirmed",
+"title": "BuddyBoss App Android App Links setup, Google Play Console interface has changed and customer cannot find the App signing section to copy the SHA-256 certificate fingerprint, guide screenshots no longer match the new Play Console layout",
+"type": "app"
+},
+"161/161071-2": {
+"fix": "confirmed",
+"title": "BuddyBoss Theme with Tutor LMS 4.x, course pages and lesson pages crash after updating Tutor LMS to the newest version, known compatibility issue",
+"type": "integration"
+},
+"161/161129": {
+"fix": "confirmed",
+"title": "BuddyBoss Platform remove or disable email verification activation email on registration so new members are activated and logged in right away without confirming their email",
+"type": "web"
+},
+"161/161129-2": {
+"fix": "confirmed",
+"title": "BuddyBoss Platform let users sign up and log in with Google instead of email verification, or with a one-time SMS text code, faster registration options",
+"type": "web"
+}
+}

@@ -21,6 +21,9 @@
 "feature not found": [
 "159/159964-2"
 ],
+"forbidden.required_agreements_missing_or_expired - a required agreement is missing or has expired": [
+"160/160666"
+],
 "invalid client": [
 "157/157897"
 ],
@@ -75,6 +78,9 @@
 ],
 "verification failed, please try again.": [
 "159/159964"
+],
+"verification failed. please try again.": [
+"144/144667"
 ],
 "visitor requested a human": [
 "160/160724"

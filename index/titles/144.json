@@ -1,0 +1,12 @@
+{
+"144/144667": {
+"fix": "confirmed",
+"title": "BuddyBoss Offload Media with Cloudflare active, registration fails on Create Account with \"Verification failed. Please try again.\" from BuddyBoss reCAPTCHA v3, works when Offload Media is disabled",
+"type": "addon"
+},
+"144/144667-2": {
+"fix": "confirmed",
+"title": "BuddyBoss Offload Media with Cloudflare Images, images broken on registration page and other pages after enabling offloading, image URL ends in /public",
+"type": "addon"
+}
+}

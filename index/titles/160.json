@@ -74,10 +74,20 @@
 "title": "BuddyBoss Platform password reset link always shows invalid link error after clicking the reset email, with Private Network enabled, plugin deactivation does not help",
 "type": "web"
 },
+"160/160666": {
+"fix": "unconfirmed",
+"title": "BuddyBoss App iOS Apple Developer Account disconnected after site update and Connect Account fails with error \"A required agreement is missing or has expired\" FORBIDDEN.REQUIRED_AGREEMENTS_MISSING_OR_EXPIRED, new App Store Connect API key gives same error",
+"type": "app"
+},
 "160/160724": {
 "fix": "unconfirmed",
 "title": "BuddyBoss support ticket \"Visitor requested a human\" is an automated alert from a third-party live chat tool on the customer site, not a BuddyBoss issue, because the support email was added as a chat notification recipient",
 "type": "web"
+},
+"160/160735": {
+"fix": "confirmed",
+"title": "BuddyBoss Member Blogging Preview button text hard to read, plum or purple text on same color background in the member blog editor, low contrast, button not following Theme Options button text color",
+"type": "addon"
 },
 "160/160753": {
 "fix": "unconfirmed",
