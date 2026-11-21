@@ -39,6 +39,11 @@
 "title": "BuddyBoss Platform Pro shows BuddyBoss Addons as Not Installed, cannot enable pinned posts, polls, social login, emotion reactions after installing Platform Pro",
 "type": "web"
 },
+"156/156353": {
+"fix": "unconfirmed",
+"title": "BuddyBoss Platform newer emojis show as blank image or broken emoji in private messages, activity posts and comments, emoji URL hardcoded to old emoji version 14.0.0 returns 301 redirect",
+"type": "web"
+},
 "156/156472": {
 "fix": "confirmed",
 "title": "BuddyBoss Platform manual activation of a pending signup from WordPress admin fails with \"1 account was not activated. Google reCAPTCHA token is missing.\" when reCAPTCHA v3 is enabled for Account Activation, after updating BuddyBoss plugins (users registering through the Next Gen App land in Pending Signups)",
@@ -67,6 +72,21 @@
 "156/156848": {
 "fix": "confirmed",
 "title": "BuddyBoss App critical error crash when opening comments on a group activity post that has a reaction on a comment, TypeError undefined is not a function in titleTrim, iOS and Android, Platform 3.4.3 and App plugin 3.2.3",
+"type": "app"
+},
+"156/156965": {
+"fix": "confirmed",
+"title": "BuddyBoss Platform forum discussion notifications stopped sending for group forums and only send intermittently for standalone forums, emails not sent because wp-cron.php was blocked by a Cloudflare firewall rule",
+"type": "web"
+},
+"156/156968": {
+"fix": "confirmed",
+"title": "BuddyBoss App groups, forums and blogs show \"No route was found matching the URL and request method\" in the app while the website works fine, after site renaming and plugin updates",
+"type": "app"
+},
+"156/156970": {
+"fix": "confirmed",
+"title": "BuddyBoss App cannot log in after logging out, app shows a WordPress REST API error and groups, forums and blogs go blank while the website works, after site renaming and updates",
 "type": "app"
 }
 }

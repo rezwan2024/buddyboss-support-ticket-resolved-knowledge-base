@@ -5,6 +5,9 @@
 "1 account was not activated. google recaptcha token is missing.": [
 "156/156472"
 ],
+"301": [
+"156/156353"
+],
 "403 bp_rest_authorization_required \"sorry, you cannot view the group.\"; bp_rest_hidden_profile_field; bp_rest_invalid_item; bp_rest_group_member_cannot_promote; bp_rest_user_cannot_delete": [
 "161/161966"
 ],
@@ -105,6 +108,9 @@
 "free lifetime": [
 "161/161806-3"
 ],
+"google recaptcha token is missing": [
+"155/155419"
+],
 "google recaptcha token is missing.": [
 "160/160519"
 ],
@@ -154,6 +160,9 @@
 "no known fix": [
 "160/160699",
 "160/160702"
+],
+"no route was found matching the url and request method": [
+"156/156968"
 ],
 "not found (404) on buddyboss photo urls": [
 "162/162222"
@@ -292,6 +301,9 @@
 ],
 "wordpress database error table '...wp_bb_drm_events' doesn't exist for query select * from wp_bb_drm_events where event = 'addon-buddyboss-addons' order by id desc limit 1": [
 "161/161906"
+],
+"wordpress rest api error": [
+"156/156970"
 ],
 "you are unauthorized to view this page.": [
 "160/160806"

@@ -3,5 +3,10 @@
 "fix": "confirmed",
 "title": "BuddyBoss Platform WP Fusion integration settings missing from BuddyBoss Groups after updating to the latest Platform and Theme, group-based tagging and automations settings no longer shown",
 "type": "integration"
+},
+"155/155419": {
+"fix": "confirmed",
+"title": "BuddyBoss Platform 3.4.2 reCAPTCHA v3 shows \"Google reCAPTCHA token is missing\" on MemberPress login forms (login page and mepr-login-form shortcode) while wp-login.php works, MemberPress BuddyBoss integration",
+"type": "integration"
 }
 }
