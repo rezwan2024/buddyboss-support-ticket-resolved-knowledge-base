@@ -30,7 +30,11 @@
 "autofill": [
 "156/156205:web"
 ],
+"automate": [
+"156/156907:app"
+],
 "automated": [
+"156/156907:app",
 "160/160724:web"
 ],
 "automatic": [

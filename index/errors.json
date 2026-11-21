@@ -117,6 +117,9 @@
 "google recaptcha token is missing.": [
 "160/160519"
 ],
+"guideline 4 - design": [
+"156/156484"
+],
 "http 200 with 0 byte body on /wp-json/buddyboss/v1/members": [
 "156/156337-2"
 ],
@@ -128,6 +131,9 @@
 ],
 "invalid client": [
 "157/157897"
+],
+"invalid deviceclass for profile type": [
+"156/156907-2"
 ],
 "invalid link (invalidkey) on password reset": [
 "160/160545"
@@ -153,6 +159,9 @@
 ],
 "license activation failed: wp_error : 1. (licensing server) short-circuited during vendor outage (jrms-caseproof-timeout.php)": [
 "156/156720"
+],
+"license invalid or incomplete": [
+"156/156966"
 ],
 "license required for buddyboss features - buddyboss addons": [
 "156/156236"
@@ -262,6 +271,9 @@
 "161/161132",
 "161/161715",
 "162/162263"
+],
+"there was a problem parsing the package": [
+"156/156764"
 ],
 "this screen type is not yet implemented (object type: courses_all)": [
 "153/153146-3"

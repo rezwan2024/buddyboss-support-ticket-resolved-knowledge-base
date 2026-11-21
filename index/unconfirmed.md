@@ -35,7 +35,11 @@ To confirm one, change its header line to fix: confirmed and push.
 - 156/156641-3 BuddyBoss Platform and Theme site still displayed in English although WordPress site language was set to German before installing BuddyBoss - translation not applied
 - 156/156712 BuddyBoss App Android - customer received Google Play email "Register your apps and signing keys to meet Android developer verification requirements" before the deadline and asks if BuddyBoss must do it
 - 156/156757 BuddyBoss Platform profile fields showing twice on the frontend profile edit page in all tabs after disabling the Repeater option on the profile field set, new fields also duplicated
+- 156/156764-2 BuddyBoss App profile in the header problem still persists after a new app build
+- 156/156764-3 BuddyBoss App build screen "App Core Version" is not the BuddyBoss App plugin version, feature request to show the app plugin version on the build screen
 - 156/156780 BuddyBoss App Next Gen custom group tab created with PHP (bp_register_group_extension) or a tab creator plugin fails to load, loops back to the start or kicks the user out of the app, works fine in the Classic app and in the browser, iOS and Android
+- 156/156907-3 BuddyBoss App iOS Test build fails with an error after the test provisioning profile was fixed, while moving to the new app version
+- 156/156966 BuddyBoss Theme and Platform Pro license shows invalid or incomplete even though the new BuddyBoss Web license is active with 1 of 1 sites activated, caused by very old Platform, Pro and Theme versions
 - 157/157227 BuddyBoss App likes on images or videos in group post comments are not registered when liked from the opened full media view, like works only from the thumbnail in the comment
 - 157/157477 Tutor LMS 4.0 Tutor Dashboard broken, layout not working with BuddyBoss Theme active after updating Tutor LMS to 4.0, works with Twenty Twenty-Five
 - 157/157622 BuddyBoss Membership 1.14.1 fatal error when clicking a paid membership plan or Change Plan, checkout page breaks at the Stripe payment step, Class "BbmsStripeTaxIntegration" not found, paid Stripe checkouts cannot complete

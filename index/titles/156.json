@@ -104,6 +104,16 @@
 "title": "BuddyBoss App Next Gen iOS Test App (Ad Hoc) asks testers to enable Developer Mode before it opens, how to share test builds with non-technical clients through TestFlight without Xcode",
 "type": "app"
 },
+"156/156484": {
+"fix": "confirmed",
+"title": "BuddyBoss App iOS build rejected by Apple App Store review under Guideline 4 Design because Sign in with Apple asks the user again for name, email or username before account creation, with BuddyBoss registration enabled on App core 3.1.7",
+"type": "app"
+},
+"156/156634": {
+"fix": "confirmed",
+"title": "BuddyBoss App Next Gen custom development, how to navigate from a custom React Native paywall button to the native IAP ProductsScreen or ProductSingleScreen with NavigationApi, DeeplinksApi or InappProductsApi",
+"type": "app"
+},
 "156/156641": {
 "fix": "unconfirmed",
 "title": "BuddyBoss Theme (not ReadyLaunch) profile header cannot be fully customized - cover/banner, profile picture and short profile info area layout limited even with custom CSS, JavaScript or code snippets",
@@ -139,6 +149,21 @@
 "title": "BuddyBoss Platform profile fields showing twice on the frontend profile edit page in all tabs after disabling the Repeater option on the profile field set, new fields also duplicated",
 "type": "web"
 },
+"156/156764": {
+"fix": "confirmed",
+"title": "BuddyBoss App Android test build fails to install with \"there was a problem parsing the package\" after scanning the QR code, download starts very slow",
+"type": "app"
+},
+"156/156764-2": {
+"fix": "unconfirmed",
+"title": "BuddyBoss App profile in the header problem still persists after a new app build",
+"type": "app"
+},
+"156/156764-3": {
+"fix": "unconfirmed",
+"title": "BuddyBoss App build screen \"App Core Version\" is not the BuddyBoss App plugin version, feature request to show the app plugin version on the build screen",
+"type": "app"
+},
 "156/156780": {
 "fix": "unconfirmed",
 "title": "BuddyBoss App Next Gen custom group tab created with PHP (bp_register_group_extension) or a tab creator plugin fails to load, loops back to the start or kicks the user out of the app, works fine in the Classic app and in the browser, iOS and Android",
@@ -159,10 +184,30 @@
 "title": "BuddyBoss App critical error crash when opening comments on a group activity post that has a reaction on a comment, TypeError undefined is not a function in titleTrim, iOS and Android, Platform 3.4.3 and App plugin 3.2.3",
 "type": "app"
 },
+"156/156907": {
+"fix": "confirmed",
+"title": "BuddyBoss App how to migrate or upgrade from the old app version to the new app version with LearnDash, self-submitting to App Store and Google Play, and can app store submission be automated",
+"type": "app"
+},
+"156/156907-2": {
+"fix": "confirmed",
+"title": "BuddyBoss App iOS Test App provisioning profile fails to generate with Apple error \"Invalid deviceClass for profile type\" while the Release profile works, cannot upload a new iOS test build",
+"type": "app"
+},
+"156/156907-3": {
+"fix": "unconfirmed",
+"title": "BuddyBoss App iOS Test build fails with an error after the test provisioning profile was fixed, while moving to the new app version",
+"type": "app"
+},
 "156/156965": {
 "fix": "confirmed",
 "title": "BuddyBoss Platform forum discussion notifications stopped sending for group forums and only send intermittently for standalone forums, emails not sent because wp-cron.php was blocked by a Cloudflare firewall rule",
 "type": "web"
+},
+"156/156966": {
+"fix": "unconfirmed",
+"title": "BuddyBoss Theme and Platform Pro license shows invalid or incomplete even though the new BuddyBoss Web license is active with 1 of 1 sites activated, caused by very old Platform, Pro and Theme versions",
+"type": "account"
 },
 "156/156968": {
 "fix": "confirmed",
