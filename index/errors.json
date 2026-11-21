@@ -61,6 +61,10 @@
 "no google analytics was found on your website. please follow the snippet installation instructions and try again.": [
 "159/159735"
 ],
+"no known fix": [
+"160/160699",
+"160/160702"
+],
 "php fatal error: failed opening required bp-core/classes/class-bp-admin.php (e_error) on admin-ajax.php": [
 "160/160516"
 ],
