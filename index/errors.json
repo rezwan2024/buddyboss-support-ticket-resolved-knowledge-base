@@ -2,6 +2,9 @@
 "/bb-media-preview/ returns a readylaunch html page instead of the image": [
 "162/162011"
 ],
+"1 account was not activated. google recaptcha token is missing.": [
+"156/156472"
+],
 "403 bp_rest_authorization_required \"sorry, you cannot view the group.\"; bp_rest_hidden_profile_field; bp_rest_invalid_item; bp_rest_group_member_cannot_promote; bp_rest_user_cannot_delete": [
 "161/161966"
 ],
@@ -83,6 +86,9 @@
 ],
 "free lifetime": [
 "161/161806-3"
+],
+"google recaptcha token is missing.": [
+"160/160519"
 ],
 "incomplete advertising id declaration": [
 "162/162164"

@@ -79,6 +79,11 @@
 "title": "BuddyBoss Platform fatal error email \"Your Site is Experiencing a Technical Issue\" on admin-ajax.php, failed to open class-bp-admin.php in bp-core/classes, even though the latest Platform version is installed",
 "type": "web"
 },
+"160/160519": {
+"fix": "confirmed",
+"title": "BuddyBoss Platform reCAPTCHA v3 enabled for Reset Password blocks administrator password resets in wp-admin, \"Google reCAPTCHA token is missing\" on Send Reset Link and \"Password reset link sent to 0 users\" on Users list row or bulk action, since Platform 3.4.2",
+"type": "web"
+},
 "160/160525": {
 "fix": "unconfirmed",
 "title": "BuddyBoss Platform where to turn off or disable Telemetry data, no Telemetry option in BuddyBoss settings although WordPress Data Privacy mentions it, Platform 3.6.0 with Platform Pro",

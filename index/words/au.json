@@ -31,6 +31,9 @@
 "automatically": [
 "161/161963-2:web"
 ],
+"automation": [
+"155/155392:integration"
+],
 "automator": [
 "161/161986:integration"
 ]

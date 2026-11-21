@@ -1,0 +1,7 @@
+{
+"155/155392": {
+"fix": "confirmed",
+"title": "BuddyBoss Platform WP Fusion integration settings missing from BuddyBoss Groups after updating to the latest Platform and Theme, group-based tagging and automations settings no longer shown",
+"type": "integration"
+}
+}

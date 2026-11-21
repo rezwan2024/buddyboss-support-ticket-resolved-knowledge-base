@@ -29,6 +29,11 @@
 "title": "BuddyBoss Membership 1.14.1 fatal error when clicking a paid membership plan or Change Plan, checkout page breaks at the Stripe payment step, Class \"BbmsStripeTaxIntegration\" not found, paid Stripe checkouts cannot complete",
 "type": "addon"
 },
+"157/157686": {
+"fix": "unconfirmed",
+"title": "BuddyBoss App cannot generate a Test Build from the App Secondary website, the build requires all BuddyBoss plugins to be up to date on the primary website first, so App updates cannot be tested on staging before production",
+"type": "app"
+},
 "157/157897": {
 "fix": "confirmed",
 "title": "BuddyBoss App Sign in with Apple social login not working, invalid client error, Apple asks for login when saving the Apple Login settings in BuddyBoss",

@@ -13,6 +13,7 @@ To confirm one, change its header line to fix: confirmed and push.
 - 156/156780 BuddyBoss App Next Gen custom group tab created with PHP (bp_register_group_extension) or a tab creator plugin fails to load, loops back to the start or kicks the user out of the app, works fine in the Classic app and in the browser, iOS and Android
 - 157/157477 Tutor LMS 4.0 Tutor Dashboard broken, layout not working with BuddyBoss Theme active after updating Tutor LMS to 4.0, works with Twenty Twenty-Five
 - 157/157622 BuddyBoss Membership 1.14.1 fatal error when clicking a paid membership plan or Change Plan, checkout page breaks at the Stripe payment step, Class "BbmsStripeTaxIntegration" not found, paid Stripe checkouts cannot complete
+- 157/157686 BuddyBoss App cannot generate a Test Build from the App Secondary website, the build requires all BuddyBoss plugins to be up to date on the primary website first, so App updates cannot be tested on staging before production
 - 157/157971 BuddyBoss App PDF file only shows a preview with no option to download, open or fill it out inside a LifterLMS lesson or course, while download works from the activity feed
 - 159/159060 BuddyBoss App iOS build keeps failing at the signing step, provisioning profile expired and Apple Distribution certificate could not be found, Apple Developer account not connected in iOS settings
 - 159/159060-2 BuddyBoss App Android Google Play Console warning about Play Billing Library 8.0.0 or later still shows after releasing a new build, blocking app release on the Play Store

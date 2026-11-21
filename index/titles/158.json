@@ -9,6 +9,11 @@
 "title": "BuddyBoss Platform \"New message from\" notification emails show the wrong sender's avatar and profile link when several message emails are sent in one request, such as the messages digest cron; sender name is correct (Platform 3.4.4 / 3.5.0)",
 "type": "web"
 },
+"158/158777": {
+"fix": "confirmed",
+"title": "BuddyBoss Platform security scanner report flags stored cross-site scripting through the Group Name field on the group Manage > Details page (Nouveau and ReadyLaunch templates), versions 3.4.4 and earlier, fixed by updating Platform",
+"type": "web"
+},
 "158/158935": {
 "fix": "confirmed",
 "title": "BuddyBoss Offload Media to Cloudflare - BB Media image size variants (150x150, 300x400 thumbnails) still on server even with \"Remove media from server after uploading to Cloudflare\" enabled, caused by phone photos with rotation (EXIF) data",
