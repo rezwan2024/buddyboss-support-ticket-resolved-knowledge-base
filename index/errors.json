@@ -84,6 +84,9 @@
 "bp_rest_group_member_failed_to_join (http 500)": [
 "156/156267"
 ],
+"buddyboss launch/scale: activation required. your buddyboss launch/scale features will be disabled soon. activate your license now to avoid interruption.": [
+"158/158728"
+],
 "buddyboss platform is almost ready. you must update your permalink structure to something other than the default for it to work.": [
 "156/156798-2"
 ],
@@ -97,6 +100,7 @@
 "160/160967"
 ],
 "critical error": [
+"158/158764-2",
 "159/159261-2"
 ],
 "critical error on gamipress settings page": [
@@ -119,6 +123,9 @@
 ],
 "duplicate column name 'app_product_id'; attempt to read property \"id\" on null in include/menus/accesscontrols.php": [
 "159/159646-2"
+],
+"during a recent buddyboss web plus license status check an error was encountered. this issue could have been caused by a change in the license's status or the site may have been disabled from your account dashboard.": [
+"157/157242-2"
 ],
 "error downloading app resources from client server": [
 "159/159127-2",
@@ -362,6 +369,9 @@
 "uncaught error: array_map(): argument #2 ($array) must be of type array, null given in wp-content/plugins/helpgent/app/repositories/formrepository.php on line 1015": [
 "161/161062"
 ],
+"uncaught error: call to a member function bb_get_poll() on null in bp-activity/classes/class-bp-activity-notification.php:665": [
+"157/157242"
+],
 "uncaught error: call to undefined function buddybossapp\\wp_get_current_user()": [
 "161/161969"
 ],
@@ -427,5 +437,8 @@
 ],
 "you are unauthorized to view this page.": [
 "160/160806"
+],
+"you have no pending digest notifications to preview — interact with the community and try again, or check the digest templates under emails.": [
+"158/158764"
 ]
 }

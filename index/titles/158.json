@@ -109,6 +109,26 @@
 "title": "BuddyBoss Platform \"New message from\" notification emails show the wrong sender's avatar and profile link when several message emails are sent in one request, such as the messages digest cron; sender name is correct (Platform 3.4.4 / 3.5.0)",
 "type": "web"
 },
+"158/158728": {
+"fix": "unconfirmed",
+"title": "BuddyBoss Platform admin notice \"BuddyBoss Launch/Scale: Activation Required\" shows on every wp-admin page for a customer on the Start plan who did not buy Launch/Scale",
+"type": "account"
+},
+"158/158764": {
+"fix": "unconfirmed",
+"title": "BuddyBoss Platform Email Digest Send test digest and preview not working, notice \"You have no pending digest notifications to preview\" even after tagging or following own admin account",
+"type": "web"
+},
+"158/158764-2": {
+"fix": "unconfirmed",
+"title": "BuddyBoss Platform frontend Notification Settings page shows a critical error and will not load on PHP 8, cannot change email digest frequency",
+"type": "web"
+},
+"158/158764-3": {
+"fix": "unconfirmed",
+"title": "BuddyBoss Platform Email Digest set to Weekly but a separate email still arrives right away, and how to make weekly digest the default for all existing members",
+"type": "web"
+},
 "158/158767": {
 "fix": "unconfirmed",
 "title": "BuddyBoss Platform Email Digest - how to choose what goes into the notification digest email, Situation checkboxes allow only one selection and do not save when editing the email template",

@@ -79,6 +79,16 @@
 "title": "BuddyBoss Platform cannot find the setting to make pages public without login, settings appear to have changed, where to manage which pages logged-out visitors can view",
 "type": "web"
 },
+"157/157242": {
+"fix": "confirmed",
+"title": "BuddyBoss Platform 3.4.3 fatal error E_ERROR blank white page for one admin only, Uncaught Error Call to a member function bb_get_poll() on null in class-bp-activity-notification.php line 665, following post notification during heartbeat",
+"type": "web"
+},
+"157/157242-2": {
+"fix": "unconfirmed",
+"title": "BuddyBoss Web Plus license status check error notice \"an error was encountered, license status changed or site disabled from your account dashboard\" and Activate Your Licenses notice for BuddyBoss Addons while the license is active",
+"type": "account"
+},
 "157/157245": {
 "fix": "unconfirmed",
 "title": "BuddyBoss App iOS build keeps failing with only \"unknown error\" shown in the app dashboard, build log shows E016 / E017 signing certificate and provisioning profile error",

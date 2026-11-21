@@ -24,6 +24,16 @@
 "title": "BuddyBoss App license renewal price locked or protected, asking if the yearly app renewal rate stays the same and why BuddyBoss Web Plus is billed separately, is Web Plus required for the app",
 "type": "account"
 },
+"159/159067": {
+"fix": "confirmed",
+"title": "BuddyBoss App Next Gen Edit Profile shows profile field description or note twice (duplicated field descriptions) in the app",
+"type": "app"
+},
+"159/159067-2": {
+"fix": "confirmed",
+"title": "BuddyBoss App Next Gen Edit Profile select (dropdown) profile fields do not show the saved value, appear empty as if no selection was made",
+"type": "app"
+},
 "159/159119": {
 "fix": "unconfirmed",
 "title": "BuddyBoss App menu item \"Always open in external browser\" checkbox not saved, unchecks after Save Menu and link still opens inside the app (More menu, caching and security plugins active)",
@@ -38,6 +48,11 @@
 "fix": "unconfirmed",
 "title": "BuddyBoss App build fails in App Center with \"Error downloading app resources from client server\" because a firewall or Cloudflare blocks the BuddyBossBot user agent from downloading the language file",
 "type": "app"
+},
+"159/159175": {
+"fix": "confirmed",
+"title": "BuddyBoss Platform \"Activate a new account\" account activation email template missing from BuddyBoss Emails list after update, template not found in email settings",
+"type": "web"
 },
 "159/159199": {
 "fix": "confirmed",

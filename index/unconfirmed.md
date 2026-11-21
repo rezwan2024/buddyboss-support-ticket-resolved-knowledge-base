@@ -72,6 +72,7 @@ To confirm one, change its header line to fix: confirmed and push.
 - 157/157232 BuddyBoss Platform members cannot see other members' newsfeed posts and admin pinned posts are not visible to everyone in the activity feed, while group posts should stay visible only to group members
 - 157/157232-2 BuddyBoss Platform with GamiPress shows a critical error on the GamiPress settings page and GamiPress points and rank activity floods the newsfeed, caused by BuddyBoss Gamification and GamiPress both active
 - 157/157234 BuddyBoss Platform cannot find the setting to make pages public without login, settings appear to have changed, where to manage which pages logged-out visitors can view
+- 157/157242-2 BuddyBoss Web Plus license status check error notice "an error was encountered, license status changed or site disabled from your account dashboard" and Activate Your Licenses notice for BuddyBoss Addons while the license is active
 - 157/157245 BuddyBoss App iOS build keeps failing with only "unknown error" shown in the app dashboard, build log shows E016 / E017 signing certificate and provisioning profile error
 - 157/157293 BuddyBoss Platform Pro license activation failed with "The requested action could not be performed due to validation errors" while the license shows active in the BuddyBoss account, on a site that had worked for years
 - 157/157295 BuddyBoss Theme alert says the theme is no longer available although the BuddyBoss Web license is active and valid
@@ -113,6 +114,10 @@ To confirm one, change its header line to fix: confirmed and push.
 - 158/158633-2 BuddyBoss Platform intermittent 502 Bad Gateway errors on Ninja Forms admin pages, checked for a link to the BuddyBoss toolbar fatal error
 - 158/158643 BuddyBoss Platform forums - forum topic marked as hidden is still showing, still visible to admin, Hidden visibility setting not working for a topic
 - 158/158643-2 BuddyBoss Platform forums - how to export or back up a forum topic and its replies before deleting it
+- 158/158728 BuddyBoss Platform admin notice "BuddyBoss Launch/Scale: Activation Required" shows on every wp-admin page for a customer on the Start plan who did not buy Launch/Scale
+- 158/158764 BuddyBoss Platform Email Digest Send test digest and preview not working, notice "You have no pending digest notifications to preview" even after tagging or following own admin account
+- 158/158764-2 BuddyBoss Platform frontend Notification Settings page shows a critical error and will not load on PHP 8, cannot change email digest frequency
+- 158/158764-3 BuddyBoss Platform Email Digest set to Weekly but a separate email still arrives right away, and how to make weekly digest the default for all existing members
 - 158/158767 BuddyBoss Platform Email Digest - how to choose what goes into the notification digest email, Situation checkboxes allow only one selection and do not save when editing the email template
 - 158/158767-2 BuddyBoss Platform Email Digest - Send Test Digest sends an empty digest and the digest email template Preview shows a blank page, cannot preview or test the notification digest email
 - 158/158862 BuddyBoss App signup endpoint returns recurring 403 Forbidden for logged-out app users, GET /wp-json/buddyboss-app/v1/signup/form, registration form fails to load, server WAF and ModSecurity ruled out
