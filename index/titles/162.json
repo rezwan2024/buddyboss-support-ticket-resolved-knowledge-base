@@ -1,4 +1,9 @@
 {
+"162/162011": {
+"fix": "confirmed",
+"title": "BuddyBoss Platform ReadyLaunch member-uploaded images not displaying in forums and activity feed, /bb-media-preview/ URL returns a ReadyLaunch HTML page instead of the image, works with WordPress Theme site layout, caused by ReadyLaunch Blog page enabled",
+"type": "web"
+},
 "162/162018": {
 "fix": "unconfirmed",
 "title": "BuddyBoss Gamification add-on how to retroactively award points and badges for past member activity (posts, comments, group joins) done before Gamification was enabled, no built-in backfill tool",
@@ -9,10 +14,20 @@
 "title": "BuddyBoss Platform Members Directory search filters not updating results after pressing search (Last Name filter), results appear only after several page refreshes, caused by LiteSpeed Cache page caching",
 "type": "integration"
 },
+"162/162032": {
+"fix": "unconfirmed",
+"title": "BuddyBoss Theme site very slow for logged-in users, about 7 seconds per page on LearnDash course, lesson, quiz, WooCommerce, PMPro checkout and login pages, poor Core Web Vitals despite months of frontend optimization and Cloudflare, refund requested",
+"type": "web"
+},
 "162/162076": {
 "fix": "confirmed",
 "title": "BuddyBoss App Next Gen activation toggle missing in WordPress admin, cannot find option to enable or migrate existing published app to App Next Gen because BuddyBoss App plugin is outdated (version 2.10.0)",
 "type": "app"
+},
+"162/162159": {
+"fix": "confirmed",
+"title": "BuddyBoss Membership plugin members cannot select or buy a paid membership, Stripe checkout error, checkout page does not load the payment step after Profile > Membership > Change Plan > Select Plan, fixed in BuddyBoss Membership 1.14.3",
+"type": "addon"
 },
 "162/162164": {
 "fix": "confirmed",

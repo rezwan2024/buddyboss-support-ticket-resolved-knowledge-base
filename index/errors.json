@@ -1,4 +1,7 @@
 {
+"/bb-media-preview/ returns a readylaunch html page instead of the image": [
+"162/162011"
+],
 "403 bp_rest_authorization_required \"sorry, you cannot view the group.\"; bp_rest_hidden_profile_field; bp_rest_invalid_item; bp_rest_group_member_cannot_promote; bp_rest_user_cannot_delete": [
 "161/161966"
 ],
@@ -113,8 +116,14 @@
 "php fatal error: failed opening required bp-core/classes/class-bp-admin.php (e_error) on admin-ajax.php": [
 "160/160516"
 ],
+"php fatal error: uncaught error: call to undefined function bp_is_search_post_type_enable() in bp-templates/bp-nouveau/includes/search/functions.php:72": [
+"161/161537"
+],
 "php fatal error: uncaught error: call to undefined function buddybossapp\\wp_get_current_user() in wp-content/plugins/buddyboss-app/include/nativeapppage.php:1503": [
 "161/161930"
+],
+"php fatal error: uncaught error: class \"bbmsstripetaxintegration\" not found in /wp-content/plugins/buddybossmembership/app/models/bbmsorderquotebuilder.php:1128": [
+"161/161997"
 ],
 "php fatal error: uncaught error: class \"bbmsstripetaxintegration\" not found in wp-content/plugins/buddybossmembership/app/models/bbmsorderquotebuilder.php:1128 (called from basket_fingerprint())": [
 "161/161384"
@@ -142,6 +151,9 @@
 ],
 "sign in to confirm you're not a bot": [
 "160/160373-2"
+],
+"smw-inj-cloudav-php.bkdr.wptheme.inj-wptheme1-0": [
+"161/161537-2"
 ],
 "something went wrong - tap to retry": [
 "159/159646"

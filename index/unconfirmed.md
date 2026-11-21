@@ -74,6 +74,7 @@ To confirm one, change its header line to fix: confirmed and push.
 - 161/161393 BuddyBoss App Next Gen presale question, native livestreaming in iOS and Android app with Mux, Go Live button in activity composer, custom JavaScript not supported in Flutter app, feature request
 - 161/161443 BuddyBoss Theme forum topic labels in the Discussions list show colors that are not in Theme Options, how to change the forum name label color
 - 161/161509 BuddyBoss App Next Gen with Paid Memberships Pro (PMPro), is PMPro supported or do we need to switch to MemberPress or BuddyBoss Memberships, plus WooCommerce Subscriptions payments and memberships given by activation codes or invitations
+- 161/161537-2 BuddyBoss Theme 2.22.4 flagged as malware by hosting scanner Imunify, inc/theme/functions.php detected as theme injection, file identical to official release, false positive
 - 161/161541 BuddyBoss Platform and Theme - BuddyBoss Courses lesson buttons show blue instead of the site's green theme color, previous and complete and continue buttons ignore color settings, no course color settings found
 - 161/161546 BuddyBoss App iOS build failing in AppCenter while Android build succeeds, build stops within a few seconds on the build server and produces no app files, customer says all new builds are failing
 - 161/161546-2 BuddyBoss App in-app purchases not showing to iOS and Android users in the app even though the products are enabled in the app settings on the site
@@ -93,4 +94,6 @@ To confirm one, change its header line to fix: confirmed and push.
 - 161/161906 BuddyBoss Platform database error "Table wp_bb_drm_events doesn't exist" on admin_init from BB_DRM_Registry addon DRM check, table never created on MyISAM servers after update
 - 161/161919 BuddyBoss App PDF file such as a course certificate does not open full screen inside the app, view is cropped and unreadable, Open or download button does not save the file to the device on iOS and Android
 - 161/161973 BuddyBoss App Next Gen - option to switch to the Next Gen app missing on one site but available on another site with the same subscription, caused by an outdated BuddyBoss App plugin (2.x) whose update does not show in the dashboard
+- 161/161997 BuddyBoss Membership Stripe checkout shows "There has been a critical error on this website" and nobody can pay, PHP Fatal error Class "BbmsStripeTaxIntegration" not found in BbmsOrderQuoteBuilder.php on Membership 1.14.1 and 1.14.2 with Stripe Elements live mode
 - 162/162018 BuddyBoss Gamification add-on how to retroactively award points and badges for past member activity (posts, comments, group joins) done before Gamification was enabled, no built-in backfill tool
+- 162/162032 BuddyBoss Theme site very slow for logged-in users, about 7 seconds per page on LearnDash course, lesson, quiz, WooCommerce, PMPro checkout and login pages, poor Core Web Vitals despite months of frontend optimization and Cloudflare, refund requested

@@ -129,6 +129,16 @@
 "title": "BuddyBoss Platform and Theme change the Activity Feed post box placeholder text \"Share what's on your mind\" to custom text, and Code Snippets error \"Cannot redeclare function\" when the same snippet is also in functions.php",
 "type": "web"
 },
+"161/161537": {
+"fix": "confirmed",
+"title": "BuddyBoss Platform 3.6.1 fatal error Call to undefined function bp_is_search_post_type_enable() on login_header() screens, Kadence Security two-factor screen after WPO365 Microsoft 365 SSO login, Forums and Network Search active",
+"type": "integration"
+},
+"161/161537-2": {
+"fix": "unconfirmed",
+"title": "BuddyBoss Theme 2.22.4 flagged as malware by hosting scanner Imunify, inc/theme/functions.php detected as theme injection, file identical to official release, false positive",
+"type": "web"
+},
 "161/161541": {
 "fix": "unconfirmed",
 "title": "BuddyBoss Platform and Theme - BuddyBoss Courses lesson buttons show blue instead of the site's green theme color, previous and complete and continue buttons ignore color settings, no course color settings found",
@@ -298,5 +308,10 @@
 "fix": "confirmed",
 "title": "BuddyBoss Platform 3.6.2 front-end Account > Delete Account creates a replacement \"anonymized_\" user with the same Paid Memberships Pro level, sends the WordPress \"your email address has been changed\" notice and the user-deleted trigger does not fire, right after updating BuddyBoss plugins",
 "type": "integration"
+},
+"161/161997": {
+"fix": "unconfirmed",
+"title": "BuddyBoss Membership Stripe checkout shows \"There has been a critical error on this website\" and nobody can pay, PHP Fatal error Class \"BbmsStripeTaxIntegration\" not found in BbmsOrderQuoteBuilder.php on Membership 1.14.1 and 1.14.2 with Stripe Elements live mode",
+"type": "addon"
 }
 }
