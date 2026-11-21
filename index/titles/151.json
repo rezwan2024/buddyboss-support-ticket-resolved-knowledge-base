@@ -9,6 +9,11 @@
 "title": "BuddyBoss Theme with Tutor LMS 4.x broken layout, Tutor LMS pages and dashboard look broken after updating Tutor LMS from 3.9 to 4.0",
 "type": "integration"
 },
+"151/151417": {
+"fix": "confirmed",
+"title": "BuddyBoss App plugin 3.1.0 stores app signing and push credential files in the uploads bbapp folder without access protection (no .htaccess or index.html, folders listable when directory indexing is on), fixed in 3.2.7",
+"type": "app"
+},
 "151/151793": {
 "fix": "unconfirmed",
 "title": "BuddyBoss Platform moderation report description cut short in WordPress admin, cannot read the whole reporter message when viewing a reported member, text truncated with ellipsis in the view report modal",

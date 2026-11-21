@@ -214,6 +214,11 @@
 "title": "BuddyBoss BB Courses where to set quiz feedback for wrong answers and show question results to learners, customer looked in LearnDash settings instead",
 "type": "web"
 },
+"161/161755": {
+"fix": "unconfirmed",
+"title": "BuddyBoss support inbox receives a misdirected third-party marketing newsletter with no BuddyBoss question, closed as not a support request",
+"type": "web"
+},
 "161/161759": {
 "fix": "unconfirmed",
 "title": "BuddyBoss App Android published Google Play app shows \"Error loading. There was an error loading the data. Please try again\" on one user's Samsung Galaxy device on launch, reinstall does not help, works on other test devices",

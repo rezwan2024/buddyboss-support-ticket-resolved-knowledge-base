@@ -34,6 +34,11 @@
 "title": "BuddyBoss Membership plugin members cannot select or buy a paid membership, Stripe checkout error, checkout page does not load the payment step after Profile > Membership > Change Plan > Select Plan, fixed in BuddyBoss Membership 1.14.3",
 "type": "addon"
 },
+"162/162159-2": {
+"fix": "confirmed",
+"title": "BuddyBoss Web site with BuddyBoss Membership plugin, a private key file and database dump files were left unprotected in the public web folder and could be opened from the browser, found while patching the Membership plugin over SFTP",
+"type": "web"
+},
 "162/162164": {
 "fix": "confirmed",
 "title": "BuddyBoss App Next Gen Android build blocked in Google Play Console with \"Incomplete advertising ID declaration\" and Submit for review disabled even after setting Advertising ID to No, after moving from Classic to Next Gen",

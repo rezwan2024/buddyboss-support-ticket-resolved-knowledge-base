@@ -83,6 +83,7 @@ To confirm one, change its header line to fix: confirmed and push.
 - 161/161546-2 BuddyBoss App in-app purchases not showing to iOS and Android users in the app even though the products are enabled in the app settings on the site
 - 161/161594-2 BuddyBoss App cannot make any new builds, iOS build stops within the first seconds before compiling, build server workspace cleanup failure
 - 161/161670 BuddyBoss Platform fatal error on WordPress Plugins page, cannot activate or deactivate any plugin, Uncaught TypeError UpdateService::pluginAutoUpdate() Return value must be of type ?bool, string returned
+- 161/161755 BuddyBoss support inbox receives a misdirected third-party marketing newsletter with no BuddyBoss question, closed as not a support request
 - 161/161759 BuddyBoss App Android published Google Play app shows "Error loading. There was an error loading the data. Please try again" on one user's Samsung Galaxy device on launch, reinstall does not help, works on other test devices
 - 161/161806 BuddyBoss App signup form shows a required Nickname field even though the display name is set to First Name only, how to remove Nickname from app registration
 - 161/161806-2 BuddyBoss App turn off email verification on app signup so new members can log in right after registering without the account activation email

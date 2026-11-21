@@ -105,10 +105,14 @@
 "162/162805:web",
 "163/163003:web"
 ],
+"listable": [
+"151/151417:app"
+],
 "listed": [
 "162/162514:web"
 ],
 "listing": [
+"151/151417:app",
 "161/161062:integration"
 ],
 "litespeed": [
