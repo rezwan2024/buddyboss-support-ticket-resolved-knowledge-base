@@ -54,3 +54,5 @@ To confirm one, change its header line to fix: confirmed and push.
 - 161/161062-2 BuddyBoss Sharing add-on with Yoast SEO, clicking profile menu items from the profile avatar dropdown shows "There has been a critical error on this website"
 - 161/161062-3 BuddyBoss Theme homepage broken with large blank area below the header after BuddyBoss installation on a cloned or migrated Elementor site, homepage set to an empty Welcome page
 - 161/161119 BuddyBoss App presale question about custom development, incoming voice and video calls ringing when the app is closed or the phone is locked with Better Messages WebSocket, AdMob ads SDK cost, source code ownership and whether the app keeps working after the subscription ends
+- 161/161127 BuddyBoss Platform update fails with "Update failed: Download failed. A valid URL was not provided." after activating a new license key, update notice offers an older version than the installed 3.6.1
+- 161/161393 BuddyBoss App Next Gen presale question, native livestreaming in iOS and Android app with Mux, Go Live button in activity composer, custom JavaScript not supported in Flutter app, feature request

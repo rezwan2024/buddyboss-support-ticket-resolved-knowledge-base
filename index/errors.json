@@ -2,8 +2,14 @@
 "@undefined": [
 "156/156685"
 ],
+"an unknown error occurred": [
+"159/159593"
+],
 "an unknown error occurred / blog post not found": [
 "160/160410"
+],
+"app license has expired": [
+"161/161327"
 ],
 "app unavailable - please contact the site administrator for more information": [
 "119/119534"
@@ -87,6 +93,9 @@
 ],
 "unhandled js exception: typeerror: undefined is not a function (activitieswidget)": [
 "159/159261"
+],
+"update failed: download failed. a valid url was not provided.": [
+"161/161127"
 ],
 "upgrade plus": [
 "161/161109"

@@ -99,6 +99,11 @@
 "title": "BuddyBoss Platform View as member from WP Admin Users, browser back button shows error and admin seems logged out, black top bar and Switch back to Admin link missing in Firefox",
 "type": "web"
 },
+"159/159593": {
+"fix": "confirmed",
+"title": "BuddyBoss App Classic and Next Gen Home screen blocks (Courses, Activity, Discussions) not loading on new builds, wait then show \"An unknown error occurred\", Try again loads them, live app works, caused by old Elementor version adding CSS to API responses",
+"type": "app"
+},
 "159/159642": {
 "fix": "confirmed",
 "title": "BuddyBoss App Next Gen downloaded course video shows no play button or control bar on iOS, only a still frame with thin black bars until tapped, unlike the Legacy app",

@@ -44,6 +44,11 @@
 "title": "BuddyBoss App presale question about custom development, incoming voice and video calls ringing when the app is closed or the phone is locked with Better Messages WebSocket, AdMob ads SDK cost, source code ownership and whether the app keeps working after the subscription ends",
 "type": "app"
 },
+"161/161127": {
+"fix": "unconfirmed",
+"title": "BuddyBoss Platform update fails with \"Update failed: Download failed. A valid URL was not provided.\" after activating a new license key, update notice offers an older version than the installed 3.6.1",
+"type": "web"
+},
 "161/161129": {
 "fix": "confirmed",
 "title": "BuddyBoss Platform remove or disable email verification activation email on registration so new members are activated and logged in right away without confirming their email",
@@ -53,5 +58,20 @@
 "fix": "confirmed",
 "title": "BuddyBoss Platform let users sign up and log in with Google instead of email verification, or with a one-time SMS text code, faster registration options",
 "type": "web"
+},
+"161/161327": {
+"fix": "confirmed",
+"title": "BuddyBoss App Request Build screen shows \"App license has expired\" for iOS and Android even though the app licence is active or was extended, so the customer thinks builds are blocked",
+"type": "app"
+},
+"161/161346": {
+"fix": "confirmed",
+"title": "BuddyBoss App Next Gen iOS custom code from the custom Git repository not executing, index.js and applyCustomCode never run, no alerts or composer changes appear after a successful build on App Core 3.2.4",
+"type": "app"
+},
+"161/161393": {
+"fix": "unconfirmed",
+"title": "BuddyBoss App Next Gen presale question, native livestreaming in iOS and Android app with Mux, Go Live button in activity composer, custom JavaScript not supported in Flutter app, feature request",
+"type": "app"
 }
 }
