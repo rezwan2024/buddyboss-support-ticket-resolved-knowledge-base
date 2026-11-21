@@ -1,0 +1,12 @@
+{
+"131/131775": {
+"fix": "unconfirmed",
+"title": "BuddyBoss App In-App Purchase of a LearnDash course shows access revoked right after a successful test purchase, web purchase via WooCommerce Memberships works but app IAP purchase revokes course access, same with LearnDash Group and LearnDash Course integration types",
+"type": "app"
+},
+"131/131775-2": {
+"fix": "unconfirmed",
+"title": "BuddyBoss App plugin 2.10.0 cannot be activated, fatal error Undefined constant AP_HOOK_PREFIX in InAppPurchases Orders.php, WordPress recovery mode email, plugin deactivated",
+"type": "app"
+}
+}

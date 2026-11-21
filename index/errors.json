@@ -218,8 +218,14 @@
 "provisioning profile expired; apple distribution certificate could not be found": [
 "159/159060"
 ],
+"purchase history shows access revoked immediately after purchase": [
+"131/131775"
+],
 "reduce unused css; render-blocking requests": [
 "159/159940-2"
+],
+"register your apps and signing keys to meet android developer verification requirements": [
+"156/156712"
 ],
 "requires plugin to activate": [
 "161/161751"
@@ -277,6 +283,9 @@
 ],
 "uncaught error: class \"bbmsstripetaxintegration\" not found in wp-content/plugins/buddybossmembership/app/models/bbmsorderquotebuilder.php on line 1128": [
 "157/157622"
+],
+"uncaught error: undefined constant \"buddybossapp\\inapppurchases\\ap_hook_prefix\" in buddyboss-app/include/inapppurchases/orders.php:101": [
+"131/131775-2"
 ],
 "uncaught typeerror: cannot read properties of null (reading 'id') at object.handleformdataevent": [
 "160/160861"

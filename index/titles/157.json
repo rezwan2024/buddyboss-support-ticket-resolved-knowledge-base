@@ -4,6 +4,11 @@
 "title": "BuddyBoss App Next Gen LearnDash quizzes show yellow highlight or underline on quiz answers in the app on iOS and Android, looks like a bug, cannot turn it off",
 "type": "app"
 },
+"157/157227": {
+"fix": "unconfirmed",
+"title": "BuddyBoss App likes on images or videos in group post comments are not registered when liked from the opened full media view, like works only from the thumbnail in the comment",
+"type": "app"
+},
 "157/157272": {
 "fix": "confirmed",
 "title": "BuddyBoss App push notifications never delivered on iOS and Android, push log shows SenderId mismatch and APNs device token errors after Firebase setup, app delivered by Done For You service",
@@ -13,6 +18,11 @@
 "fix": "confirmed",
 "title": "BuddyBoss App cannot generate new iOS and Android builds after changing Firebase configuration for push notifications",
 "type": "app"
+},
+"157/157309": {
+"fix": "confirmed",
+"title": "BuddyBoss Platform Courses - how to show a public course listing (featured image, title, short description) without the private community left navigation, no shortcode or Elementor widget for a course catalog",
+"type": "web"
 },
 "157/157477": {
 "fix": "unconfirmed",
