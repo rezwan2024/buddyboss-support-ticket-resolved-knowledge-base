@@ -1,4 +1,29 @@
 {
+"161/161038": {
+"fix": "unconfirmed",
+"title": "BuddyBoss Platform WordPress admin bar (toolbar) showing at the top of the site for all logged-in members, not only admins, noticed after changing the custom logo in BuddyBoss Theme Options for the Login/Register page",
+"type": "web"
+},
+"161/161042": {
+"fix": "unconfirmed",
+"title": "BuddyBoss Theme or ReadyLaunch how to remove the center header navigation menu on desktop only and remove the side navigation (BuddyPanel or left side menu) on mobile only",
+"type": "web"
+},
+"161/161062": {
+"fix": "unconfirmed",
+"title": "BuddyBoss Theme with Directorist, single listing pages show \"There has been a critical error on this website\" after BuddyBoss installation, fatal error from HelpGent plugin FormRepository.php array_map null given",
+"type": "integration"
+},
+"161/161062-2": {
+"fix": "unconfirmed",
+"title": "BuddyBoss Sharing add-on with Yoast SEO, clicking profile menu items from the profile avatar dropdown shows \"There has been a critical error on this website\"",
+"type": "addon"
+},
+"161/161062-3": {
+"fix": "unconfirmed",
+"title": "BuddyBoss Theme homepage broken with large blank area below the header after BuddyBoss installation on a cloned or migrated Elementor site, homepage set to an empty Welcome page",
+"type": "web"
+},
 "161/161071": {
 "fix": "confirmed",
 "title": "BuddyBoss App Android App Links setup, Google Play Console interface has changed and customer cannot find the App signing section to copy the SHA-256 certificate fingerprint, guide screenshots no longer match the new Play Console layout",
@@ -8,6 +33,16 @@
 "fix": "confirmed",
 "title": "BuddyBoss Theme with Tutor LMS 4.x, course pages and lesson pages crash after updating Tutor LMS to the newest version, known compatibility issue",
 "type": "integration"
+},
+"161/161109": {
+"fix": "confirmed",
+"title": "BuddyBoss Platform Member Blogging settings page shows Upgrade Plus label and feature looks locked even though the plan includes it, BuddyBoss settings admin not working on outdated Platform and Platform Pro versions",
+"type": "web"
+},
+"161/161119": {
+"fix": "unconfirmed",
+"title": "BuddyBoss App presale question about custom development, incoming voice and video calls ringing when the app is closed or the phone is locked with Better Messages WebSocket, AdMob ads SDK cost, source code ownership and whether the app keeps working after the subscription ends",
+"type": "app"
 },
 "161/161129": {
 "fix": "confirmed",

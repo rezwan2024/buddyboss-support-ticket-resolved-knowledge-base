@@ -48,3 +48,9 @@ To confirm one, change its header line to fix: confirmed and push.
 - 160/160806-2 BuddyBoss Membership asking when Stripe Elements functionality will be working, Stripe payment block on any page not available
 - 160/160867 BuddyBoss Platform plugin cannot be updated from WordPress, update notice says license does not allow the update even though the license is active in the BuddyBoss account dashboard
 - 160/160994-2 BuddyBoss Platform Group page shows error instead of loading the Group, error from forum reply form checking forum subscription notification setting, also member directory not found
+- 161/161038 BuddyBoss Platform WordPress admin bar (toolbar) showing at the top of the site for all logged-in members, not only admins, noticed after changing the custom logo in BuddyBoss Theme Options for the Login/Register page
+- 161/161042 BuddyBoss Theme or ReadyLaunch how to remove the center header navigation menu on desktop only and remove the side navigation (BuddyPanel or left side menu) on mobile only
+- 161/161062 BuddyBoss Theme with Directorist, single listing pages show "There has been a critical error on this website" after BuddyBoss installation, fatal error from HelpGent plugin FormRepository.php array_map null given
+- 161/161062-2 BuddyBoss Sharing add-on with Yoast SEO, clicking profile menu items from the profile avatar dropdown shows "There has been a critical error on this website"
+- 161/161062-3 BuddyBoss Theme homepage broken with large blank area below the header after BuddyBoss installation on a cloned or migrated Elementor site, homepage set to an empty Welcome page
+- 161/161119 BuddyBoss App presale question about custom development, incoming voice and video calls ringing when the app is closed or the phone is locked with Better Messages WebSocket, AdMob ads SDK cost, source code ownership and whether the app keeps working after the subscription ends

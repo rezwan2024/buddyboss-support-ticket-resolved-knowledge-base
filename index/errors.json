@@ -67,11 +67,17 @@
 "something went wrong - tap to retry": [
 "159/159646"
 ],
+"there has been a critical error on this website": [
+"161/161062-2"
+],
 "token generation failed: private key format is not valid!": [
 "159/159018"
 ],
 "typeerror: undefined is not a function (titletrim, cellrenderer, applist)": [
 "156/156848"
+],
+"uncaught error: array_map(): argument #2 ($array) must be of type array, null given in wp-content/plugins/helpgent/app/repositories/formrepository.php on line 1015": [
+"161/161062"
 ],
 "uncaught typeerror: cannot read properties of null (reading 'id') at object.handleformdataevent": [
 "160/160861"
@@ -81,6 +87,9 @@
 ],
 "unhandled js exception: typeerror: undefined is not a function (activitieswidget)": [
 "159/159261"
+],
+"upgrade plus": [
+"161/161109"
 ],
 "verification failed, please try again.": [
 "159/159964"
