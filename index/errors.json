@@ -305,6 +305,9 @@
 "uncaught error: class \"bbmsstripetaxintegration\" not found in wp-content/plugins/buddybossmembership/app/models/bbmsorderquotebuilder.php on line 1128": [
 "157/157622"
 ],
+"uncaught error: class \"buddybossapp\\integrations\\buddybossmembership\\common\" not found in buddyboss-app/include/integrations/learndash/main.php:95": [
+"157/157689"
+],
 "uncaught error: undefined constant \"buddybossapp\\inapppurchases\\ap_hook_prefix\" in buddyboss-app/include/inapppurchases/orders.php:101": [
 "131/131775-2"
 ],
@@ -346,6 +349,9 @@
 ],
 "warning: undefined array key 0 in wp-content/plugins/buddyboss-platform/bp-forums/forums/capabilities.php on line 125; warning: attempt to read property \"id\" on null in wp-content/plugins/elementor/core/base/document.php on line 356": [
 "159/159265"
+],
+"we were unable to complete this build upload request for the following reason(s): error # unknown error": [
+"157/157632"
 ],
 "wordpress database error table '...wp_bb_drm_events' doesn't exist for query select * from wp_bb_drm_events where event = 'addon-buddyboss-addons' order by id desc limit 1": [
 "161/161906"
