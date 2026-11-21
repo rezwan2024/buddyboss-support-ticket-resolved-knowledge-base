@@ -9,6 +9,9 @@ To confirm one, change its header line to fix: confirmed and push.
 - 154/154490-2 BuddyBoss App Next Gen LearnDash lesson button shows raw key ld_mark_as_incomplete, Mark as Incomplete string missing from BuddyBoss App Translations list, wording from older app lost after moving to Next Gen
 - 156/156780 BuddyBoss App Next Gen custom group tab created with PHP (bp_register_group_extension) or a tab creator plugin fails to load, loops back to the start or kicks the user out of the app, works fine in the Classic app and in the browser, iOS and Android
 - 157/157971 BuddyBoss App PDF file only shows a preview with no option to download, open or fill it out inside a LifterLMS lesson or course, while download works from the activity feed
+- 159/159060 BuddyBoss App iOS build keeps failing at the signing step, provisioning profile expired and Apple Distribution certificate could not be found, Apple Developer account not connected in iOS settings
+- 159/159060-2 BuddyBoss App Android Google Play Console warning about Play Billing Library 8.0.0 or later still shows after releasing a new build, blocking app release on the Play Store
+- 159/159060-3 BuddyBoss App license renewal price locked or protected, asking if the yearly app renewal rate stays the same and why BuddyBoss Web Plus is billed separately, is Web Plus required for the app
 - 159/159119 BuddyBoss App menu item "Always open in external browser" checkbox not saved, unchecks after Save Menu and link still opens inside the app (More menu, caching and security plugins active)
 - 159/159127-2 BuddyBoss App build fails in App Center with "Error downloading app resources from client server" because a firewall or Cloudflare blocks the BuddyBossBot user agent from downloading the language file
 - 159/159199-2 LearnDash App customer asks BuddyBoss for a license credit, renewal discount or extension because a build issue delayed their app launch
@@ -70,6 +73,8 @@ To confirm one, change its header line to fix: confirmed and push.
 - 161/161541 BuddyBoss Platform and Theme - BuddyBoss Courses lesson buttons show blue instead of the site's green theme color, previous and complete and continue buttons ignore color settings, no course color settings found
 - 161/161546 BuddyBoss App iOS build failing in AppCenter while Android build succeeds, build stops within a few seconds on the build server and produces no app files, customer says all new builds are failing
 - 161/161546-2 BuddyBoss App in-app purchases not showing to iOS and Android users in the app even though the products are enabled in the app settings on the site
+- 161/161594-2 BuddyBoss App cannot make any new builds, iOS build stops within the first seconds before compiling, build server workspace cleanup failure
+- 161/161670 BuddyBoss Platform fatal error on WordPress Plugins page, cannot activate or deactivate any plugin, Uncaught TypeError UpdateService::pluginAutoUpdate() Return value must be of type ?bool, string returned
 - 161/161806 BuddyBoss App signup form shows a required Nickname field even though the display name is set to First Name only, how to remove Nickname from app registration
 - 161/161806-2 BuddyBoss App turn off email verification on app signup so new members can log in right after registering without the account activation email
 - 161/161806-3 BuddyBoss App in-app purchase free trial product shows the wrong label "Free Lifetime" on the app signup screen instead of 7-day trial, with PMPro membership level

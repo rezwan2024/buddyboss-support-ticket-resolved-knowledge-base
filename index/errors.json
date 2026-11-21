@@ -54,6 +54,9 @@
 "excluded by noindex tag": [
 "160/160386"
 ],
+"fatal error: uncaught typeerror: buddybossplatform\\groundlevel\\mothership\\updateservice::pluginautoupdate(): return value must be of type ?bool, string returned": [
+"161/161670"
+],
 "feature not found": [
 "159/159964-2"
 ],
@@ -88,6 +91,9 @@
 "membership required": [
 "157/157605"
 ],
+"new version available": [
+"161/161594"
+],
 "no google analytics was found on your website. please follow the snippet installation instructions and try again.": [
 "159/159735"
 ],
@@ -104,8 +110,14 @@
 "platformexception(sign_in_failed, com.google.android.gms.common.api.apiexception: 10)": [
 "161/161243"
 ],
+"play billing library 8.0.0 or later required": [
+"159/159060-2"
+],
 "provisioning profile expired": [
 "160/160797-2"
+],
+"provisioning profile expired; apple distribution certificate could not be found": [
+"159/159060"
 ],
 "reduce unused css; render-blocking requests": [
 "159/159940-2"
@@ -118,6 +130,9 @@
 ],
 "something went wrong - tap to retry": [
 "159/159646"
+],
+"the snippet was saved, but remains inactive due to this error: cannot redeclare function": [
+"161/161520"
 ],
 "there has been a critical error on this website": [
 "161/161062-2"

@@ -3,5 +3,10 @@
 "fix": "confirmed",
 "title": "BuddyBoss Platform Members Directory search filters not updating results after pressing search (Last Name filter), results appear only after several page refreshes, caused by LiteSpeed Cache page caching",
 "type": "integration"
+},
+"162/162076": {
+"fix": "confirmed",
+"title": "BuddyBoss App Next Gen activation toggle missing in WordPress admin, cannot find option to enable or migrate existing published app to App Next Gen because BuddyBoss App plugin is outdated (version 2.10.0)",
+"type": "app"
 }
 }

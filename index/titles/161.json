@@ -119,6 +119,11 @@
 "title": "BuddyBoss App Next Gen with Paid Memberships Pro (PMPro), is PMPro supported or do we need to switch to MemberPress or BuddyBoss Memberships, plus WooCommerce Subscriptions payments and memberships given by activation codes or invitations",
 "type": "integration"
 },
+"161/161520": {
+"fix": "confirmed",
+"title": "BuddyBoss Platform and Theme change the Activity Feed post box placeholder text \"Share what's on your mind\" to custom text, and Code Snippets error \"Cannot redeclare function\" when the same snippet is also in functions.php",
+"type": "web"
+},
 "161/161541": {
 "fix": "unconfirmed",
 "title": "BuddyBoss Platform and Theme - BuddyBoss Courses lesson buttons show blue instead of the site's green theme color, previous and complete and continue buttons ignore color settings, no course color settings found",
@@ -138,6 +143,21 @@
 "fix": "confirmed",
 "title": "BuddyBoss App login screen Terms of Service link opens a blank white window in the native app (iOS and Android) while Privacy Policy loads fine, page works in browser, page built with Thrive Architect, blocks Apple App Store review",
 "type": "app"
+},
+"161/161594": {
+"fix": "confirmed",
+"title": "BuddyBoss App shows \"New Version Available\" forced update prompt but no update exists in the App Store or Google Play, app blocked for members",
+"type": "app"
+},
+"161/161594-2": {
+"fix": "unconfirmed",
+"title": "BuddyBoss App cannot make any new builds, iOS build stops within the first seconds before compiling, build server workspace cleanup failure",
+"type": "app"
+},
+"161/161670": {
+"fix": "unconfirmed",
+"title": "BuddyBoss Platform fatal error on WordPress Plugins page, cannot activate or deactivate any plugin, Uncaught TypeError UpdateService::pluginAutoUpdate() Return value must be of type ?bool, string returned",
+"type": "web"
 },
 "161/161695": {
 "fix": "confirmed",

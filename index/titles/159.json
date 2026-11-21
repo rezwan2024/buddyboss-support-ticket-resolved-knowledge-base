@@ -4,6 +4,21 @@
 "title": "BuddyBoss App and Platform Sign in with Apple option greyed out and disabled in Social Login settings, Verify Settings returns to the login page with empty username field, \"Token generation failed: Private key format is not valid!\", needed for Apple Guideline 4.8 review",
 "type": "app"
 },
+"159/159060": {
+"fix": "unconfirmed",
+"title": "BuddyBoss App iOS build keeps failing at the signing step, provisioning profile expired and Apple Distribution certificate could not be found, Apple Developer account not connected in iOS settings",
+"type": "app"
+},
+"159/159060-2": {
+"fix": "unconfirmed",
+"title": "BuddyBoss App Android Google Play Console warning about Play Billing Library 8.0.0 or later still shows after releasing a new build, blocking app release on the Play Store",
+"type": "app"
+},
+"159/159060-3": {
+"fix": "unconfirmed",
+"title": "BuddyBoss App license renewal price locked or protected, asking if the yearly app renewal rate stays the same and why BuddyBoss Web Plus is billed separately, is Web Plus required for the app",
+"type": "account"
+},
 "159/159119": {
 "fix": "unconfirmed",
 "title": "BuddyBoss App menu item \"Always open in external browser\" checkbox not saved, unchecks after Save Menu and link still opens inside the app (More menu, caching and security plugins active)",
