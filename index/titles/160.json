@@ -1,4 +1,14 @@
 {
+"160/160386": {
+"fix": "confirmed",
+"title": "BuddyBoss Platform 1.7.5 single Activity pages show noindex in Google Search Console, does BuddyBoss add a noindex robots meta tag to activity permalinks",
+"type": "web"
+},
+"160/160386-2": {
+"fix": "confirmed",
+"title": "BuddyBoss Platform Pro individual activity posts not indexed by Google, Rank Math XML sitemap does not include activity posts, how to build a custom activity sitemap",
+"type": "web"
+},
 "160/160389": {
 "fix": "unconfirmed",
 "title": "BuddyBoss Platform license activation fails on staging site with \"License activation failed: The requested action could not be performed due to validation errors. The license does not have any available production activations remaining\" while the license page still shows activations available",
@@ -74,10 +84,20 @@
 "title": "BuddyBoss Platform password reset link always shows invalid link error after clicking the reset email, with Private Network enabled, plugin deactivation does not help",
 "type": "web"
 },
+"160/160620": {
+"fix": "unconfirmed",
+"title": "BuddyBoss Platform members receive the same notification email again and again every 5 minutes, background email batch cut off and restarted from the first member by WP cron",
+"type": "web"
+},
 "160/160666": {
 "fix": "unconfirmed",
 "title": "BuddyBoss App iOS Apple Developer Account disconnected after site update and Connect Account fails with error \"A required agreement is missing or has expired\" FORBIDDEN.REQUIRED_AGREEMENTS_MISSING_OR_EXPIRED, new App Store Connect API key gives same error",
 "type": "app"
+},
+"160/160673": {
+"fix": "unconfirmed",
+"title": "BuddyBoss Theme Options settings (BuddyPanel menu, header, colors) not applying to Forums, News Feed and Members pages, homepage looks fine but community pages show a different default menu and button colors because ReadyLaunch is enabled alongside the BuddyBoss Theme",
+"type": "web"
 },
 "160/160724": {
 "fix": "unconfirmed",

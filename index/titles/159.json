@@ -89,10 +89,20 @@
 "title": "BuddyBoss App unable to connect to the BuddyBoss App Center from WordPress admin, cannot request a new app build because the App Center connection fails",
 "type": "app"
 },
+"159/159418": {
+"fix": "confirmed",
+"title": "BuddyBoss App iOS Test Build will not install on registered iPhone, tapping Install from the QR code install page shows the prompt but the app never downloads or appears on the Home Screen, build completes without error, caused by PHP warnings printed into the install manifest (display_errors On)",
+"type": "app"
+},
 "159/159428": {
 "fix": "unconfirmed",
 "title": "BuddyBoss Platform View as member from WP Admin Users, browser back button shows error and admin seems logged out, black top bar and Switch back to Admin link missing in Firefox",
 "type": "web"
+},
+"159/159642": {
+"fix": "confirmed",
+"title": "BuddyBoss App Next Gen downloaded course video shows no play button or control bar on iOS, only a still frame with thin black bars until tapped, unlike the Legacy app",
+"type": "app"
 },
 "159/159646": {
 "fix": "unconfirmed",
