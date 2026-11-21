@@ -60,9 +60,14 @@ To confirm one, change its header line to fix: confirmed and push.
 - 157/157296-2 BuddyBoss Courses migrator tool does not bring the Elementor page design, migrated courses show only simple course text even after enabling Elementor for the course post type
 - 157/157297 BuddyBoss Platform with GamiPress and WPML, Achievements and Ranks items in the user profile menu stay in English after translating the strings, while Timeline, Connections and Invites translate fine
 - 157/157305-2 BuddyBoss Platform "Run Migration" admin notice shows in WordPress dashboard, customer asks how to handle it, seen while fixing license activation
+- 157/157467 BuddyBoss Platform bb_documents, bb_medias and bb_videos upload folders using a lot of disk space, which files can be safely deleted and how to find orphaned media files without admin or SFTP access
 - 157/157477 Tutor LMS 4.0 Tutor Dashboard broken, layout not working with BuddyBoss Theme active after updating Tutor LMS to 4.0, works with Twenty Twenty-Five
 - 157/157491 BuddyBoss Platform and Theme slow page loading and poor general responsiveness across the community, customer asks for known bottlenecks, best practices and recommended server resources
 - 157/157509 BuddyBoss Theme LearnDash lesson header Next and Previous arrows link to wrong lessons, Next goes back to the first lesson, Previous disabled mid-course, Next shown on the last lesson, while the LearnDash sidebar navigation works
+- 157/157533 BuddyBoss Platform Pro ReadyLaunch with LearnDash - main menu shows a static login icon instead of the logged in user avatar, wants avatar and profile dropdown in the header like the BuddyBoss demo
+- 157/157533-2 BuddyBoss Platform Pro ReadyLaunch - profile customization options seem missing, no profile header image or styling options like the BuddyBoss Theme demo
+- 157/157582 BuddyBoss App live messaging one-way delivery, messages from one member never reach the other member while the reverse direction works, with Live Messaging (Pusher) enabled
+- 157/157582-2 BuddyBoss App live messaging typing indicator not showing and message seen or read receipt not shown to the sender even though Live Messaging (Pusher) is enabled
 - 157/157583-2 BuddyBoss Theme membership product page shows the logged-in private area navigation (left and top menu) while other public pages do not
 - 157/157622 BuddyBoss Membership 1.14.1 fatal error when clicking a paid membership plan or Change Plan, checkout page breaks at the Stripe payment step, Class "BbmsStripeTaxIntegration" not found, paid Stripe checkouts cannot complete
 - 157/157686 BuddyBoss App cannot generate a Test Build from the App Secondary website, the build requires all BuddyBoss plugins to be up to date on the primary website first, so App updates cannot be tested on staging before production

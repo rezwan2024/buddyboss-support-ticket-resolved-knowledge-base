@@ -1,4 +1,9 @@
 {
+"155/155126": {
+"fix": "confirmed",
+"title": "BuddyBoss Platform Zoom integration setup, Account Email dropdown does not populate and shows \"No zoom account found. Please verify credentials\" after entering Account ID, Client ID and Client Secret, Update button disabled, Zoom Developer scopes renamed and docs out of date",
+"type": "web"
+},
 "155/155215": {
 "fix": "unconfirmed",
 "title": "BuddyBoss Platform and Theme web direct message notification opens the Messages inbox or a random conversation instead of the exact DM, and the message the notification refers to cannot be found, with a custom Elementor header",

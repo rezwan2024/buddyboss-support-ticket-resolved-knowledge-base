@@ -99,6 +99,11 @@
 "title": "BuddyBoss Platform with GamiPress and WPML, Achievements and Ranks items in the user profile menu stay in English after translating the strings, while Timeline, Connections and Invites translate fine",
 "type": "integration"
 },
+"157/157300": {
+"fix": "confirmed",
+"title": "BuddyBoss Platform private group auto approve join requests, Group Type field missing on Edit Group screen and when creating a new group even though Group Types and Auto Membership Approval are enabled, group type shows 0 groups",
+"type": "web"
+},
 "157/157305": {
 "fix": "confirmed",
 "title": "BuddyBoss Platform license activation, \"Activate my license\" button on WordPress dashboard opens a 404 page, then after manual key entry the license notice \"some features will be disabled\" still shows",
@@ -112,6 +117,11 @@
 "157/157309": {
 "fix": "confirmed",
 "title": "BuddyBoss Platform Courses - how to show a public course listing (featured image, title, short description) without the private community left navigation, no shortcode or Elementor widget for a course catalog",
+"type": "web"
+},
+"157/157467": {
+"fix": "unconfirmed",
+"title": "BuddyBoss Platform bb_documents, bb_medias and bb_videos upload folders using a lot of disk space, which files can be safely deleted and how to find orphaned media files without admin or SFTP access",
 "type": "web"
 },
 "157/157477": {
@@ -132,6 +142,26 @@
 "157/157525": {
 "fix": "confirmed",
 "title": "BuddyBoss App Android developer verification notice in Google Play Console, package name registered and contact details verified, asking if anything is pending before the September 30, 2026 deadline or next app update",
+"type": "app"
+},
+"157/157533": {
+"fix": "unconfirmed",
+"title": "BuddyBoss Platform Pro ReadyLaunch with LearnDash - main menu shows a static login icon instead of the logged in user avatar, wants avatar and profile dropdown in the header like the BuddyBoss demo",
+"type": "web"
+},
+"157/157533-2": {
+"fix": "unconfirmed",
+"title": "BuddyBoss Platform Pro ReadyLaunch - profile customization options seem missing, no profile header image or styling options like the BuddyBoss Theme demo",
+"type": "web"
+},
+"157/157582": {
+"fix": "unconfirmed",
+"title": "BuddyBoss App live messaging one-way delivery, messages from one member never reach the other member while the reverse direction works, with Live Messaging (Pusher) enabled",
+"type": "app"
+},
+"157/157582-2": {
+"fix": "unconfirmed",
+"title": "BuddyBoss App live messaging typing indicator not showing and message seen or read receipt not shown to the sender even though Live Messaging (Pusher) is enabled",
 "type": "app"
 },
 "157/157583": {
