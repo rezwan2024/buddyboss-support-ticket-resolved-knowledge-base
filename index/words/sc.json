@@ -26,12 +26,16 @@
 "scheme": [
 "156/156809:integration"
 ],
+"scope": [
+"156/156205-2:account"
+],
 "score": [
 "144/144667:addon",
 "158/158401:integration"
 ],
 "screen": [
 "153/153146-3:app",
+"156/156231:app",
 "156/156267:integration",
 "157/157605:integration",
 "157/157897-2:app",

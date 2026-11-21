@@ -14,15 +14,40 @@
 "title": "BuddyBoss Courses add-on has no certificates, no certificate post type found and no certificate offered to the student at 100% course completion, Certificate Builder only available through the LearnDash integration",
 "type": "addon"
 },
+"156/156205": {
+"fix": "unconfirmed",
+"title": "BuddyBoss Platform registration - password entered at signup shows as part of the member display name in the header and member profile after activation and login, still shows after password change",
+"type": "web"
+},
+"156/156205-2": {
+"fix": "unconfirmed",
+"title": "BuddyBoss Done For You (DFY) website project - customer asks how issues found during post-delivery user acceptance testing (UAT) are corrected after the project was closed",
+"type": "account"
+},
 "156/156224": {
 "fix": "unconfirmed",
 "title": "BuddyBoss Platform license activation notice keeps asking to activate the license for Offload Media and Gamification add-ons even though the license was activated long ago, license data out of sync",
 "type": "account"
 },
+"156/156231": {
+"fix": "confirmed",
+"title": "BuddyBoss App Join button on group listing screen takes long then shows \"There has been a critical error on the website\", PHP fatal array_merge() TypeError in bp_parse_args during groups_record_activity",
+"type": "app"
+},
 "156/156236": {
 "fix": "confirmed",
 "title": "BuddyBoss Platform license notice \"License required for BuddyBoss features\" for BuddyBoss Addons (Offload Media, Gamification) keeps showing and license warning emails are sent although the license is active, appeared after updating the Groundhogg plugin",
 "type": "account"
+},
+"156/156260": {
+"fix": "confirmed",
+"title": "BuddyBoss Platform, Platform Pro and Theme very old versions (Platform 1.5.x, Theme 1.6.x, Pro 1.0.x) on PHP 7.4 and WordPress 6.3, which upgrade order to use and is PHP 8.2 compatible before upgrading",
+"type": "web"
+},
+"156/156260-2": {
+"fix": "confirmed",
+"title": "BuddyBoss Platform, Platform Pro and Theme request for original old version packages (Platform 1.5.6, Theme 1.6.2, Pro 1.0.9) to compare and find custom edits to core files made by a previous developer before upgrading",
+"type": "web"
 },
 "156/156267": {
 "fix": "unconfirmed",
@@ -69,6 +94,16 @@
 "title": "BuddyBoss Platform manual activation of a pending signup from WordPress admin fails with \"1 account was not activated. Google reCAPTCHA token is missing.\" when reCAPTCHA v3 is enabled for Account Activation, after updating BuddyBoss plugins (users registering through the Next Gen App land in Pending Signups)",
 "type": "web"
 },
+"156/156475": {
+"fix": "unconfirmed",
+"title": "BuddyBoss App Next Gen iOS Test App (Ad Hoc) build will not install or open, error \"App integrity cannot be verified\" even though device UDIDs are registered, Android build works fine",
+"type": "app"
+},
+"156/156475-2": {
+"fix": "unconfirmed",
+"title": "BuddyBoss App Next Gen iOS Test App (Ad Hoc) asks testers to enable Developer Mode before it opens, how to share test builds with non-technical clients through TestFlight without Xcode",
+"type": "app"
+},
 "156/156641": {
 "fix": "unconfirmed",
 "title": "BuddyBoss Theme (not ReadyLaunch) profile header cannot be fully customized - cover/banner, profile picture and short profile info area layout limited even with custom CSS, JavaScript or code snippets",
@@ -98,6 +133,11 @@
 "fix": "confirmed",
 "title": "BuddyBoss Platform Pro license activation keeps failing for days with \"License activation failed: WP_Error : 1\" and \"short-circuited during vendor outage (jrms-caseproof-timeout.php)\"",
 "type": "account"
+},
+"156/156757": {
+"fix": "unconfirmed",
+"title": "BuddyBoss Platform profile fields showing twice on the frontend profile edit page in all tabs after disabling the Repeater option on the profile field set, new fields also duplicated",
+"type": "web"
 },
 "156/156780": {
 "fix": "unconfirmed",

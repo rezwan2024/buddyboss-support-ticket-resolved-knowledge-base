@@ -44,6 +44,9 @@
 "anonymized_ user created; wordpress email address changed notification": [
 "161/161986"
 ],
+"app integrity cannot be verified": [
+"156/156475"
+],
 "app license has expired": [
 "161/161327"
 ],
@@ -286,6 +289,9 @@
 ],
 "uncaught error: undefined constant \"buddybossapp\\inapppurchases\\ap_hook_prefix\" in buddyboss-app/include/inapppurchases/orders.php:101": [
 "131/131775-2"
+],
+"uncaught typeerror: array_merge(): argument #2 must be of type array, false given": [
+"156/156231"
 ],
 "uncaught typeerror: cannot read properties of null (reading 'id') at object.handleformdataevent": [
 "160/160861"
