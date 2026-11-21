@@ -109,6 +109,14 @@ To confirm one, change its header line to fix: confirmed and push.
 - 158/158561-2 BuddyBoss Platform photo uploads from mobile devices fail intermittently on activity feed, sometimes work and sometimes do not, server PHP upload and memory limits
 - 158/158562 BuddyBoss App memberships not showing in the app or at registration after new iOS build with BuddyBoss Memberships enabled, in-app products Integration Type still set to Select
 - 158/158562-2 BuddyBoss App should I set up memberships with MemberPress now or wait for BuddyBoss Memberships integration with the app to avoid migrating members later
+- 158/158633 BuddyBoss Platform 3.4.4 fatal error on administrator sign-in, Uncaught TypeError in_array() Argument #2 ($haystack) must be of type array, null given in bp_show_hide_toolbar() bp-core-template-loader.php after admin restore while Log in as (account switching) cookie still active
+- 158/158633-2 BuddyBoss Platform intermittent 502 Bad Gateway errors on Ninja Forms admin pages, checked for a link to the BuddyBoss toolbar fatal error
+- 158/158643 BuddyBoss Platform forums - forum topic marked as hidden is still showing, still visible to admin, Hidden visibility setting not working for a topic
+- 158/158643-2 BuddyBoss Platform forums - how to export or back up a forum topic and its replies before deleting it
+- 158/158767 BuddyBoss Platform Email Digest - how to choose what goes into the notification digest email, Situation checkboxes allow only one selection and do not save when editing the email template
+- 158/158767-2 BuddyBoss Platform Email Digest - Send Test Digest sends an empty digest and the digest email template Preview shows a blank page, cannot preview or test the notification digest email
+- 158/158862 BuddyBoss App signup endpoint returns recurring 403 Forbidden for logged-out app users, GET /wp-json/buddyboss-app/v1/signup/form, registration form fails to load, server WAF and ModSecurity ruled out
+- 159/159047 BuddyBoss Platform Email Digest not sending digest emails, Send Test Digest sends nothing, last digest run shows 0 members processed 0 emails queued, other notification emails still arrive one by one
 - 159/159060 BuddyBoss App iOS build keeps failing at the signing step, provisioning profile expired and Apple Distribution certificate could not be found, Apple Developer account not connected in iOS settings
 - 159/159060-2 BuddyBoss App Android Google Play Console warning about Play Billing Library 8.0.0 or later still shows after releasing a new build, blocking app release on the Play Store
 - 159/159060-3 BuddyBoss App license renewal price locked or protected, asking if the yearly app renewal rate stays the same and why BuddyBoss Web Plus is billed separately, is Web Plus required for the app

@@ -2,6 +2,9 @@
 "/bb-media-preview/ returns a readylaunch html page instead of the image": [
 "162/162011"
 ],
+"0 members processed, 0 emails queued": [
+"159/159047"
+],
 "1 account was not activated. google recaptcha token is missing.": [
 "156/156472"
 ],
@@ -10,6 +13,9 @@
 ],
 "403 bp_rest_authorization_required \"sorry, you cannot view the group.\"; bp_rest_hidden_profile_field; bp_rest_invalid_item; bp_rest_group_member_cannot_promote; bp_rest_user_cannot_delete": [
 "161/161966"
+],
+"403 forbidden on get /wp-json/buddyboss-app/v1/signup/form": [
+"158/158862"
 ],
 "404": [
 "162/162755"
@@ -22,6 +28,9 @@
 ],
 "404 page; notice \"some features will be disabled\"": [
 "157/157305"
+],
+"502 bad gateway": [
+"158/158633-2"
 ],
 "504 gateway time-out": [
 "160/160995-2"
@@ -373,6 +382,9 @@
 ],
 "uncaught typeerror: cannot read properties of undefined (reading 'find') at object.opendocumentmove": [
 "149/149241"
+],
+"uncaught typeerror: in_array(): argument #2 ($haystack) must be of type array, null given in bp-core/bp-core-template-loader.php line 700, bp_show_hide_toolbar(), during bp_after_setup_theme": [
+"158/158633"
 ],
 "unhandled js exception: typeerror: undefined is not a function (activitieswidget)": [
 "159/159261"

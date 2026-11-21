@@ -4,6 +4,11 @@
 "title": "BuddyBoss App and Platform Sign in with Apple option greyed out and disabled in Social Login settings, Verify Settings returns to the login page with empty username field, \"Token generation failed: Private key format is not valid!\", needed for Apple Guideline 4.8 review",
 "type": "app"
 },
+"159/159047": {
+"fix": "unconfirmed",
+"title": "BuddyBoss Platform Email Digest not sending digest emails, Send Test Digest sends nothing, last digest run shows 0 members processed 0 emails queued, other notification emails still arrive one by one",
+"type": "web"
+},
 "159/159060": {
 "fix": "unconfirmed",
 "title": "BuddyBoss App iOS build keeps failing at the signing step, provisioning profile expired and Apple Distribution certificate could not be found, Apple Developer account not connected in iOS settings",

@@ -79,20 +79,55 @@
 "title": "BuddyBoss Platform after an unexpected update cannot add members to communities (groups) and cannot upload documents or videos, ACF plugin also not working well, fixed by updating permalinks",
 "type": "web"
 },
+"158/158633": {
+"fix": "unconfirmed",
+"title": "BuddyBoss Platform 3.4.4 fatal error on administrator sign-in, Uncaught TypeError in_array() Argument #2 ($haystack) must be of type array, null given in bp_show_hide_toolbar() bp-core-template-loader.php after admin restore while Log in as (account switching) cookie still active",
+"type": "web"
+},
+"158/158633-2": {
+"fix": "unconfirmed",
+"title": "BuddyBoss Platform intermittent 502 Bad Gateway errors on Ninja Forms admin pages, checked for a link to the BuddyBoss toolbar fatal error",
+"type": "integration"
+},
 "158/158636": {
 "fix": "confirmed",
 "title": "BuddyBoss App Next Gen iOS build rejected by Apple App Store Guideline 2.5.4 Performance Software Requirements, app declares audio in UIBackgroundModes but no persistent audio features found",
 "type": "app"
+},
+"158/158643": {
+"fix": "unconfirmed",
+"title": "BuddyBoss Platform forums - forum topic marked as hidden is still showing, still visible to admin, Hidden visibility setting not working for a topic",
+"type": "web"
+},
+"158/158643-2": {
+"fix": "unconfirmed",
+"title": "BuddyBoss Platform forums - how to export or back up a forum topic and its replies before deleting it",
+"type": "web"
 },
 "158/158713": {
 "fix": "confirmed",
 "title": "BuddyBoss Platform \"New message from\" notification emails show the wrong sender's avatar and profile link when several message emails are sent in one request, such as the messages digest cron; sender name is correct (Platform 3.4.4 / 3.5.0)",
 "type": "web"
 },
+"158/158767": {
+"fix": "unconfirmed",
+"title": "BuddyBoss Platform Email Digest - how to choose what goes into the notification digest email, Situation checkboxes allow only one selection and do not save when editing the email template",
+"type": "web"
+},
+"158/158767-2": {
+"fix": "unconfirmed",
+"title": "BuddyBoss Platform Email Digest - Send Test Digest sends an empty digest and the digest email template Preview shows a blank page, cannot preview or test the notification digest email",
+"type": "web"
+},
 "158/158777": {
 "fix": "confirmed",
 "title": "BuddyBoss Platform security scanner report flags stored cross-site scripting through the Group Name field on the group Manage > Details page (Nouveau and ReadyLaunch templates), versions 3.4.4 and earlier, fixed by updating Platform",
 "type": "web"
+},
+"158/158862": {
+"fix": "unconfirmed",
+"title": "BuddyBoss App signup endpoint returns recurring 403 Forbidden for logged-out app users, GET /wp-json/buddyboss-app/v1/signup/form, registration form fails to load, server WAF and ModSecurity ruled out",
+"type": "app"
 },
 "158/158935": {
 "fix": "confirmed",
