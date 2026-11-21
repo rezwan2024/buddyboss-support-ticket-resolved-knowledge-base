@@ -19,6 +19,16 @@
 "title": "BuddyBoss Platform private message email notifications not sent when notification delay is enabled (5 or 15 minutes), emails work only when delay is disabled, recipient logged out",
 "type": "web"
 },
+"153/153905": {
+"fix": "confirmed",
+"title": "BuddyBoss App Next Gen Android build fails with Unknown error while iOS Next Gen and Classic builds succeed, build payload upload cut off by fixed timeout so launch screen images arrive empty",
+"type": "app"
+},
+"153/153905-2": {
+"fix": "unconfirmed",
+"title": "BuddyBoss App Next Gen Android Send Build Request fails with Error downloading app resources from client server, hosting provider returns 400 Bad Request for the BuddyBossBot user agent",
+"type": "app"
+},
 "153/153911": {
 "fix": "confirmed",
 "title": "BuddyBoss App conditional shortcodes from a membership plugin (S2Member) do not render in app-approved blocks, show or hide content by student level on shared LearnDash lessons not working in the app, can PHP server-side shortcode execution be enabled",

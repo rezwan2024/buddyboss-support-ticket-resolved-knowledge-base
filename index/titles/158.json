@@ -9,6 +9,11 @@
 "title": "BuddyBoss Platform 3.0 custom group meta fields added by other plugins disappeared, not showing on the new group admin screens after update to 3.0 dashboard, customizations broke",
 "type": "web"
 },
+"158/158302": {
+"fix": "confirmed",
+"title": "BuddyBoss Theme self-service password reset fails with \"The password reset link appears to be invalid. Please request a new link below.\" (invalidkey) when saving the new password, wp-resetpass cookie missing on submit, caused by child theme login CSS loaded from the wrong folder",
+"type": "web"
+},
 "158/158345": {
 "fix": "unconfirmed",
 "title": "BuddyBoss Platform and Platform Pro slow site with 1,400+ database queries on simple static pages, 7 to 20 second page loads and slow login, cart page slow, much faster when BuddyBoss is deactivated",

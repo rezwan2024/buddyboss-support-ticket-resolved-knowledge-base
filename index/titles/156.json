@@ -209,6 +209,11 @@
 "title": "BuddyBoss Theme dark color scheme - \"Like this:\" Likes bar shows white background instead of dark under posts, does not follow theme colors or custom CSS (Jetpack Likes widget)",
 "type": "integration"
 },
+"156/156811": {
+"fix": "confirmed",
+"title": "BuddyBoss Platform and Theme license keeps deactivating on WordPress installs in a subfolder (/members), root domain added as an extra activation, \"License Activation Needed\" notice and plugin updates not showing, activation limit reached",
+"type": "account"
+},
 "156/156821": {
 "fix": "unconfirmed",
 "title": "BuddyBoss App offline course downloads - MP4 videos play in Flight Mode but MP3 audio files from the WordPress Media Library are not downloaded or do not play offline in LearnDash courses",

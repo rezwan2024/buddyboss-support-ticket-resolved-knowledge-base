@@ -34,6 +34,11 @@
 "title": "BuddyBoss App Next Gen Edit Profile select (dropdown) profile fields do not show the saved value, appear empty as if no selection was made",
 "type": "app"
 },
+"159/159111": {
+"fix": "confirmed",
+"title": "BuddyBoss Platform registration form First Name field character limit, how to change the 32 character maximum length with add_filter",
+"type": "web"
+},
 "159/159119": {
 "fix": "unconfirmed",
 "title": "BuddyBoss App menu item \"Always open in external browser\" checkbox not saved, unchecks after Save Menu and link still opens inside the app (More menu, caching and security plugins active)",

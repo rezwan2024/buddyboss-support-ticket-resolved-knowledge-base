@@ -87,6 +87,9 @@
 "buddyboss launch/scale: activation required. your buddyboss launch/scale features will be disabled soon. activate your license now to avoid interruption.": [
 "158/158728"
 ],
+"buddyboss launch/scale: license activation needed": [
+"156/156811"
+],
 "buddyboss platform is almost ready. you must update your permalink structure to something other than the default for it to work.": [
 "156/156798-2"
 ],
@@ -128,6 +131,7 @@
 "157/157242-2"
 ],
 "error downloading app resources from client server": [
+"153/153905-2",
 "159/159127-2",
 "159/159199"
 ],
@@ -136,6 +140,9 @@
 ],
 "error: api login for user disabled": [
 "161/161479"
+],
+"error: the password reset link appears to be invalid. please request a new link below. (wp-login.php?action=lostpassword&error=invalidkey)": [
+"158/158302"
 ],
 "excluded by noindex tag": [
 "160/160386"
@@ -398,6 +405,9 @@
 ],
 "unhandled js exception: typeerror: undefined is not a function (activitieswidget)": [
 "159/159261"
+],
+"unknown error": [
+"153/153905"
 ],
 "unknown error (build log: e016, e017)": [
 "157/157245"

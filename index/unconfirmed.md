@@ -21,6 +21,7 @@ To confirm one, change its header line to fix: confirmed and push.
 - 153/153146-2 BuddyBoss Theme with Tutor LMS 4.0 - lesson list not visible inside a course, course menu disappears and students cannot navigate through lessons, after updating Theme to 2.22.4
 - 153/153146-3 BuddyBoss App Next Gen - Courses tab shows "This screen type is not yet implemented" (courses_all) with Tutor LMS Pro, first app build on App Core 3.2.4
 - 153/153847 BuddyBoss Platform private message email notifications not sent when notification delay is enabled (5 or 15 minutes), emails work only when delay is disabled, recipient logged out
+- 153/153905-2 BuddyBoss App Next Gen Android Send Build Request fails with Error downloading app resources from client server, hosting provider returns 400 Bad Request for the BuddyBossBot user agent
 - 153/153911-2 BuddyBoss App Classic block with HTML and shortcodes uses web fallback (WebView) and causes scrolling problems that make the page impossible to navigate and duplicates the LearnDash lesson list in the app
 - 154/154278 BuddyBoss App Next Gen build fails only when dark mode is enabled, no error code shown, build succeeds with dark mode disabled, build files arrive empty on slow host behind Cloudflare
 - 154/154490 BuddyBoss App Next Gen LearnDash lesson button shows raw key ld_mark_as_incomplete, Mark as Incomplete string missing from BuddyBoss App Translations, custom wording from Loco Translate not showing in app after moving from Classic app

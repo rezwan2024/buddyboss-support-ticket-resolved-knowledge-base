@@ -13,5 +13,10 @@
 "fix": "unconfirmed",
 "title": "BuddyBoss App Next Gen LearnDash lesson button shows raw key ld_mark_as_incomplete, Mark as Incomplete string missing from BuddyBoss App Translations list, wording from older app lost after moving to Next Gen",
 "type": "app"
+},
+"154/154769": {
+"fix": "confirmed",
+"title": "BuddyBoss Platform member who blocks another member can still see the blocked member's posts in the activity feed, block only works one way (blocked member cannot see blocker), privacy bug fixed in Platform 3.5.1",
+"type": "web"
 }
 }
