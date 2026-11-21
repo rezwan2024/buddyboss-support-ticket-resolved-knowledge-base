@@ -12,6 +12,7 @@ To confirm one, change its header line to fix: confirmed and push.
 - 159/159218 BuddyBoss App blog post in Activity Feed takes multiple taps to open or does not respond to taps on iOS and Android, worse after returning to the app or reopening it, possibly on pinned blog posts
 - 159/159261-2 BuddyBoss App Android shows "Critical Error" message when commenting on a group activity post, still happens after reinstalling the app
 - 159/159405 BuddyBoss App unable to connect to the BuddyBoss App Center from WordPress admin, cannot request a new app build because the App Center connection fails
+- 159/159428 BuddyBoss Platform View as member from WP Admin Users, browser back button shows error and admin seems logged out, black top bar and Switch back to Admin link missing in Firefox
 - 159/159646 BuddyBoss App Next Gen (Flutter) LearnDash Courses screen shows section headings for a second then "Something went wrong - tap to retry", single course also fails, while all LearnDash course API endpoints return HTTP 200 with valid data, App plugin 3.2.6 with LearnDash 4.25.6
 - 159/159846 BuddyBoss App Next Gen image descriptions missing when swiping through activity photos on iOS, shown in some places (groups, main gallery) but not others, while the website shows them correctly
 - 159/159846-2 BuddyBoss App Next Gen left-right swipe between images does not work in the main media gallery, each photo must be closed to open the next, while swiping works in activity images
@@ -19,3 +20,4 @@ To confirm one, change its header line to fix: confirmed and push.
 - 160/160485 BuddyBoss App Events Calendar map view, tapping a map pin moves the map but the events list on the page does not change or filter to that location
 - 160/160486 BuddyBoss App event details card does not show the event website link that the BuddyBoss Theme shows on the web event page
 - 160/160724 BuddyBoss support ticket "Visitor requested a human" is an automated alert from a third-party live chat tool on the customer site, not a BuddyBoss issue, because the support email was added as a chat notification recipient
+- 160/160753 BuddyBoss Platform how to add a per-member store on the profile where members upload their own products, with points, store balance, product requests from friends and activity feed sharing, similar to the Documents tab folders (feature question)

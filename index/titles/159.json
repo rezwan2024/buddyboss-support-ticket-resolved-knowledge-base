@@ -59,6 +59,11 @@
 "title": "BuddyBoss App unable to connect to the BuddyBoss App Center from WordPress admin, cannot request a new app build because the App Center connection fails",
 "type": "app"
 },
+"159/159428": {
+"fix": "unconfirmed",
+"title": "BuddyBoss Platform View as member from WP Admin Users, browser back button shows error and admin seems logged out, black top bar and Switch back to Admin link missing in Firefox",
+"type": "web"
+},
 "159/159646": {
 "fix": "unconfirmed",
 "title": "BuddyBoss App Next Gen (Flutter) LearnDash Courses screen shows section headings for a second then \"Something went wrong - tap to retry\", single course also fails, while all LearnDash course API endpoints return HTTP 200 with valid data, App plugin 3.2.6 with LearnDash 4.25.6",

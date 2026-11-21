@@ -1,4 +1,19 @@
 {
+"160/160479": {
+"fix": "confirmed",
+"title": "BuddyBoss App (Classic and Next Gen) multilingual setup, Polylang translated pages not showing per language in the app, is WPML required, does Loco Translate carry over to app translations",
+"type": "app"
+},
+"160/160479-2": {
+"fix": "confirmed",
+"title": "BuddyBoss App push notifications not sent in each user's app language, French or German user receives notifications in the site default language, multilingual app push notification language per recipient and how to disable push",
+"type": "app"
+},
+"160/160479-3": {
+"fix": "confirmed",
+"title": "BuddyBoss App do custom WordPress pages built with Elementor show in the app or only BuddyBoss pages like the activity feed, private page visible only to admin and the logged-in user",
+"type": "app"
+},
 "160/160485": {
 "fix": "unconfirmed",
 "title": "BuddyBoss App Events Calendar map view, tapping a map pin moves the map but the events list on the page does not change or filter to that location",
@@ -9,9 +24,19 @@
 "title": "BuddyBoss App event details card does not show the event website link that the BuddyBoss Theme shows on the web event page",
 "type": "app"
 },
+"160/160545": {
+"fix": "confirmed",
+"title": "BuddyBoss Platform password reset link always shows invalid link error after clicking the reset email, with Private Network enabled, plugin deactivation does not help",
+"type": "web"
+},
 "160/160724": {
 "fix": "unconfirmed",
 "title": "BuddyBoss support ticket \"Visitor requested a human\" is an automated alert from a third-party live chat tool on the customer site, not a BuddyBoss issue, because the support email was added as a chat notification recipient",
+"type": "web"
+},
+"160/160753": {
+"fix": "unconfirmed",
+"title": "BuddyBoss Platform how to add a per-member store on the profile where members upload their own products, with points, store balance, product requests from friends and activity feed sharing, similar to the Documents tab folders (feature question)",
 "type": "web"
 }
 }
