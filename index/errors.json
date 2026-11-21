@@ -36,6 +36,9 @@
 "159/159127-2",
 "159/159199"
 ],
+"error: api login for user disabled": [
+"161/161479"
+],
 "excluded by noindex tag": [
 "160/160386"
 ],
@@ -124,6 +127,9 @@
 ],
 "upgrade plus": [
 "161/161109"
+],
+"upgrade scale": [
+"161/161318"
 ],
 "verification failed, please try again.": [
 "159/159964"

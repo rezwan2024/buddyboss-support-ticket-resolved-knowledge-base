@@ -6,6 +6,9 @@
 "authenticate": [
 "159/159964:integration"
 ],
+"authentication": [
+"161/161479:app"
+],
 "auto": [
 "161/161129:web"
 ],

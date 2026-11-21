@@ -1,7 +1,8 @@
 {
 "type": [
 "159/159290:app",
-"161/161062:integration"
+"161/161062:integration",
+"161/161479:app"
 ],
 "typeerror": [
 "149/149241:web",
