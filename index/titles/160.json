@@ -1,4 +1,14 @@
 {
+"160/160373": {
+"fix": "confirmed",
+"title": "BuddyBoss App Legacy and Next Gen uploaded videos and YouTube videos not playing in the app after updating BuddyBoss plugins and generating a new Android build",
+"type": "app"
+},
+"160/160373-2": {
+"fix": "unconfirmed",
+"title": "BuddyBoss App Android YouTube video in a post opens a YouTube web window asking the user to sign in, \"Sign in to confirm you're not a bot\", and the prompt comes back a few hours after signing in",
+"type": "app"
+},
 "160/160386": {
 "fix": "confirmed",
 "title": "BuddyBoss Platform 1.7.5 single Activity pages show noindex in Google Search Console, does BuddyBoss add a noindex robots meta tag to activity permalinks",
@@ -177,6 +187,11 @@
 "160/160990": {
 "fix": "confirmed",
 "title": "BuddyBoss Platform, Platform Pro, Theme and Addons pending updates (Platform 3.6.1, Pro 3.3.3, Theme 2.22.3, Addons 1.2.2) not in release notes, customer asks if the updates are genuine and how to verify them before installing",
+"type": "web"
+},
+"160/160992": {
+"fix": "unconfirmed",
+"title": "BuddyBoss Theme settings show \"Access Restricted\" warning even though the license is active and was deactivated and re-entered, site firewall plugin may block the license check",
 "type": "web"
 },
 "160/160994": {

@@ -73,5 +73,15 @@
 "fix": "unconfirmed",
 "title": "BuddyBoss App Next Gen presale question, native livestreaming in iOS and Android app with Mux, Go Live button in activity composer, custom JavaScript not supported in Flutter app, feature request",
 "type": "app"
+},
+"161/161509": {
+"fix": "unconfirmed",
+"title": "BuddyBoss App Next Gen with Paid Memberships Pro (PMPro), is PMPro supported or do we need to switch to MemberPress or BuddyBoss Memberships, plus WooCommerce Subscriptions payments and memberships given by activation codes or invitations",
+"type": "integration"
+},
+"161/161715": {
+"fix": "confirmed",
+"title": "BuddyBoss Sharing add-on with Yoast SEO 28.7 - \"There has been a critical error on this website\" on Notifications, Groups, member profiles and other community pages while News Feed and the app still work, after updating Yoast SEO",
+"type": "addon"
 }
 }

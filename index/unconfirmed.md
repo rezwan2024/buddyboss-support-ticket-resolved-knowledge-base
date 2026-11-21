@@ -26,6 +26,7 @@ To confirm one, change its header line to fix: confirmed and push.
 - 159/159940 BuddyBoss Platform admin Inbox notification count stuck at 6 unread, dismissed or read notices go back to unread after page reload in the BuddyBoss Settings admin Inbox bell
 - 159/159964 BuddyBoss Platform reCAPTCHA v3 on login breaks Wordfence 2FA, the Log In button does nothing or shows "Verification failed, please try again." after entering the six-digit 2FA code
 - 159/159964-2 BuddyBoss Platform reCAPTCHA settings page missing from admin, bb-settings&tab=recaptcha shows "Feature not found" but the stored reCAPTCHA settings are still active on login, registration and lost password
+- 160/160373-2 BuddyBoss App Android YouTube video in a post opens a YouTube web window asking the user to sign in, "Sign in to confirm you're not a bot", and the prompt comes back a few hours after signing in
 - 160/160389 BuddyBoss Platform license activation fails on staging site with "License activation failed: The requested action could not be performed due to validation errors. The license does not have any available production activations remaining" while the license page still shows activations available
 - 160/160389-2 BuddyBoss account checkout shows "Invalid URL: Please go to your Account area and try again" when applying account credit to buy more licenses
 - 160/160471 BuddyBoss Platform Polls - cannot create a poll in an activity post from the website or the BuddyBoss App, tried several times with different options
@@ -47,6 +48,7 @@ To confirm one, change its header line to fix: confirmed and push.
 - 160/160806 BuddyBoss Membership message "You are unauthorized to view this page." not translated with Loco Translate on the login page shown when a restricted course is opened
 - 160/160806-2 BuddyBoss Membership asking when Stripe Elements functionality will be working, Stripe payment block on any page not available
 - 160/160867 BuddyBoss Platform plugin cannot be updated from WordPress, update notice says license does not allow the update even though the license is active in the BuddyBoss account dashboard
+- 160/160992 BuddyBoss Theme settings show "Access Restricted" warning even though the license is active and was deactivated and re-entered, site firewall plugin may block the license check
 - 160/160994-2 BuddyBoss Platform Group page shows error instead of loading the Group, error from forum reply form checking forum subscription notification setting, also member directory not found
 - 161/161038 BuddyBoss Platform WordPress admin bar (toolbar) showing at the top of the site for all logged-in members, not only admins, noticed after changing the custom logo in BuddyBoss Theme Options for the Login/Register page
 - 161/161042 BuddyBoss Theme or ReadyLaunch how to remove the center header navigation menu on desktop only and remove the side navigation (BuddyPanel or left side menu) on mobile only
@@ -56,3 +58,4 @@ To confirm one, change its header line to fix: confirmed and push.
 - 161/161119 BuddyBoss App presale question about custom development, incoming voice and video calls ringing when the app is closed or the phone is locked with Better Messages WebSocket, AdMob ads SDK cost, source code ownership and whether the app keeps working after the subscription ends
 - 161/161127 BuddyBoss Platform update fails with "Update failed: Download failed. A valid URL was not provided." after activating a new license key, update notice offers an older version than the installed 3.6.1
 - 161/161393 BuddyBoss App Next Gen presale question, native livestreaming in iOS and Android app with Mux, Go Live button in activity composer, custom JavaScript not supported in Flutter app, feature request
+- 161/161509 BuddyBoss App Next Gen with Paid Memberships Pro (PMPro), is PMPro supported or do we need to switch to MemberPress or BuddyBoss Memberships, plus WooCommerce Subscriptions payments and memberships given by activation codes or invitations
