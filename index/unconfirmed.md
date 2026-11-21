@@ -20,6 +20,7 @@ To confirm one, change its header line to fix: confirmed and push.
 - 159/159405 BuddyBoss App unable to connect to the BuddyBoss App Center from WordPress admin, cannot request a new app build because the App Center connection fails
 - 159/159428 BuddyBoss Platform View as member from WP Admin Users, browser back button shows error and admin seems logged out, black top bar and Switch back to Admin link missing in Firefox
 - 159/159646 BuddyBoss App Next Gen (Flutter) LearnDash Courses screen shows section headings for a second then "Something went wrong - tap to retry", single course also fails, while all LearnDash course API endpoints return HTTP 200 with valid data, App plugin 3.2.6 with LearnDash 4.25.6
+- 159/159767 BuddyBoss Platform hidden groups - posts made in a hidden group appear in the main sitewide Activity feed (News Feed), customer says everyone can see them, Platform 3.5.1 and Pro 3.3.2
 - 159/159846 BuddyBoss App Next Gen image descriptions missing when swiping through activity photos on iOS, shown in some places (groups, main gallery) but not others, while the website shows them correctly
 - 159/159846-2 BuddyBoss App Next Gen left-right swipe between images does not work in the main media gallery, each photo must be closed to open the next, while swiping works in activity images
 - 159/159940 BuddyBoss Platform admin Inbox notification count stuck at 6 unread, dismissed or read notices go back to unread after page reload in the BuddyBoss Settings admin Inbox bell

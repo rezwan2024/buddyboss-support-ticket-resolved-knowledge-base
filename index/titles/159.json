@@ -104,6 +104,11 @@
 "title": "BuddyBoss Theme Google Analytics tracking code not detected, Google says \"No Google Analytics was found on your website\" after pasting the snippet in Theme Options, fixed by clearing Cloudflare CDN cache",
 "type": "web"
 },
+"159/159767": {
+"fix": "unconfirmed",
+"title": "BuddyBoss Platform hidden groups - posts made in a hidden group appear in the main sitewide Activity feed (News Feed), customer says everyone can see them, Platform 3.5.1 and Pro 3.3.2",
+"type": "web"
+},
 "159/159846": {
 "fix": "unconfirmed",
 "title": "BuddyBoss App Next Gen image descriptions missing when swiping through activity photos on iOS, shown in some places (groups, main gallery) but not others, while the website shows them correctly",

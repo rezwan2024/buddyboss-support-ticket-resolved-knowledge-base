@@ -1,4 +1,9 @@
 {
+"160/160410": {
+"fix": "confirmed",
+"title": "BuddyBoss App blog slider missing and some blog posts show \"An unknown error occurred\" or \"Blog post not found\" in the app while they work on the website, caused by Elementor CSS printed before the REST API JSON",
+"type": "integration"
+},
 "160/160479": {
 "fix": "confirmed",
 "title": "BuddyBoss App (Classic and Next Gen) multilingual setup, Polylang translated pages not showing per language in the app, is WPML required, does Loco Translate carry over to app translations",
@@ -37,6 +42,21 @@
 "160/160753": {
 "fix": "unconfirmed",
 "title": "BuddyBoss Platform how to add a per-member store on the profile where members upload their own products, with points, store balance, product requests from friends and activity feed sharing, similar to the Documents tab folders (feature question)",
+"type": "web"
+},
+"160/160793": {
+"fix": "confirmed",
+"title": "BuddyBoss Platform forums and BuddyBoss App members cannot delete their own forum discussions, Delete option missing for regular members on web and app, is it a bug and can it be enabled",
+"type": "web"
+},
+"160/160793-2": {
+"fix": "confirmed",
+"title": "BuddyBoss Platform forums three-dot menu missing on own discussions for Subscriber role members, no Edit option on web and BuddyBoss App",
+"type": "web"
+},
+"160/160861": {
+"fix": "confirmed",
+"title": "BuddyBoss Platform Pro activity post freezes after clicking Post when visibility is \"My profile\" or \"All members\", console error \"Cannot read properties of null (reading 'id')\" in post feature image script, regular members only, Public and group posts work, fixed in Platform Pro 3.3.3",
 "type": "web"
 }
 }
