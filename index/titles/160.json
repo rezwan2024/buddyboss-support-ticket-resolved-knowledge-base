@@ -129,6 +129,11 @@
 "title": "BuddyBoss Platform how to add a custom \"Store\" tab to member profiles with the same design as the Documents section, showing products, member balance, search, and likes and comments linked to activity posts",
 "type": "web"
 },
+"160/160758": {
+"fix": "unconfirmed",
+"title": "BuddyBoss Platform feature request to add a Shop or Store tab to member profiles, designed like the Documents section, with each product linked to an Activity post for likes and comments, instead of using marketplace add-ons",
+"type": "web"
+},
 "160/160793": {
 "fix": "confirmed",
 "title": "BuddyBoss Platform forums and BuddyBoss App members cannot delete their own forum discussions, Delete option missing for regular members on web and app, is it a bug and can it be enabled",
@@ -139,6 +144,26 @@
 "title": "BuddyBoss Platform forums three-dot menu missing on own discussions for Subscriber role members, no Edit option on web and BuddyBoss App",
 "type": "web"
 },
+"160/160797": {
+"fix": "unconfirmed",
+"title": "BuddyBoss App open as guest on launch and skip the login screen, Private App disabled, app shows native login screen first and users must tap Continue without logging in to reach logged-out Home tab, Classic and App Next Gen",
+"type": "app"
+},
+"160/160797-2": {
+"fix": "unconfirmed",
+"title": "BuddyBoss App iOS dev build failed, build log shows the development provisioning profile in the Apple Developer account has expired",
+"type": "app"
+},
+"160/160806": {
+"fix": "unconfirmed",
+"title": "BuddyBoss Membership message \"You are unauthorized to view this page.\" not translated with Loco Translate on the login page shown when a restricted course is opened",
+"type": "web"
+},
+"160/160806-2": {
+"fix": "unconfirmed",
+"title": "BuddyBoss Membership asking when Stripe Elements functionality will be working, Stripe payment block on any page not available",
+"type": "web"
+},
 "160/160861": {
 "fix": "confirmed",
 "title": "BuddyBoss Platform Pro activity post freezes after clicking Post when visibility is \"My profile\" or \"All members\", console error \"Cannot read properties of null (reading 'id')\" in post feature image script, regular members only, Public and group posts work, fixed in Platform Pro 3.3.3",
@@ -147,6 +172,21 @@
 "160/160867": {
 "fix": "unconfirmed",
 "title": "BuddyBoss Platform plugin cannot be updated from WordPress, update notice says license does not allow the update even though the license is active in the BuddyBoss account dashboard",
+"type": "web"
+},
+"160/160990": {
+"fix": "confirmed",
+"title": "BuddyBoss Platform, Platform Pro, Theme and Addons pending updates (Platform 3.6.1, Pro 3.3.3, Theme 2.22.3, Addons 1.2.2) not in release notes, customer asks if the updates are genuine and how to verify them before installing",
+"type": "web"
+},
+"160/160994": {
+"fix": "confirmed",
+"title": "BuddyBoss Theme customizations not applying to Account page, Forums, Groups and Member Directory, only rest of site styled, ReadyLaunch enabled in BuddyBoss Platform",
+"type": "web"
+},
+"160/160994-2": {
+"fix": "unconfirmed",
+"title": "BuddyBoss Platform Group page shows error instead of loading the Group, error from forum reply form checking forum subscription notification setting, also member directory not found",
 "type": "web"
 }
 }

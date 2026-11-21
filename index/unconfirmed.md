@@ -41,4 +41,10 @@ To confirm one, change its header line to fix: confirmed and push.
 - 160/160724 BuddyBoss support ticket "Visitor requested a human" is an automated alert from a third-party live chat tool on the customer site, not a BuddyBoss issue, because the support email was added as a chat notification recipient
 - 160/160753 BuddyBoss Platform how to add a per-member store on the profile where members upload their own products, with points, store balance, product requests from friends and activity feed sharing, similar to the Documents tab folders (feature question)
 - 160/160754 BuddyBoss Platform how to add a custom "Store" tab to member profiles with the same design as the Documents section, showing products, member balance, search, and likes and comments linked to activity posts
+- 160/160758 BuddyBoss Platform feature request to add a Shop or Store tab to member profiles, designed like the Documents section, with each product linked to an Activity post for likes and comments, instead of using marketplace add-ons
+- 160/160797 BuddyBoss App open as guest on launch and skip the login screen, Private App disabled, app shows native login screen first and users must tap Continue without logging in to reach logged-out Home tab, Classic and App Next Gen
+- 160/160797-2 BuddyBoss App iOS dev build failed, build log shows the development provisioning profile in the Apple Developer account has expired
+- 160/160806 BuddyBoss Membership message "You are unauthorized to view this page." not translated with Loco Translate on the login page shown when a restricted course is opened
+- 160/160806-2 BuddyBoss Membership asking when Stripe Elements functionality will be working, Stripe payment block on any page not available
 - 160/160867 BuddyBoss Platform plugin cannot be updated from WordPress, update notice says license does not allow the update even though the license is active in the BuddyBoss account dashboard
+- 160/160994-2 BuddyBoss Platform Group page shows error instead of loading the Group, error from forum reply form checking forum subscription notification setting, also member directory not found
