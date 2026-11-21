@@ -22,6 +22,7 @@
 "161/161715:addon"
 ],
 "before": [
+"159/159587:integration",
 "160/160410:integration",
 "160/160990:web"
 ],

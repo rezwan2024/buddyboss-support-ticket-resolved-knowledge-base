@@ -14,6 +14,7 @@
 "159/159297:web",
 "159/159361:web",
 "159/159405:app",
+"159/159587:integration",
 "160/160389-2:account",
 "160/160666:app",
 "160/160797-2:app",
@@ -30,6 +31,7 @@
 ],
 "activated": [
 "159/159297:web",
+"159/159587:integration",
 "161/161129:web"
 ],
 "activating": [
@@ -38,6 +40,7 @@
 "activation": [
 "157/157605:integration",
 "159/159297:web",
+"159/159587:integration",
 "160/160389:account",
 "161/161129:web",
 "161/161509:integration"
