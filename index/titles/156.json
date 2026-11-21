@@ -104,6 +104,11 @@
 "title": "BuddyBoss App Next Gen iOS Test App (Ad Hoc) asks testers to enable Developer Mode before it opens, how to share test builds with non-technical clients through TestFlight without Xcode",
 "type": "app"
 },
+"156/156481": {
+"fix": "confirmed",
+"title": "BuddyBoss App Next Gen iOS cannot select or vote on poll options in a group activity feed, older open polls not tappable while new polls work and desktop web works",
+"type": "app"
+},
 "156/156484": {
 "fix": "confirmed",
 "title": "BuddyBoss App iOS build rejected by Apple App Store review under Guideline 4 Design because Sign in with Apple asks the user again for name, email or username before account creation, with BuddyBoss registration enabled on App core 3.1.7",

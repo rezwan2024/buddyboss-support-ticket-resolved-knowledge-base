@@ -1,4 +1,9 @@
 {
+"155/155215": {
+"fix": "unconfirmed",
+"title": "BuddyBoss Platform and Theme web direct message notification opens the Messages inbox or a random conversation instead of the exact DM, and the message the notification refers to cannot be found, with a custom Elementor header",
+"type": "web"
+},
 "155/155392": {
 "fix": "confirmed",
 "title": "BuddyBoss Platform WP Fusion integration settings missing from BuddyBoss Groups after updating to the latest Platform and Theme, group-based tagging and automations settings no longer shown",

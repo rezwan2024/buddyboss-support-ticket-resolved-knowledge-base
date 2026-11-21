@@ -1,4 +1,14 @@
 {
+"157/157043": {
+"fix": "unconfirmed",
+"title": "BuddyBoss Gamification and Member Blogging add-ons stay in English after translating strings to German with Loco Translate, translations have no effect",
+"type": "addon"
+},
+"157/157122": {
+"fix": "unconfirmed",
+"title": "BuddyBoss Platform 3.0.4 Network Search Members report of SQL injection, search term not escaped in the Members search query, reachable by logged-out visitors through the search AJAX endpoint",
+"type": "web"
+},
 "157/157191": {
 "fix": "confirmed",
 "title": "BuddyBoss App Next Gen LearnDash quizzes show yellow highlight or underline on quiz answers in the app on iOS and Android, looks like a bug, cannot turn it off",
@@ -28,6 +38,16 @@
 "fix": "unconfirmed",
 "title": "Tutor LMS 4.0 Tutor Dashboard broken, layout not working with BuddyBoss Theme active after updating Tutor LMS to 4.0, works with Twenty Twenty-Five",
 "type": "integration"
+},
+"157/157583": {
+"fix": "confirmed",
+"title": "BuddyBoss membership products, Edit with Elementor loads forever with no error, and in Elementor Safe Mode it redirects to the Posts list, while all other Elementor pages edit fine",
+"type": "integration"
+},
+"157/157583-2": {
+"fix": "unconfirmed",
+"title": "BuddyBoss Theme membership product page shows the logged-in private area navigation (left and top menu) while other public pages do not",
+"type": "web"
 },
 "157/157605": {
 "fix": "confirmed",

@@ -14,6 +14,7 @@ To confirm one, change its header line to fix: confirmed and push.
 - 153/153911-2 BuddyBoss App Classic block with HTML and shortcodes uses web fallback (WebView) and causes scrolling problems that make the page impossible to navigate and duplicates the LearnDash lesson list in the app
 - 154/154490 BuddyBoss App Next Gen LearnDash lesson button shows raw key ld_mark_as_incomplete, Mark as Incomplete string missing from BuddyBoss App Translations, custom wording from Loco Translate not showing in app after moving from Classic app
 - 154/154490-2 BuddyBoss App Next Gen LearnDash lesson button shows raw key ld_mark_as_incomplete, Mark as Incomplete string missing from BuddyBoss App Translations list, wording from older app lost after moving to Next Gen
+- 155/155215 BuddyBoss Platform and Theme web direct message notification opens the Messages inbox or a random conversation instead of the exact DM, and the message the notification refers to cannot be found, with a custom Elementor header
 - 156/156072 BuddyBoss Platform Pro license activation fails in BuddyBoss License Activation with error "License activation failed: The requested action could not be performed due to validation errors"
 - 156/156143 BuddyBoss App iOS and Android Sign In and Create an Account pages do not load and LinkedIn social login does not work in the app, no error shown, while social login and registration work on the website in a mobile browser
 - 156/156193 BuddyBoss Courses add-on has no certificates, no certificate post type found and no certificate offered to the student at 100% course completion, Certificate Builder only available through the LearnDash integration
@@ -40,8 +41,11 @@ To confirm one, change its header line to fix: confirmed and push.
 - 156/156780 BuddyBoss App Next Gen custom group tab created with PHP (bp_register_group_extension) or a tab creator plugin fails to load, loops back to the start or kicks the user out of the app, works fine in the Classic app and in the browser, iOS and Android
 - 156/156907-3 BuddyBoss App iOS Test build fails with an error after the test provisioning profile was fixed, while moving to the new app version
 - 156/156966 BuddyBoss Theme and Platform Pro license shows invalid or incomplete even though the new BuddyBoss Web license is active with 1 of 1 sites activated, caused by very old Platform, Pro and Theme versions
+- 157/157043 BuddyBoss Gamification and Member Blogging add-ons stay in English after translating strings to German with Loco Translate, translations have no effect
+- 157/157122 BuddyBoss Platform 3.0.4 Network Search Members report of SQL injection, search term not escaped in the Members search query, reachable by logged-out visitors through the search AJAX endpoint
 - 157/157227 BuddyBoss App likes on images or videos in group post comments are not registered when liked from the opened full media view, like works only from the thumbnail in the comment
 - 157/157477 Tutor LMS 4.0 Tutor Dashboard broken, layout not working with BuddyBoss Theme active after updating Tutor LMS to 4.0, works with Twenty Twenty-Five
+- 157/157583-2 BuddyBoss Theme membership product page shows the logged-in private area navigation (left and top menu) while other public pages do not
 - 157/157622 BuddyBoss Membership 1.14.1 fatal error when clicking a paid membership plan or Change Plan, checkout page breaks at the Stripe payment step, Class "BbmsStripeTaxIntegration" not found, paid Stripe checkouts cannot complete
 - 157/157686 BuddyBoss App cannot generate a Test Build from the App Secondary website, the build requires all BuddyBoss plugins to be up to date on the primary website first, so App updates cannot be tested on staging before production
 - 157/157971 BuddyBoss App PDF file only shows a preview with no option to download, open or fill it out inside a LifterLMS lesson or course, while download works from the activity feed
