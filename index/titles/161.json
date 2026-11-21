@@ -169,6 +169,16 @@
 "title": "BuddyBoss Sharing add-on with Yoast SEO 28.7 - \"There has been a critical error on this website\" on Notifications, Groups, member profiles and other community pages while News Feed and the app still work, after updating Yoast SEO",
 "type": "addon"
 },
+"161/161751": {
+"fix": "confirmed",
+"title": "BuddyBoss Platform Pro LearnDash settings page shows \"Requires Plugin to Activate\" and LearnDash missing from admin sidebar, customer thought LearnDash was included in the BuddyBoss plan",
+"type": "integration"
+},
+"161/161751-2": {
+"fix": "confirmed",
+"title": "BuddyBoss BB Courses where to set quiz feedback for wrong answers and show question results to learners, customer looked in LearnDash settings instead",
+"type": "web"
+},
 "161/161806": {
 "fix": "unconfirmed",
 "title": "BuddyBoss App signup form shows a required Nickname field even though the display name is set to First Name only, how to remove Nickname from app registration",
@@ -198,6 +208,31 @@
 "fix": "unconfirmed",
 "title": "BuddyBoss Platform with WooCommerce - regular members opening /wp-admin/ are redirected to WooCommerce My Account instead of the News Feed set in BuddyBoss login redirect settings, customer asks to reopen an auto-closed ticket",
 "type": "integration"
+},
+"161/161841": {
+"fix": "unconfirmed",
+"title": "BuddyBoss App Android keyboard covers the Save button on Account Settings > Login Information change password screen, keyboard cannot be dismissed and screen cannot scroll, on an old app build",
+"type": "app"
+},
+"161/161845": {
+"fix": "unconfirmed",
+"title": "BuddyBoss Platform Pro and Theme phased update from 2.21.0 to 3.6.1, request for older intermediate versions (3.0.x, 3.1.x) because the account dashboard only offers downloads back to 3.4.4, plus LearnDash add-on split, WP Fusion and ACF compatibility in 3.x",
+"type": "web"
+},
+"161/161883": {
+"fix": "confirmed",
+"title": "BuddyBoss Membership (Platform) migrating from Paid Memberships Pro, how to connect membership plans to WordPress user roles or profile types, move existing members to matching plans and prepare for paid plans later",
+"type": "web"
+},
+"161/161883-2": {
+"fix": "unconfirmed",
+"title": "BuddyBoss Membership (Platform) show or hide website menu items by membership plan instead of WordPress user role, no built-in menu visibility option",
+"type": "web"
+},
+"161/161899": {
+"fix": "unconfirmed",
+"title": "BuddyBoss App customer receiving unsolicited emails from third-party BuddyBoss development agencies before the app is published, asks how they know and whether BuddyBoss shared customer data (privacy concern)",
+"type": "account"
 },
 "161/161930": {
 "fix": "confirmed",
