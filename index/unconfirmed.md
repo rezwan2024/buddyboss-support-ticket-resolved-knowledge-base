@@ -7,10 +7,16 @@ To confirm one, change its header line to fix: confirmed and push.
 - 153/153847 BuddyBoss Platform private message email notifications not sent when notification delay is enabled (5 or 15 minutes), emails work only when delay is disabled, recipient logged out
 - 154/154490 BuddyBoss App Next Gen LearnDash lesson button shows raw key ld_mark_as_incomplete, Mark as Incomplete string missing from BuddyBoss App Translations, custom wording from Loco Translate not showing in app after moving from Classic app
 - 154/154490-2 BuddyBoss App Next Gen LearnDash lesson button shows raw key ld_mark_as_incomplete, Mark as Incomplete string missing from BuddyBoss App Translations list, wording from older app lost after moving to Next Gen
+- 156/156780 BuddyBoss App Next Gen custom group tab created with PHP (bp_register_group_extension) or a tab creator plugin fails to load, loops back to the start or kicks the user out of the app, works fine in the Classic app and in the browser, iOS and Android
+- 157/157971 BuddyBoss App PDF file only shows a preview with no option to download, open or fill it out inside a LifterLMS lesson or course, while download works from the activity feed
 - 159/159119 BuddyBoss App menu item "Always open in external browser" checkbox not saved, unchecks after Save Menu and link still opens inside the app (More menu, caching and security plugins active)
 - 159/159127-2 BuddyBoss App build fails in App Center with "Error downloading app resources from client server" because a firewall or Cloudflare blocks the BuddyBossBot user agent from downloading the language file
+- 159/159199-2 LearnDash App customer asks BuddyBoss for a license credit, renewal discount or extension because a build issue delayed their app launch
 - 159/159218 BuddyBoss App blog post in Activity Feed takes multiple taps to open or does not respond to taps on iOS and Android, worse after returning to the app or reopening it, possibly on pinned blog posts
 - 159/159261-2 BuddyBoss App Android shows "Critical Error" message when commenting on a group activity post, still happens after reinstalling the app
+- 159/159397 BuddyBoss Platform activity feed not loading, Recent Activity page loading icon keeps spinning forever on a Spanish site, not fixed by updating Platform and Platform Pro, caused by a broken placeholder in the Spanish translation crashing on newer PHP
+- 159/159397-2 BuddyBoss Platform forum discussion missing from the Recent Conversations or Latest Conversations widget on the Recent Activity page while other topics in the same forum show
+- 159/159397-3 BuddyBoss Theme how to hide or remove the Share on social sharing icons section under single blog posts, no setting in the Customizer
 - 159/159405 BuddyBoss App unable to connect to the BuddyBoss App Center from WordPress admin, cannot request a new app build because the App Center connection fails
 - 159/159428 BuddyBoss Platform View as member from WP Admin Users, browser back button shows error and admin seems logged out, black top bar and Switch back to Admin link missing in Firefox
 - 159/159646 BuddyBoss App Next Gen (Flutter) LearnDash Courses screen shows section headings for a second then "Something went wrong - tap to retry", single course also fails, while all LearnDash course API endpoints return HTTP 200 with valid data, App plugin 3.2.6 with LearnDash 4.25.6

@@ -28,5 +28,10 @@
 "fix": "confirmed",
 "title": "BuddyBoss App iOS rejected by Apple App Review because Sign in with Apple and SSO buttons look transparent or invisible on the login screen when a Login Background image is set in Branding",
 "type": "app"
+},
+"157/157971": {
+"fix": "unconfirmed",
+"title": "BuddyBoss App PDF file only shows a preview with no option to download, open or fill it out inside a LifterLMS lesson or course, while download works from the activity feed",
+"type": "app"
 }
 }

@@ -4,6 +4,11 @@
 "title": "BuddyBoss Platform user blocking does not work, blocked user still sees and comments on the blocking user's posts in the activity feed and groups, mention shows \"@undefined\", fixed in Platform 3.5.1",
 "type": "web"
 },
+"156/156780": {
+"fix": "unconfirmed",
+"title": "BuddyBoss App Next Gen custom group tab created with PHP (bp_register_group_extension) or a tab creator plugin fails to load, loops back to the start or kicks the user out of the app, works fine in the Classic app and in the browser, iOS and Android",
+"type": "app"
+},
 "156/156848": {
 "fix": "confirmed",
 "title": "BuddyBoss App critical error crash when opening comments on a group activity post that has a reaction on a comment, TypeError undefined is not a function in titleTrim, iOS and Android, Platform 3.4.3 and App plugin 3.2.3",
