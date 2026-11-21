@@ -154,6 +154,11 @@
 "title": "BuddyBoss Platform feature request to add a Shop or Store tab to member profiles, designed like the Documents section, with each product linked to an Activity post for likes and comments, instead of using marketplace add-ons",
 "type": "web"
 },
+"160/160770": {
+"fix": "unconfirmed",
+"title": "BuddyBoss App iOS Messages list not moving forward, keeps scrolling back and older conversations do not load on iPhone and iPad, app in App Store outdated because the new iOS build failed on an Apple signing setting",
+"type": "app"
+},
 "160/160793": {
 "fix": "confirmed",
 "title": "BuddyBoss Platform forums and BuddyBoss App members cannot delete their own forum discussions, Delete option missing for regular members on web and app, is it a bug and can it be enabled",
@@ -194,6 +199,16 @@
 "title": "BuddyBoss Platform plugin cannot be updated from WordPress, update notice says license does not allow the update even though the license is active in the BuddyBoss account dashboard",
 "type": "web"
 },
+"160/160967": {
+"fix": "confirmed",
+"title": "BuddyBoss Theme site completely down with fatal error after updating BuddyBoss Platform to 3.6.0, Call to undefined method BB_License_Manager::checkLicenseStatus() from an older Theme version",
+"type": "web"
+},
+"160/160967-2": {
+"fix": "unconfirmed",
+"title": "BuddyBoss account Downloads page shows only plugins and no BuddyBoss Theme download, although the Licenses page lists an active Theme license",
+"type": "account"
+},
 "160/160990": {
 "fix": "confirmed",
 "title": "BuddyBoss Platform, Platform Pro, Theme and Addons pending updates (Platform 3.6.1, Pro 3.3.3, Theme 2.22.3, Addons 1.2.2) not in release notes, customer asks if the updates are genuine and how to verify them before installing",
@@ -212,6 +227,21 @@
 "160/160994-2": {
 "fix": "unconfirmed",
 "title": "BuddyBoss Platform Group page shows error instead of loading the Group, error from forum reply form checking forum subscription notification setting, also member directory not found",
+"type": "web"
+},
+"160/160995": {
+"fix": "confirmed",
+"title": "BuddyBoss App API Caching cannot be installed because the host makes wp-content/mu-plugins read-only (Hostinger Agency hosting), customer told the platform cannot work without mu-plugins write access",
+"type": "app"
+},
+"160/160995-2": {
+"fix": "unconfirmed",
+"title": "BuddyBoss Platform 504 Gateway Time-out when editing profile or uploading a profile cover/header image, BuddyBoss settings in wp-admin also not loading data, on managed hosting after a new install",
+"type": "web"
+},
+"160/160995-3": {
+"fix": "unconfirmed",
+"title": "BuddyBoss ReadyLaunch community pages not showing site logo, original site menu or slogan after installing BuddyBoss Platform and Theme, and where to change the footer copyright text",
 "type": "web"
 }
 }

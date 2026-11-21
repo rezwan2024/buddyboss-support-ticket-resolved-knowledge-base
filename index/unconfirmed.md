@@ -44,13 +44,17 @@ To confirm one, change its header line to fix: confirmed and push.
 - 160/160753 BuddyBoss Platform how to add a per-member store on the profile where members upload their own products, with points, store balance, product requests from friends and activity feed sharing, similar to the Documents tab folders (feature question)
 - 160/160754 BuddyBoss Platform how to add a custom "Store" tab to member profiles with the same design as the Documents section, showing products, member balance, search, and likes and comments linked to activity posts
 - 160/160758 BuddyBoss Platform feature request to add a Shop or Store tab to member profiles, designed like the Documents section, with each product linked to an Activity post for likes and comments, instead of using marketplace add-ons
+- 160/160770 BuddyBoss App iOS Messages list not moving forward, keeps scrolling back and older conversations do not load on iPhone and iPad, app in App Store outdated because the new iOS build failed on an Apple signing setting
 - 160/160797 BuddyBoss App open as guest on launch and skip the login screen, Private App disabled, app shows native login screen first and users must tap Continue without logging in to reach logged-out Home tab, Classic and App Next Gen
 - 160/160797-2 BuddyBoss App iOS dev build failed, build log shows the development provisioning profile in the Apple Developer account has expired
 - 160/160806 BuddyBoss Membership message "You are unauthorized to view this page." not translated with Loco Translate on the login page shown when a restricted course is opened
 - 160/160806-2 BuddyBoss Membership asking when Stripe Elements functionality will be working, Stripe payment block on any page not available
 - 160/160867 BuddyBoss Platform plugin cannot be updated from WordPress, update notice says license does not allow the update even though the license is active in the BuddyBoss account dashboard
+- 160/160967-2 BuddyBoss account Downloads page shows only plugins and no BuddyBoss Theme download, although the Licenses page lists an active Theme license
 - 160/160992 BuddyBoss Theme settings show "Access Restricted" warning even though the license is active and was deactivated and re-entered, site firewall plugin may block the license check
 - 160/160994-2 BuddyBoss Platform Group page shows error instead of loading the Group, error from forum reply form checking forum subscription notification setting, also member directory not found
+- 160/160995-2 BuddyBoss Platform 504 Gateway Time-out when editing profile or uploading a profile cover/header image, BuddyBoss settings in wp-admin also not loading data, on managed hosting after a new install
+- 160/160995-3 BuddyBoss ReadyLaunch community pages not showing site logo, original site menu or slogan after installing BuddyBoss Platform and Theme, and where to change the footer copyright text
 - 161/161038 BuddyBoss Platform WordPress admin bar (toolbar) showing at the top of the site for all logged-in members, not only admins, noticed after changing the custom logo in BuddyBoss Theme Options for the Login/Register page
 - 161/161042 BuddyBoss Theme or ReadyLaunch how to remove the center header navigation menu on desktop only and remove the side navigation (BuddyPanel or left side menu) on mobile only
 - 161/161062 BuddyBoss Theme with Directorist, single listing pages show "There has been a critical error on this website" after BuddyBoss installation, fatal error from HelpGent plugin FormRepository.php array_map null given

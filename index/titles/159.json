@@ -59,6 +59,21 @@
 "title": "BuddyBoss Platform PHP warnings shown at the top of frontend and backend screens after updating to Platform 3.5.0, Platform Pro 3.3.2 and Theme 2.22.0, \"Undefined array key 0\" in forums capabilities.php and Elementor \"Attempt to read property ID on null\"",
 "type": "web"
 },
+"159/159281": {
+"fix": "confirmed",
+"title": "BuddyBoss Platform Zoom group meeting shows countdown but no working Join Meeting button for host or members, Join Meeting in Browser fails with \"Joining Meeting Timeout or Browser restriction. Signature is invalid\" because Zoom In-Browser Meetings uses the Server-to-Server OAuth app keys instead of a Meeting SDK app",
+"type": "web"
+},
+"159/159290": {
+"fix": "confirmed",
+"title": "BuddyBoss App push notifications not delivered to iPhones, manual push shows recipients but 0 devices and 0% delivered, push log \"Delivery failed: Invalid APNs credential\" after app went live",
+"type": "app"
+},
+"159/159290-2": {
+"fix": "confirmed",
+"title": "BuddyBoss App members who use the app show None under Apps Installed, push notifications only work sometimes (group post push reaches a few, manual push reaches nobody), notification only appears in the in-app list and not on the phone",
+"type": "app"
+},
 "159/159297": {
 "fix": "confirmed",
 "title": "BuddyBoss Platform registration activation email not received by new users, account cannot be activated after adding custom bot protection to the registration form",

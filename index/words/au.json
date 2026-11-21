@@ -1,6 +1,7 @@
 {
 "auth": [
-"157/157272:app"
+"157/157272:app",
+"159/159290:app"
 ],
 "authenticate": [
 "159/159964:integration"
