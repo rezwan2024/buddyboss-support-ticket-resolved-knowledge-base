@@ -74,6 +74,9 @@
 "critical error": [
 "159/159261-2"
 ],
+"critical error on gamipress settings page": [
+"157/157232-2"
+],
 "critical error on group pages, yoast class wpseo_frontend not found": [
 "160/160998"
 ],
@@ -155,7 +158,8 @@
 "158/158401"
 ],
 "license activation failed: the requested action could not be performed due to validation errors.": [
-"156/156072"
+"156/156072",
+"157/157293"
 ],
 "license activation failed: the requested action could not be performed due to validation errors. the license does not have any available production activations remaining.": [
 "160/160389"
@@ -266,6 +270,9 @@
 ],
 "the snippet was saved, but remains inactive due to this error: cannot redeclare function": [
 "161/161520"
+],
+"theme is no longer available": [
+"157/157295"
 ],
 "there are no current certificates on this team matching the provided certificate ids compatible with ios_app_store profiles; relationship is required but was not provided: certificates": [
 "162/162574"

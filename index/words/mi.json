@@ -12,6 +12,7 @@
 "162/162281-2:integration"
 ],
 "migrated": [
+"157/157296-2:integration",
 "161/161062-3:web"
 ],
 "migrating": [
@@ -19,6 +20,7 @@
 ],
 "migration": [
 "156/156193:addon",
+"157/157296-2:integration",
 "157/157305-2:web",
 "159/159646-2:app",
 "161/161062-3:web",
@@ -29,6 +31,7 @@
 "162/162281-2:integration"
 ],
 "migrator": [
+"157/157296-2:integration",
 "162/162281:web"
 ],
 "min": [

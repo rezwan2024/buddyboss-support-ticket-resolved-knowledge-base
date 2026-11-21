@@ -10,7 +10,11 @@
 "156/156224:account",
 "156/156236:account",
 "157/157043:addon",
+"157/157232-2:integration",
 "162/162018:addon"
+],
+"gamipress": [
+"157/157232-2:integration"
 ],
 "gateway": [
 "160/160806-2:web",

@@ -24,6 +24,16 @@
 "title": "BuddyBoss App likes on images or videos in group post comments are not registered when liked from the opened full media view, like works only from the thumbnail in the comment",
 "type": "app"
 },
+"157/157232": {
+"fix": "unconfirmed",
+"title": "BuddyBoss Platform members cannot see other members' newsfeed posts and admin pinned posts are not visible to everyone in the activity feed, while group posts should stay visible only to group members",
+"type": "web"
+},
+"157/157232-2": {
+"fix": "unconfirmed",
+"title": "BuddyBoss Platform with GamiPress shows a critical error on the GamiPress settings page and GamiPress points and rank activity floods the newsfeed, caused by BuddyBoss Gamification and GamiPress both active",
+"type": "integration"
+},
 "157/157234": {
 "fix": "unconfirmed",
 "title": "BuddyBoss Platform cannot find the setting to make pages public without login, settings appear to have changed, where to manage which pages logged-out visitors can view",
@@ -43,6 +53,26 @@
 "fix": "confirmed",
 "title": "BuddyBoss App cannot generate new iOS and Android builds after changing Firebase configuration for push notifications",
 "type": "app"
+},
+"157/157293": {
+"fix": "unconfirmed",
+"title": "BuddyBoss Platform Pro license activation failed with \"The requested action could not be performed due to validation errors\" while the license shows active in the BuddyBoss account, on a site that had worked for years",
+"type": "account"
+},
+"157/157295": {
+"fix": "unconfirmed",
+"title": "BuddyBoss Theme alert says the theme is no longer available although the BuddyBoss Web license is active and valid",
+"type": "account"
+},
+"157/157296": {
+"fix": "unconfirmed",
+"title": "BuddyBoss Courses can a course be a single page built with Elementor without lessons, topics or quizzes, or does every course need lessons",
+"type": "web"
+},
+"157/157296-2": {
+"fix": "unconfirmed",
+"title": "BuddyBoss Courses migrator tool does not bring the Elementor page design, migrated courses show only simple course text even after enabling Elementor for the course post type",
+"type": "integration"
 },
 "157/157305": {
 "fix": "confirmed",
@@ -108,6 +138,11 @@
 "fix": "confirmed",
 "title": "BuddyBoss App plugin 3.2.3 WordPress fatal error email after update, Uncaught Error Class BuddyBossApp\\Integrations\\BuddyBossMembership\\Common not found in LearnDash integration Main.php, site still working",
 "type": "app"
+},
+"157/157817": {
+"fix": "unconfirmed",
+"title": "BuddyBoss security researcher asks for the correct contact channel for a responsible disclosure report and whether there is a bug bounty, reward or recognition before sharing details",
+"type": "web"
 },
 "157/157897": {
 "fix": "confirmed",

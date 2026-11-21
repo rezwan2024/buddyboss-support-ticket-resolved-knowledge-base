@@ -1,5 +1,6 @@
 {
 "need": [
+"157/157296:web",
 "161/161509:integration"
 ],
 "needed": [
@@ -89,6 +90,8 @@
 "162/162263:web"
 ],
 "newsfeed": [
+"157/157232:web",
+"157/157232-2:integration",
 "161/161132:addon"
 ],
 "newsletter": [
