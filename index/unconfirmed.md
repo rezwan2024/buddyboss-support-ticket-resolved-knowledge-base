@@ -29,6 +29,7 @@ To confirm one, change its header line to fix: confirmed and push.
 - 156/156337 BuddyBoss App sends one Pusher auth request per message thread on every cold launch, hundreds of /pusher/auth requests make Members and Community stuck on loading skeletons for users with many message threads (App 3.2.0, iOS)
 - 156/156337-2 BuddyBoss App Members and Community stay on loading skeletons forever because BuddyBoss REST endpoints return HTTP 200 with an empty body under heavy server load, and the app treats the empty response as success
 - 156/156353 BuddyBoss Platform newer emojis show as blank image or broken emoji in private messages, activity posts and comments, emoji URL hardcoded to old emoji version 14.0.0 returns 301 redirect
+- 156/156451 BuddyBoss Platform Pro and BuddyBoss Theme license activation error notice keeps showing in WordPress admin dashboard for add-ons such as Offload Media and Gamification, even after reinstalling the add-on and reconnecting a valid license key, caused by nulled (unlicensed) copies of the theme and Platform Pro
 - 156/156475 BuddyBoss App Next Gen iOS Test App (Ad Hoc) build will not install or open, error "App integrity cannot be verified" even though device UDIDs are registered, Android build works fine
 - 156/156475-2 BuddyBoss App Next Gen iOS Test App (Ad Hoc) asks testers to enable Developer Mode before it opens, how to share test builds with non-technical clients through TestFlight without Xcode
 - 156/156641 BuddyBoss Theme (not ReadyLaunch) profile header cannot be fully customized - cover/banner, profile picture and short profile info area layout limited even with custom CSS, JavaScript or code snippets
@@ -44,7 +45,10 @@ To confirm one, change its header line to fix: confirmed and push.
 - 156/156914-3 BuddyBoss App iOS Sign Up registration page takes about two minutes to load after tapping Sign Up in the live App Store app and TestFlight build, users think the app is frozen
 - 156/156966 BuddyBoss Theme and Platform Pro license shows invalid or incomplete even though the new BuddyBoss Web license is active with 1 of 1 sites activated, caused by very old Platform, Pro and Theme versions
 - 157/157043 BuddyBoss Gamification and Member Blogging add-ons stay in English after translating strings to German with Loco Translate, translations have no effect
+- 157/157121 BuddyBoss Community portal login stuck in survey loop, survey keeps reappearing after submit, then 404 Page Not Found on the survey page after login
 - 157/157122 BuddyBoss Platform 3.0.4 Network Search Members report of SQL injection, search term not escaped in the Members search query, reachable by logged-out visitors through the search AJAX endpoint
+- 157/157169-2 BuddyBoss Platform group Members tab says no members found although the group has members, after fixing a critical error
+- 157/157169-3 BuddyBoss Platform group activity feed shows everything from the News Feed and posts from other groups instead of only that group's posts
 - 157/157227 BuddyBoss App likes on images or videos in group post comments are not registered when liked from the opened full media view, like works only from the thumbnail in the comment
 - 157/157232 BuddyBoss Platform members cannot see other members' newsfeed posts and admin pinned posts are not visible to everyone in the activity feed, while group posts should stay visible only to group members
 - 157/157232-2 BuddyBoss Platform with GamiPress shows a critical error on the GamiPress settings page and GamiPress points and rank activity floods the newsfeed, caused by BuddyBoss Gamification and GamiPress both active
@@ -57,6 +61,8 @@ To confirm one, change its header line to fix: confirmed and push.
 - 157/157297 BuddyBoss Platform with GamiPress and WPML, Achievements and Ranks items in the user profile menu stay in English after translating the strings, while Timeline, Connections and Invites translate fine
 - 157/157305-2 BuddyBoss Platform "Run Migration" admin notice shows in WordPress dashboard, customer asks how to handle it, seen while fixing license activation
 - 157/157477 Tutor LMS 4.0 Tutor Dashboard broken, layout not working with BuddyBoss Theme active after updating Tutor LMS to 4.0, works with Twenty Twenty-Five
+- 157/157491 BuddyBoss Platform and Theme slow page loading and poor general responsiveness across the community, customer asks for known bottlenecks, best practices and recommended server resources
+- 157/157509 BuddyBoss Theme LearnDash lesson header Next and Previous arrows link to wrong lessons, Next goes back to the first lesson, Previous disabled mid-course, Next shown on the last lesson, while the LearnDash sidebar navigation works
 - 157/157583-2 BuddyBoss Theme membership product page shows the logged-in private area navigation (left and top menu) while other public pages do not
 - 157/157622 BuddyBoss Membership 1.14.1 fatal error when clicking a paid membership plan or Change Plan, checkout page breaks at the Stripe payment step, Class "BbmsStripeTaxIntegration" not found, paid Stripe checkouts cannot complete
 - 157/157686 BuddyBoss App cannot generate a Test Build from the App Secondary website, the build requires all BuddyBoss plugins to be up to date on the primary website first, so App updates cannot be tested on staging before production

@@ -17,6 +17,9 @@
 "404 not found (stripe.buddyboss.com/connect)": [
 "162/162216"
 ],
+"404 page not found": [
+"157/157121"
+],
 "404 page; notice \"some features will be disabled\"": [
 "157/157305"
 ],
@@ -284,6 +287,7 @@
 "162/162574"
 ],
 "there has been a critical error on this website": [
+"157/157169",
 "161/161062-2"
 ],
 "there has been a critical error on this website.": [

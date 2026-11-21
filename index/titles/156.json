@@ -89,6 +89,11 @@
 "title": "BuddyBoss Platform newer emojis show as blank image or broken emoji in private messages, activity posts and comments, emoji URL hardcoded to old emoji version 14.0.0 returns 301 redirect",
 "type": "web"
 },
+"156/156451": {
+"fix": "unconfirmed",
+"title": "BuddyBoss Platform Pro and BuddyBoss Theme license activation error notice keeps showing in WordPress admin dashboard for add-ons such as Offload Media and Gamification, even after reinstalling the add-on and reconnecting a valid license key, caused by nulled (unlicensed) copies of the theme and Platform Pro",
+"type": "account"
+},
 "156/156472": {
 "fix": "confirmed",
 "title": "BuddyBoss Platform manual activation of a pending signup from WordPress admin fails with \"1 account was not activated. Google reCAPTCHA token is missing.\" when reCAPTCHA v3 is enabled for Account Activation, after updating BuddyBoss plugins (users registering through the Next Gen App land in Pending Signups)",

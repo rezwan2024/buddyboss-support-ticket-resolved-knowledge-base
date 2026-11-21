@@ -9,9 +9,29 @@
 "title": "BuddyBoss Theme Theme Options unavailable, shows a paywall or upgrade screen, asking if Theme Options are now Pro only, caused by an expired license not connected",
 "type": "account"
 },
+"157/157121": {
+"fix": "unconfirmed",
+"title": "BuddyBoss Community portal login stuck in survey loop, survey keeps reappearing after submit, then 404 Page Not Found on the survey page after login",
+"type": "web"
+},
 "157/157122": {
 "fix": "unconfirmed",
 "title": "BuddyBoss Platform 3.0.4 Network Search Members report of SQL injection, search term not escaped in the Members search query, reachable by logged-out visitors through the search AJAX endpoint",
+"type": "web"
+},
+"157/157169": {
+"fix": "confirmed",
+"title": "BuddyBoss Platform \"There has been a critical error on this website\" on News Feed, single group forum pages and member notification settings page, while homepage, blog and forums directory load, on PHP 8.4",
+"type": "web"
+},
+"157/157169-2": {
+"fix": "unconfirmed",
+"title": "BuddyBoss Platform group Members tab says no members found although the group has members, after fixing a critical error",
+"type": "web"
+},
+"157/157169-3": {
+"fix": "unconfirmed",
+"title": "BuddyBoss Platform group activity feed shows everything from the News Feed and posts from other groups instead of only that group's posts",
 "type": "web"
 },
 "157/157191": {
@@ -97,6 +117,16 @@
 "157/157477": {
 "fix": "unconfirmed",
 "title": "Tutor LMS 4.0 Tutor Dashboard broken, layout not working with BuddyBoss Theme active after updating Tutor LMS to 4.0, works with Twenty Twenty-Five",
+"type": "integration"
+},
+"157/157491": {
+"fix": "unconfirmed",
+"title": "BuddyBoss Platform and Theme slow page loading and poor general responsiveness across the community, customer asks for known bottlenecks, best practices and recommended server resources",
+"type": "web"
+},
+"157/157509": {
+"fix": "unconfirmed",
+"title": "BuddyBoss Theme LearnDash lesson header Next and Previous arrows link to wrong lessons, Next goes back to the first lesson, Previous disabled mid-course, Next shown on the last lesson, while the LearnDash sidebar navigation works",
 "type": "integration"
 },
 "157/157525": {
