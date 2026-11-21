@@ -31,6 +31,12 @@ CRED_RE = re.compile(
     r"\s*[:=]\s*[\"']?[^\s\"']{3,}"
     r"|\b(password|passwd|pwd)\s+is\s+[\"']?[^\s\"']{3,}"
 )
+SECURITY_RE = re.compile(
+    r"(?i)\b(vulnerab\w*|exposed\s+(?:api\s+)?(?:keys?|credentials?|secrets?|certificates?|tokens?)"
+    r"|publicly\s+(?:accessible|readable|exposed|listable)|security\s+(?:issue|hole|flaw|vulnerability|risk)"
+    r"|exploit\w*)\b"
+    r"|\bCVE\b|\bCVE-\d{4}-\d+"
+)
 KEY_RE = re.compile(r"(?<![A-Za-z0-9])[A-Za-z0-9]{24,}(?![A-Za-z0-9])")
 
 
@@ -44,6 +50,9 @@ def host_allowed(host):
 def check_text(text):
     """Return the first reason found, or None."""
     for line in text.split("\n"):
+        m = SECURITY_RE.search(line)
+        if m:
+            return "security vulnerability (never a case) " + m.group(0).lower()[:40]
         if EMAIL_RE.search(line):
             return "email"
         for m in URL_RE.finditer(line):

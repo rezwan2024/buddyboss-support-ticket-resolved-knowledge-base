@@ -55,9 +55,13 @@ def search(load, query, type_=None, error=None, limit=3, exclude=()):
         score = len(matched) + (10 if err_hit else 0)
         if type_ and ctype == type_:
             score += 1
-        ranked.append((score, ticket_number(cid), cid))
+        ranked.append((score, ticket_number(cid), cid, len(matched), err_hit))
     ranked.sort(key=lambda r: (-r[0], -r[1]))
-    top = [cid for _, _, cid in ranked[:limit]]
+    # relative cutoff: drop results below half the top result's match count
+    if ranked:
+        top_matches = ranked[0][3]
+        ranked = [r for r in ranked if r[4] or r[3] * 2 >= top_matches]
+    top = [r[2] for r in ranked[:limit]]
 
     results = []
     titles_cache = {}
