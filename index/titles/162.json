@@ -124,9 +124,34 @@
 "title": "BuddyBoss Theme site and wp-admin down after updating BuddyBoss plugins, PHP Fatal error Uncaught Error Class \"Menu_Icons_Settings\" not found in buddyboss-menu-icons front.php while loading the header menu",
 "type": "web"
 },
+"162/162574": {
+"fix": "unconfirmed",
+"title": "BuddyBoss App iOS cannot generate new provisioning profiles for App Store publishing, Generate New Profiles fails with \"There are no current certificates on this team matching the provided certificate IDs compatible with iOS_APP_STORE profiles\" and \"Relationship is required but was not provided: certificates\"",
+"type": "app"
+},
 "162/162614": {
 "fix": "confirmed",
 "title": "BuddyBoss App Next Gen Tutor LMS Pro courses block shows unsupported block message and clicking a Tutor LMS course in the image carousel opens an error screen",
 "type": "app"
+},
+"162/162731": {
+"fix": "confirmed",
+"title": "BuddyBoss Platform 3.0 new admin how to find a custom extended profile field ID, Profiles > Profile Fields now edited in a popup modal and the field ID is no longer shown in the URL or screen after update",
+"type": "web"
+},
+"162/162746": {
+"fix": "unconfirmed",
+"title": "BuddyBoss support inbox receives a job application or freelancer proposal from a WordPress developer instead of a product support request, not a support issue, redirect to the job post",
+"type": "web"
+},
+"162/162755": {
+"fix": "confirmed",
+"title": "BuddyBoss Platform with WooCommerce homepage intermittently shows 404 for hours until cache is cleared, caused by WooCommerce cart fragments request (wc-ajax=get_refreshed_fragments) sent from a member profile page with persistent object cache and static front page, Platform 3.6.2",
+"type": "integration"
+},
+"162/162805": {
+"fix": "confirmed",
+"title": "BuddyBoss Platform and Theme new member profile opens from the activity feed but member not found in Members directory or WordPress All Users after registration, activation link seemed to fail",
+"type": "web"
 }
 }

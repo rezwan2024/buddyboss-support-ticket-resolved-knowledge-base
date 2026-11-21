@@ -5,6 +5,9 @@
 "403 bp_rest_authorization_required \"sorry, you cannot view the group.\"; bp_rest_hidden_profile_field; bp_rest_invalid_item; bp_rest_group_member_cannot_promote; bp_rest_user_cannot_delete": [
 "161/161966"
 ],
+"404": [
+"162/162755"
+],
 "404 not found (stripe.buddyboss.com/connect)": [
 "162/162216"
 ],
@@ -176,6 +179,9 @@
 ],
 "the snippet was saved, but remains inactive due to this error: cannot redeclare function": [
 "161/161520"
+],
+"there are no current certificates on this team matching the provided certificate ids compatible with ios_app_store profiles; relationship is required but was not provided: certificates": [
+"162/162574"
 ],
 "there has been a critical error on this website": [
 "161/161062-2"
