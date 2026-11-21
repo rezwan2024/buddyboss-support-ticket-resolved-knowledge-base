@@ -17,6 +17,9 @@
 "404 not found (stripe.buddyboss.com/connect)": [
 "162/162216"
 ],
+"404 page; notice \"some features will be disabled\"": [
+"157/157305"
+],
 "504 gateway time-out": [
 "160/160995-2"
 ],
@@ -242,6 +245,9 @@
 "requires plugin to activate": [
 "161/161751"
 ],
+"run migration notice": [
+"157/157305-2"
+],
 "senderid mismatch; apns device token error": [
 "157/157272"
 ],
@@ -313,6 +319,9 @@
 ],
 "unhandled js exception: typeerror: undefined is not a function (activitieswidget)": [
 "159/159261"
+],
+"unknown error (build log: e016, e017)": [
+"157/157245"
 ],
 "unsupported block type": [
 "162/162614"
