@@ -14,6 +14,11 @@
 "title": "BuddyBoss App cannot generate new iOS and Android builds after changing Firebase configuration for push notifications",
 "type": "app"
 },
+"157/157477": {
+"fix": "unconfirmed",
+"title": "Tutor LMS 4.0 Tutor Dashboard broken, layout not working with BuddyBoss Theme active after updating Tutor LMS to 4.0, works with Twenty Twenty-Five",
+"type": "integration"
+},
 "157/157605": {
 "fix": "confirmed",
 "title": "BuddyBoss Platform with WooCommerce and a third-party membership plugin shows double login and register forms, several sign up routes, login page shows a registration form, and new members are asked for an activation code or land on Membership Required screen",

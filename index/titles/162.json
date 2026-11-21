@@ -69,6 +69,11 @@
 "title": "BuddyBoss Membership 1.14.1 and 1.14.2 Stripe checkout broken with fatal error Class \"BbmsStripeTaxIntegration\" not found, checkout page fails to render and submit",
 "type": "addon"
 },
+"162/162222": {
+"fix": "confirmed",
+"title": "BuddyBoss Platform photos uploaded to albums do not display on desktop or mobile, profile and group photo links return not found while WordPress Media Library images show fine, videos look wrongly formatted, symbolic links not supported by server",
+"type": "web"
+},
 "162/162234": {
 "fix": "unconfirmed",
 "title": "BuddyBoss Theme 2.22.4 inc/theme/functions.php flagged as malware by Imunify host scanner after updating from 2.22.3, false positive scanner report",
@@ -113,5 +118,15 @@
 "fix": "confirmed",
 "title": "BuddyBoss Platform newly registered user not showing in Members directory or member search, user exists in WordPress as subscriber, Repair Member Profiles and clearing cache do not help",
 "type": "web"
+},
+"162/162524": {
+"fix": "unconfirmed",
+"title": "BuddyBoss Theme site and wp-admin down after updating BuddyBoss plugins, PHP Fatal error Uncaught Error Class \"Menu_Icons_Settings\" not found in buddyboss-menu-icons front.php while loading the header menu",
+"type": "web"
+},
+"162/162614": {
+"fix": "confirmed",
+"title": "BuddyBoss App Next Gen Tutor LMS Pro courses block shows unsupported block message and clicking a Tutor LMS course in the image carousel opens an error screen",
+"type": "app"
 }
 }

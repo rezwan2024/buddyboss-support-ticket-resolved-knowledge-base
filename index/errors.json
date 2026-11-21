@@ -119,6 +119,9 @@
 "160/160699",
 "160/160702"
 ],
+"not found (404) on buddyboss photo urls": [
+"162/162222"
+],
 "php fatal error: failed opening required bp-core/classes/class-bp-admin.php (e_error) on admin-ajax.php": [
 "160/160516"
 ],
@@ -133,6 +136,9 @@
 ],
 "php fatal error: uncaught error: class \"bbmsstripetaxintegration\" not found in wp-content/plugins/buddybossmembership/app/models/bbmsorderquotebuilder.php:1128 (called from basket_fingerprint())": [
 "161/161384"
+],
+"php fatal error: uncaught error: class \"menu_icons_settings\" not found in wp-content/themes/buddyboss-theme/inc/plugins/buddyboss-menu-icons/includes/front.php:60": [
+"162/162524"
 ],
 "platformexception(sign_in_failed, com.google.android.gms.common.api.apiexception: 10)": [
 "161/161243"
@@ -161,6 +167,9 @@
 "smw-inj-cloudav-php.bkdr.wptheme.inj-wptheme1-0": [
 "161/161537-2",
 "162/162234"
+],
+"some questions are not completed. please complete all questions in order to finish quiz": [
+"148/148023"
 ],
 "something went wrong - tap to retry": [
 "159/159646"
@@ -204,6 +213,9 @@
 ],
 "unhandled js exception: typeerror: undefined is not a function (activitieswidget)": [
 "159/159261"
+],
+"unsupported block type": [
+"162/162614"
 ],
 "update failed: download failed. a valid url was not provided.": [
 "161/161127"

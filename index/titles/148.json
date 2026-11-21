@@ -1,0 +1,7 @@
+{
+"148/148023": {
+"fix": "confirmed",
+"title": "BuddyBoss App LearnDash quiz stuck in loop after Prev and Continue Quiz, \"Some questions are not completed. Please complete all questions in order to finish quiz\" even though all questions are answered, quiz saving enabled, works on web but fails only in the mobile app",
+"type": "app"
+}
+}

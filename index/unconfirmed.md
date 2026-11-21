@@ -11,6 +11,7 @@ To confirm one, change its header line to fix: confirmed and push.
 - 154/154490 BuddyBoss App Next Gen LearnDash lesson button shows raw key ld_mark_as_incomplete, Mark as Incomplete string missing from BuddyBoss App Translations, custom wording from Loco Translate not showing in app after moving from Classic app
 - 154/154490-2 BuddyBoss App Next Gen LearnDash lesson button shows raw key ld_mark_as_incomplete, Mark as Incomplete string missing from BuddyBoss App Translations list, wording from older app lost after moving to Next Gen
 - 156/156780 BuddyBoss App Next Gen custom group tab created with PHP (bp_register_group_extension) or a tab creator plugin fails to load, loops back to the start or kicks the user out of the app, works fine in the Classic app and in the browser, iOS and Android
+- 157/157477 Tutor LMS 4.0 Tutor Dashboard broken, layout not working with BuddyBoss Theme active after updating Tutor LMS to 4.0, works with Twenty Twenty-Five
 - 157/157622 BuddyBoss Membership 1.14.1 fatal error when clicking a paid membership plan or Change Plan, checkout page breaks at the Stripe payment step, Class "BbmsStripeTaxIntegration" not found, paid Stripe checkouts cannot complete
 - 157/157971 BuddyBoss App PDF file only shows a preview with no option to download, open or fill it out inside a LifterLMS lesson or course, while download works from the activity feed
 - 159/159060 BuddyBoss App iOS build keeps failing at the signing step, provisioning profile expired and Apple Distribution certificate could not be found, Apple Developer account not connected in iOS settings
@@ -104,3 +105,4 @@ To confirm one, change its header line to fix: confirmed and push.
 - 162/162427 BuddyBoss Platform ReadyLaunch profile cover image upload missing, Enable cover images for member profiles turned on but no cover image shows and the change cover image page opens without an upload form
 - 162/162451 BuddyBoss Platform Send Group Message limit question, how many members can receive a group message and does it use cron or batch sending to avoid PHP timeout for 10,000 member groups
 - 162/162477 BuddyBoss Theme login page image too short on mobile, split login layout image height and spacing look wrong on small screens, how to increase the login image height for mobile view
+- 162/162524 BuddyBoss Theme site and wp-admin down after updating BuddyBoss plugins, PHP Fatal error Uncaught Error Class "Menu_Icons_Settings" not found in buddyboss-menu-icons front.php while loading the header menu
