@@ -69,6 +69,9 @@
 "free lifetime": [
 "161/161806-3"
 ],
+"incomplete advertising id declaration": [
+"162/162164"
+],
 "invalid client": [
 "157/157897"
 ],
@@ -151,6 +154,9 @@
 ],
 "typeerror: undefined is not a function (titletrim, cellrenderer, applist)": [
 "156/156848"
+],
+"unable to install": [
+"162/162183"
 ],
 "uncaught error: array_map(): argument #2 ($array) must be of type array, null given in wp-content/plugins/helpgent/app/repositories/formrepository.php on line 1015": [
 "161/161062"

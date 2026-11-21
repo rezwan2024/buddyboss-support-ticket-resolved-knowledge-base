@@ -13,5 +13,30 @@
 "fix": "confirmed",
 "title": "BuddyBoss App Next Gen activation toggle missing in WordPress admin, cannot find option to enable or migrate existing published app to App Next Gen because BuddyBoss App plugin is outdated (version 2.10.0)",
 "type": "app"
+},
+"162/162164": {
+"fix": "confirmed",
+"title": "BuddyBoss App Next Gen Android build blocked in Google Play Console with \"Incomplete advertising ID declaration\" and Submit for review disabled even after setting Advertising ID to No, after moving from Classic to Next Gen",
+"type": "app"
+},
+"162/162168": {
+"fix": "confirmed",
+"title": "BuddyBoss App Next Gen activity Sharing button (share activity post) not showing in the app but shows on web, settings correct, fixed with a new app build after updating plugins",
+"type": "app"
+},
+"162/162170": {
+"fix": "confirmed",
+"title": "BuddyBoss App header bar shows the same icon for Notifications and Messages, both bells or both message bubbles, even though different icons are saved in the menu, before and after switching to Next Gen",
+"type": "app"
+},
+"162/162170-2": {
+"fix": "confirmed",
+"title": "BuddyBoss App header bar icon colors changed from custom orange to default blue after removing and re-adding the Notifications and Messages header icons in App Menus",
+"type": "app"
+},
+"162/162183": {
+"fix": "confirmed",
+"title": "BuddyBoss App Next Gen Android test app build will not install, installer page shows Unable to Install and blocks the download because the phone browser opened in Desktop site mode, after a plugin update",
+"type": "app"
 }
 }
