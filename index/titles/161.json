@@ -94,6 +94,11 @@
 "title": "BuddyBoss Theme 2.22.3 with Tutor LMS 4.1.3 and Tutor LMS Pro 4.x, My Courses page layout broken, oversized course cards and partially unstyled dashboard after updating Tutor LMS to 4.x, works with a default theme",
 "type": "integration"
 },
+"161/161384": {
+"fix": "confirmed",
+"title": "BuddyBoss Membership 1.14.1 / 1.14.2 every paid Stripe checkout crashes with \"There has been a critical error on this website\" and PHP Fatal error Class \"BbmsStripeTaxIntegration\" not found in BbmsOrderQuoteBuilder.php, free memberships work",
+"type": "addon"
+},
 "161/161393": {
 "fix": "unconfirmed",
 "title": "BuddyBoss App Next Gen presale question, native livestreaming in iOS and Android app with Mux, Go Live button in activity composer, custom JavaScript not supported in Flutter app, feature request",
@@ -178,6 +183,11 @@
 "fix": "confirmed",
 "title": "BuddyBoss BB Courses where to set quiz feedback for wrong answers and show question results to learners, customer looked in LearnDash settings instead",
 "type": "web"
+},
+"161/161759": {
+"fix": "unconfirmed",
+"title": "BuddyBoss App Android published Google Play app shows \"Error loading. There was an error loading the data. Please try again\" on one user's Samsung Galaxy device on launch, reinstall does not help, works on other test devices",
+"type": "app"
 },
 "161/161806": {
 "fix": "unconfirmed",

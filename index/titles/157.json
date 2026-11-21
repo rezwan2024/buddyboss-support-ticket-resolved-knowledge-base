@@ -19,6 +19,11 @@
 "title": "BuddyBoss Platform with WooCommerce and a third-party membership plugin shows double login and register forms, several sign up routes, login page shows a registration form, and new members are asked for an activation code or land on Membership Required screen",
 "type": "integration"
 },
+"157/157622": {
+"fix": "unconfirmed",
+"title": "BuddyBoss Membership 1.14.1 fatal error when clicking a paid membership plan or Change Plan, checkout page breaks at the Stripe payment step, Class \"BbmsStripeTaxIntegration\" not found, paid Stripe checkouts cannot complete",
+"type": "addon"
+},
 "157/157897": {
 "fix": "confirmed",
 "title": "BuddyBoss App Sign in with Apple social login not working, invalid client error, Apple asks for login when saving the Apple Login settings in BuddyBoss",

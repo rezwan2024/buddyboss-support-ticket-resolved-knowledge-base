@@ -1,4 +1,19 @@
 {
+"153/153146": {
+"fix": "confirmed",
+"title": "BuddyBoss Theme with Tutor LMS 4.0 - nothing looks right, student dashboard layout broken after updating Tutor LMS to 4.0, BuddyBoss Platform and Theme updates did not help",
+"type": "integration"
+},
+"153/153146-2": {
+"fix": "unconfirmed",
+"title": "BuddyBoss Theme with Tutor LMS 4.0 - lesson list not visible inside a course, course menu disappears and students cannot navigate through lessons, after updating Theme to 2.22.4",
+"type": "integration"
+},
+"153/153146-3": {
+"fix": "unconfirmed",
+"title": "BuddyBoss App Next Gen - Courses tab shows \"This screen type is not yet implemented\" (courses_all) with Tutor LMS Pro, first app build on App Core 3.2.4",
+"type": "app"
+},
 "153/153847": {
 "fix": "unconfirmed",
 "title": "BuddyBoss Platform private message email notifications not sent when notification delay is enabled (5 or 15 minutes), emails work only when delay is disabled, recipient logged out",

@@ -51,6 +51,9 @@
 "159/159127-2",
 "159/159199"
 ],
+"error loading. there was an error loading the data. please try again": [
+"161/161759"
+],
 "error: api login for user disabled": [
 "161/161479"
 ],
@@ -113,6 +116,9 @@
 "php fatal error: uncaught error: call to undefined function buddybossapp\\wp_get_current_user() in wp-content/plugins/buddyboss-app/include/nativeapppage.php:1503": [
 "161/161930"
 ],
+"php fatal error: uncaught error: class \"bbmsstripetaxintegration\" not found in wp-content/plugins/buddybossmembership/app/models/bbmsorderquotebuilder.php:1128 (called from basket_fingerprint())": [
+"161/161384"
+],
 "platformexception(sign_in_failed, com.google.android.gms.common.api.apiexception: 10)": [
 "161/161243"
 ],
@@ -147,7 +153,11 @@
 "161/161062-2"
 ],
 "there has been a critical error on this website.": [
-"161/161715"
+"161/161715",
+"162/162263"
+],
+"this screen type is not yet implemented (object type: courses_all)": [
+"153/153146-3"
 ],
 "token generation failed: private key format is not valid!": [
 "159/159018"
@@ -163,6 +173,9 @@
 ],
 "uncaught error: call to undefined function buddybossapp\\wp_get_current_user()": [
 "161/161969"
+],
+"uncaught error: class \"bbmsstripetaxintegration\" not found in wp-content/plugins/buddybossmembership/app/models/bbmsorderquotebuilder.php on line 1128": [
+"157/157622"
 ],
 "uncaught typeerror: cannot read properties of null (reading 'id') at object.handleformdataevent": [
 "160/160861"

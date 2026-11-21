@@ -8,11 +8,20 @@
 "161/161751:integration",
 "161/161751-2:web",
 "161/161901:web",
-"161/161906:web"
+"161/161906:web",
+"162/162263:web"
 ],
 "bbapp": [
 "159/159127-2:app",
 "159/159646-2:app"
+],
+"bbmsorderquotebuilder": [
+"157/157622:addon",
+"161/161384:addon"
+],
+"bbmsstripetaxintegration": [
+"157/157622:addon",
+"161/161384:addon"
 ],
 "bbpress": [
 "159/159397-2:web",

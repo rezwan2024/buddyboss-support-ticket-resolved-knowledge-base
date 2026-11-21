@@ -38,5 +38,10 @@
 "fix": "confirmed",
 "title": "BuddyBoss App Next Gen Android test app build will not install, installer page shows Unable to Install and blocks the download because the phone browser opened in Desktop site mode, after a plugin update",
 "type": "app"
+},
+"162/162263": {
+"fix": "confirmed",
+"title": "BuddyBoss Platform \"There has been a critical error on this website\" only on activity feed, groups and forum discussions, caused by malformed saved notification settings (bb_enabled_notification) breaking the forum reply form",
+"type": "web"
 }
 }
