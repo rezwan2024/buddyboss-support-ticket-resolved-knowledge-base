@@ -39,6 +39,7 @@ To confirm one, change its header line to fix: confirmed and push.
 - 156/156757 BuddyBoss Platform profile fields showing twice on the frontend profile edit page in all tabs after disabling the Repeater option on the profile field set, new fields also duplicated
 - 156/156764-2 BuddyBoss App profile in the header problem still persists after a new app build
 - 156/156764-3 BuddyBoss App build screen "App Core Version" is not the BuddyBoss App plugin version, feature request to show the app plugin version on the build screen
+- 156/156770 BuddyBoss App Classic - third-party chatbot bubble added with a JavaScript snippet in the WordPress header no longer appears in the mobile app on any screen after plugin updates, still works on the website
 - 156/156780 BuddyBoss App Next Gen custom group tab created with PHP (bp_register_group_extension) or a tab creator plugin fails to load, loops back to the start or kicks the user out of the app, works fine in the Classic app and in the browser, iOS and Android
 - 156/156907-3 BuddyBoss App iOS Test build fails with an error after the test provisioning profile was fixed, while moving to the new app version
 - 156/156914 BuddyBoss App iOS live App Store app asks users to upgrade to Pro membership on every LearnDash course even though courses are set Free/Public and access is All Logged-In Members, in-app purchase Show on Course(s) set to All Courses with Paid Memberships Pro
@@ -71,9 +72,11 @@ To confirm one, change its header line to fix: confirmed and push.
 - 157/157583-2 BuddyBoss Theme membership product page shows the logged-in private area navigation (left and top menu) while other public pages do not
 - 157/157622 BuddyBoss Membership 1.14.1 fatal error when clicking a paid membership plan or Change Plan, checkout page breaks at the Stripe payment step, Class "BbmsStripeTaxIntegration" not found, paid Stripe checkouts cannot complete
 - 157/157686 BuddyBoss App cannot generate a Test Build from the App Secondary website, the build requires all BuddyBoss plugins to be up to date on the primary website first, so App updates cannot be tested on staging before production
+- 157/157742 BuddyBoss Platform new user registration sends a second email with empty subject and empty recipient right after the admin new user notification, causing an SMTP error
 - 157/157817 BuddyBoss security researcher asks for the correct contact channel for a responsible disclosure report and whether there is a bug bounty, reward or recognition before sharing details
 - 157/157818 BuddyBoss general - researcher asks where to send a responsible disclosure security report and whether a bug bounty or reward program exists, before sharing any details
 - 157/157824 BuddyBoss Platform social login (Google and Apple sign in) suddenly gone, settings show a crown (king) icon and Start upgrade prompt, cannot reactivate, after update moved social login into the separate BuddyBoss Addon plugin
+- 157/157825 BuddyBoss Platform social login (Google and Apple sign in) suddenly gone from the site, settings show a crown icon and "Start" upgrade prompt and the option cannot be reactivated, after an update moved social login into the BuddyBoss Addon plugin
 - 157/157971 BuddyBoss App PDF file only shows a preview with no option to download, open or fill it out inside a LifterLMS lesson or course, while download works from the activity feed
 - 159/159060 BuddyBoss App iOS build keeps failing at the signing step, provisioning profile expired and Apple Distribution certificate could not be found, Apple Developer account not connected in iOS settings
 - 159/159060-2 BuddyBoss App Android Google Play Console warning about Play Billing Library 8.0.0 or later still shows after releasing a new build, blocking app release on the Play Store

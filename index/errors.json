@@ -89,6 +89,9 @@
 "critical: elementor pro 4.2.1 - arbitrary file upload": [
 "156/156646"
 ],
+"crown (king) icon with \"start\" upgrade prompt on the social login settings": [
+"157/157825"
+],
 "delivery failed: invalid apns credential": [
 "159/159290"
 ],
@@ -266,6 +269,9 @@
 ],
 "sign in to confirm you're not a bot": [
 "160/160373-2"
+],
+"smtp error due to empty recipient field": [
+"157/157742"
 ],
 "smw-inj-cloudav-php.bkdr.wptheme.inj-wptheme1-0": [
 "161/161537-2",

@@ -179,6 +179,11 @@
 "title": "BuddyBoss App build screen \"App Core Version\" is not the BuddyBoss App plugin version, feature request to show the app plugin version on the build screen",
 "type": "app"
 },
+"156/156770": {
+"fix": "unconfirmed",
+"title": "BuddyBoss App Classic - third-party chatbot bubble added with a JavaScript snippet in the WordPress header no longer appears in the mobile app on any screen after plugin updates, still works on the website",
+"type": "app"
+},
 "156/156780": {
 "fix": "unconfirmed",
 "title": "BuddyBoss App Next Gen custom group tab created with PHP (bp_register_group_extension) or a tab creator plugin fails to load, loops back to the start or kicks the user out of the app, works fine in the Classic app and in the browser, iOS and Android",

@@ -179,6 +179,11 @@
 "title": "BuddyBoss Platform pages set as public in BuddyBoss Settings Pages (Terms, Privacy, Cookies) still ask for login when opened, also in private browsing, linked to a Stripe payment flow issue",
 "type": "web"
 },
+"157/157597": {
+"fix": "confirmed",
+"title": "BuddyBoss Platform pin post option missing from activity post menu after update, Pinned Post setting shows locked with a plan badge instead of a toggle (legacy licence, BuddyBoss Addon plugin not installed, multisite subsite)",
+"type": "web"
+},
 "157/157605": {
 "fix": "confirmed",
 "title": "BuddyBoss Platform with WooCommerce and a third-party membership plugin shows double login and register forms, several sign up routes, login page shows a registration form, and new members are asked for an activation code or land on Membership Required screen",
@@ -204,6 +209,16 @@
 "title": "BuddyBoss App plugin 3.2.3 WordPress fatal error email after update, Uncaught Error Class BuddyBossApp\\Integrations\\BuddyBossMembership\\Common not found in LearnDash integration Main.php, site still working",
 "type": "app"
 },
+"157/157703": {
+"fix": "confirmed",
+"title": "BuddyBoss App email address field not clickable or editable in the app account settings (Email and Password screen), email can be changed on the website under Settings > Login Information but stays read-only in the app",
+"type": "app"
+},
+"157/157742": {
+"fix": "unconfirmed",
+"title": "BuddyBoss Platform new user registration sends a second email with empty subject and empty recipient right after the admin new user notification, causing an SMTP error",
+"type": "web"
+},
 "157/157817": {
 "fix": "unconfirmed",
 "title": "BuddyBoss security researcher asks for the correct contact channel for a responsible disclosure report and whether there is a bug bounty, reward or recognition before sharing details",
@@ -218,6 +233,11 @@
 "fix": "unconfirmed",
 "title": "BuddyBoss Platform social login (Google and Apple sign in) suddenly gone, settings show a crown (king) icon and Start upgrade prompt, cannot reactivate, after update moved social login into the separate BuddyBoss Addon plugin",
 "type": "web"
+},
+"157/157825": {
+"fix": "unconfirmed",
+"title": "BuddyBoss Platform social login (Google and Apple sign in) suddenly gone from the site, settings show a crown icon and \"Start\" upgrade prompt and the option cannot be reactivated, after an update moved social login into the BuddyBoss Addon plugin",
+"type": "addon"
 },
 "157/157897": {
 "fix": "confirmed",
