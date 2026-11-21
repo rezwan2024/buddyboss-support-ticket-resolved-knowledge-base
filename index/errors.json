@@ -145,6 +145,9 @@
 "google recaptcha token is missing.": [
 "160/160519"
 ],
+"guideline 2.5.4 - performance - software requirements. the app declares support for audio in the uibackgroundmodes key in the info.plist but we are unable to locate any features that require persistent audio.": [
+"158/158636"
+],
 "guideline 4 - design": [
 "156/156484"
 ],

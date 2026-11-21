@@ -9,6 +9,8 @@ To confirm one, change its header line to fix: confirmed and push.
 - 134/134133 BuddyBoss Platform and Theme web profile header splits long member name mid-word, a single letter wraps to a second line on mobile, tablet and large screens
 - 134/134133-2 BuddyBoss Platform and Theme web member profile page, the two boxes on the left side are not level and look misaligned
 - 137/137456 BuddyBoss App LearnDash Notes (Notes by LearnDash add-on) not showing in app course lessons, notes show on some lessons on the website but never inside the app
+- 147/147208-2 BuddyBoss App Next Gen email invites show Invite Using Link option on an invite-only site, link sends invitees to the registration page they cannot use, Legacy app hides it
+- 147/147208-3 BuddyBoss App Next Gen group Invite + button missing in all groups for a group organizer after updating plugins and making a new app build
 - 148/148856-3 BuddyBoss App Next Gen cannot sort or reorder Header Bar menu items, items snap back into position after dragging, profile link shows on the wrong side of the avatar
 - 148/148856-4 BuddyBoss App Next Gen Header Bar what Add New Button and Option button do, action buttons can only change icon, create post button shows blue in the app though set black in the header bar admin
 - 150/150315-2 BuddyBoss App iOS build upload to App Store Connect fails with Application Loader error Unable to upload archive. Failed to get authorization for username and password, auth server returned a bad status code
@@ -95,7 +97,11 @@ To confirm one, change its header line to fix: confirmed and push.
 - 157/157824 BuddyBoss Platform social login (Google and Apple sign in) suddenly gone, settings show a crown (king) icon and Start upgrade prompt, cannot reactivate, after update moved social login into the separate BuddyBoss Addon plugin
 - 157/157825 BuddyBoss Platform social login (Google and Apple sign in) suddenly gone from the site, settings show a crown icon and "Start" upgrade prompt and the option cannot be reactivated, after an update moved social login into the BuddyBoss Addon plugin
 - 157/157971 BuddyBoss App PDF file only shows a preview with no option to download, open or fill it out inside a LifterLMS lesson or course, while download works from the activity feed
+- 158/158221 BuddyBoss App Next Gen where is the documentation to create custom app pages, custom screens and interfaces, docs and App Codex seem to cover only the old Classic React Native app, custom landing screen by user type
+- 158/158221-2 BuddyBoss Platform 3.0 custom group meta fields added by other plugins disappeared, not showing on the new group admin screens after update to 3.0 dashboard, customizations broke
 - 158/158553-2 BuddyBoss App iOS build is not uploading to the App Store after the app license status and Android build were fixed
+- 158/158562 BuddyBoss App memberships not showing in the app or at registration after new iOS build with BuddyBoss Memberships enabled, in-app products Integration Type still set to Select
+- 158/158562-2 BuddyBoss App should I set up memberships with MemberPress now or wait for BuddyBoss Memberships integration with the app to avoid migrating members later
 - 159/159060 BuddyBoss App iOS build keeps failing at the signing step, provisioning profile expired and Apple Distribution certificate could not be found, Apple Developer account not connected in iOS settings
 - 159/159060-2 BuddyBoss App Android Google Play Console warning about Play Billing Library 8.0.0 or later still shows after releasing a new build, blocking app release on the Play Store
 - 159/159060-3 BuddyBoss App license renewal price locked or protected, asking if the yearly app renewal rate stays the same and why BuddyBoss Web Plus is billed separately, is Web Plus required for the app

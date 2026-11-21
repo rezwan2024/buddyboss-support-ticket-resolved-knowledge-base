@@ -1,0 +1,17 @@
+{
+"147/147208": {
+"fix": "confirmed",
+"title": "BuddyBoss App Next Gen email invites do not show the Profile Type selector when sending an invite, while the Legacy app shows it",
+"type": "app"
+},
+"147/147208-2": {
+"fix": "unconfirmed",
+"title": "BuddyBoss App Next Gen email invites show Invite Using Link option on an invite-only site, link sends invitees to the registration page they cannot use, Legacy app hides it",
+"type": "app"
+},
+"147/147208-3": {
+"fix": "unconfirmed",
+"title": "BuddyBoss App Next Gen group Invite + button missing in all groups for a group organizer after updating plugins and making a new app build",
+"type": "app"
+}
+}

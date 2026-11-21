@@ -1,4 +1,19 @@
 {
+"158/158221": {
+"fix": "unconfirmed",
+"title": "BuddyBoss App Next Gen where is the documentation to create custom app pages, custom screens and interfaces, docs and App Codex seem to cover only the old Classic React Native app, custom landing screen by user type",
+"type": "app"
+},
+"158/158221-2": {
+"fix": "unconfirmed",
+"title": "BuddyBoss Platform 3.0 custom group meta fields added by other plugins disappeared, not showing on the new group admin screens after update to 3.0 dashboard, customizations broke",
+"type": "web"
+},
+"158/158346": {
+"fix": "confirmed",
+"title": "BuddyBoss Platform how to make email notifications mandatory for members when an organiser posts in a group (Zoom meetings, announcements), lock members from turning them off and apply to existing members",
+"type": "web"
+},
 "158/158401": {
 "fix": "confirmed",
 "title": "BuddyBoss App LearnDash quiz completed in the app sends default \"LearnDash Quiz: One user completed a quiz\" email without $categories category scores, ignores custom Quiz Email Settings admin notification subject and message that work on web",
@@ -14,10 +29,25 @@
 "title": "BuddyBoss App iOS build is not uploading to the App Store after the app license status and Android build were fixed",
 "type": "app"
 },
+"158/158562": {
+"fix": "unconfirmed",
+"title": "BuddyBoss App memberships not showing in the app or at registration after new iOS build with BuddyBoss Memberships enabled, in-app products Integration Type still set to Select",
+"type": "app"
+},
+"158/158562-2": {
+"fix": "unconfirmed",
+"title": "BuddyBoss App should I set up memberships with MemberPress now or wait for BuddyBoss Memberships integration with the app to avoid migrating members later",
+"type": "app"
+},
 "158/158632": {
 "fix": "confirmed",
 "title": "BuddyBoss Platform after an unexpected update cannot add members to communities (groups) and cannot upload documents or videos, ACF plugin also not working well, fixed by updating permalinks",
 "type": "web"
+},
+"158/158636": {
+"fix": "confirmed",
+"title": "BuddyBoss App Next Gen iOS build rejected by Apple App Store Guideline 2.5.4 Performance Software Requirements, app declares audio in UIBackgroundModes but no persistent audio features found",
+"type": "app"
 },
 "158/158713": {
 "fix": "confirmed",
