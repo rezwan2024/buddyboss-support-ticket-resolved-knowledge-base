@@ -35,6 +35,9 @@
 "a mis à jour le profil de leur": [
 "157/157584-2"
 ],
+"aborterror: transition was skipped": [
+"148/148856"
+],
 "access restricted": [
 "160/160992"
 ],
@@ -57,6 +60,7 @@
 "156/156475"
 ],
 "app license has expired": [
+"158/158553",
 "161/161327"
 ],
 "app unavailable - please contact the site administrator for more information": [
@@ -245,6 +249,9 @@
 ],
 "php fatal error: uncaught error: class \"wpseo_frontend\" not found in buddyboss-sharing/includes/modules/plugin_compatibility.php:134": [
 "161/161072"
+],
+"php fatal error: uncaught typeerror: implode(): argument #2 ($array) must be of type ?array, string given in bp-activity-functions.php; php fatal error: uncaught error: class \"bb_access_control_access_control\" not found in class-bb-access-control.php": [
+"157/157687-2"
 ],
 "platformexception(sign_in_failed, com.google.android.gms.common.api.apiexception: 10)": [
 "161/161243"

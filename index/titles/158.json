@@ -4,6 +4,21 @@
 "title": "BuddyBoss App LearnDash quiz completed in the app sends default \"LearnDash Quiz: One user completed a quiz\" email without $categories category scores, ignores custom Quiz Email Settings admin notification subject and message that work on web",
 "type": "integration"
 },
+"158/158553": {
+"fix": "confirmed",
+"title": "BuddyBoss App plugin cannot be updated, shows app license has expired even though the license is still in its grace period, caused by stale license status in object cache",
+"type": "app"
+},
+"158/158553-2": {
+"fix": "unconfirmed",
+"title": "BuddyBoss App iOS build is not uploading to the App Store after the app license status and Android build were fixed",
+"type": "app"
+},
+"158/158632": {
+"fix": "confirmed",
+"title": "BuddyBoss Platform after an unexpected update cannot add members to communities (groups) and cannot upload documents or videos, ACF plugin also not working well, fixed by updating permalinks",
+"type": "web"
+},
 "158/158713": {
 "fix": "confirmed",
 "title": "BuddyBoss Platform \"New message from\" notification emails show the wrong sender's avatar and profile link when several message emails are sent in one request, such as the messages digest cron; sender name is correct (Platform 3.4.4 / 3.5.0)",

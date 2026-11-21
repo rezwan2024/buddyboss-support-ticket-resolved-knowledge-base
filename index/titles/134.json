@@ -1,0 +1,12 @@
+{
+"134/134133": {
+"fix": "unconfirmed",
+"title": "BuddyBoss Platform and Theme web profile header splits long member name mid-word, a single letter wraps to a second line on mobile, tablet and large screens",
+"type": "web"
+},
+"134/134133-2": {
+"fix": "unconfirmed",
+"title": "BuddyBoss Platform and Theme web member profile page, the two boxes on the left side are not level and look misaligned",
+"type": "web"
+}
+}

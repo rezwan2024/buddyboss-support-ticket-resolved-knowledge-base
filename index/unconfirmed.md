@@ -6,6 +6,10 @@ To confirm one, change its header line to fix: confirmed and push.
 - 119/119534 BuddyBoss App shows "App Unavailable - Please contact the site administrator for more information" after the app subscription renewal was paid, message does not clear on its own and keeps coming back after each late renewal
 - 131/131775 BuddyBoss App In-App Purchase of a LearnDash course shows access revoked right after a successful test purchase, web purchase via WooCommerce Memberships works but app IAP purchase revokes course access, same with LearnDash Group and LearnDash Course integration types
 - 131/131775-2 BuddyBoss App plugin 2.10.0 cannot be activated, fatal error Undefined constant AP_HOOK_PREFIX in InAppPurchases Orders.php, WordPress recovery mode email, plugin deactivated
+- 134/134133 BuddyBoss Platform and Theme web profile header splits long member name mid-word, a single letter wraps to a second line on mobile, tablet and large screens
+- 134/134133-2 BuddyBoss Platform and Theme web member profile page, the two boxes on the left side are not level and look misaligned
+- 148/148856-3 BuddyBoss App Next Gen cannot sort or reorder Header Bar menu items, items snap back into position after dragging, profile link shows on the wrong side of the avatar
+- 148/148856-4 BuddyBoss App Next Gen Header Bar what Add New Button and Option button do, action buttons can only change icon, create post button shows blue in the app though set black in the header bar admin
 - 150/150315-2 BuddyBoss App iOS build upload to App Store Connect fails with Application Loader error Unable to upload archive. Failed to get authorization for username and password, auth server returned a bad status code
 - 151/151793 BuddyBoss Platform moderation report description cut short in WordPress admin, cannot read the whole reporter message when viewing a reported member, text truncated with ellipsis in the view report modal
 - 153/153146-2 BuddyBoss Theme with Tutor LMS 4.0 - lesson list not visible inside a course, course menu disappears and students cannot navigate through lessons, after updating Theme to 2.22.4
@@ -77,12 +81,15 @@ To confirm one, change its header line to fix: confirmed and push.
 - 157/157583-2 BuddyBoss Theme membership product page shows the logged-in private area navigation (left and top menu) while other public pages do not
 - 157/157622 BuddyBoss Membership 1.14.1 fatal error when clicking a paid membership plan or Change Plan, checkout page breaks at the Stripe payment step, Class "BbmsStripeTaxIntegration" not found, paid Stripe checkouts cannot complete
 - 157/157686 BuddyBoss App cannot generate a Test Build from the App Secondary website, the build requires all BuddyBoss plugins to be up to date on the primary website first, so App updates cannot be tested on staging before production
+- 157/157687 BuddyBoss Platform Activity Feed filters only show for members who sent a connection request that was accepted, members who only accepted a request still see the profile timeline filters on the Community Feed
+- 157/157687-2 BuddyBoss Platform and Platform Pro @mention member search gives different results for members with the same role, one member cannot find another by first name, with PHP fatal errors implode() type error in bp-activity-functions.php and class BB_Access_Control_Access_Control not found
 - 157/157742 BuddyBoss Platform new user registration sends a second email with empty subject and empty recipient right after the admin new user notification, causing an SMTP error
 - 157/157817 BuddyBoss security researcher asks for the correct contact channel for a responsible disclosure report and whether there is a bug bounty, reward or recognition before sharing details
 - 157/157818 BuddyBoss general - researcher asks where to send a responsible disclosure security report and whether a bug bounty or reward program exists, before sharing any details
 - 157/157824 BuddyBoss Platform social login (Google and Apple sign in) suddenly gone, settings show a crown (king) icon and Start upgrade prompt, cannot reactivate, after update moved social login into the separate BuddyBoss Addon plugin
 - 157/157825 BuddyBoss Platform social login (Google and Apple sign in) suddenly gone from the site, settings show a crown icon and "Start" upgrade prompt and the option cannot be reactivated, after an update moved social login into the BuddyBoss Addon plugin
 - 157/157971 BuddyBoss App PDF file only shows a preview with no option to download, open or fill it out inside a LifterLMS lesson or course, while download works from the activity feed
+- 158/158553-2 BuddyBoss App iOS build is not uploading to the App Store after the app license status and Android build were fixed
 - 159/159060 BuddyBoss App iOS build keeps failing at the signing step, provisioning profile expired and Apple Distribution certificate could not be found, Apple Developer account not connected in iOS settings
 - 159/159060-2 BuddyBoss App Android Google Play Console warning about Play Billing Library 8.0.0 or later still shows after releasing a new build, blocking app release on the Play Store
 - 159/159060-3 BuddyBoss App license renewal price locked or protected, asking if the yearly app renewal rate stays the same and why BuddyBoss Web Plus is billed separately, is Web Plus required for the app

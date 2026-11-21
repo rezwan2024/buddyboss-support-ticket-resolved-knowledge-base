@@ -234,6 +234,16 @@
 "title": "BuddyBoss App cannot generate a Test Build from the App Secondary website, the build requires all BuddyBoss plugins to be up to date on the primary website first, so App updates cannot be tested on staging before production",
 "type": "app"
 },
+"157/157687": {
+"fix": "unconfirmed",
+"title": "BuddyBoss Platform Activity Feed filters only show for members who sent a connection request that was accepted, members who only accepted a request still see the profile timeline filters on the Community Feed",
+"type": "web"
+},
+"157/157687-2": {
+"fix": "unconfirmed",
+"title": "BuddyBoss Platform and Platform Pro @mention member search gives different results for members with the same role, one member cannot find another by first name, with PHP fatal errors implode() type error in bp-activity-functions.php and class BB_Access_Control_Access_Control not found",
+"type": "web"
+},
 "157/157689": {
 "fix": "confirmed",
 "title": "BuddyBoss App plugin 3.2.3 WordPress fatal error email after update, Uncaught Error Class BuddyBossApp\\Integrations\\BuddyBossMembership\\Common not found in LearnDash integration Main.php, site still working",

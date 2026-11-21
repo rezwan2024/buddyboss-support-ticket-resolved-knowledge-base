@@ -3,5 +3,25 @@
 "fix": "confirmed",
 "title": "BuddyBoss App LearnDash quiz stuck in loop after Prev and Continue Quiz, \"Some questions are not completed. Please complete all questions in order to finish quiz\" even though all questions are answered, quiz saving enabled, works on web but fails only in the mobile app",
 "type": "app"
+},
+"148/148856": {
+"fix": "confirmed",
+"title": "BuddyBoss App Next Gen Header Bar menu items disappear after clicking Save Menu, unremovable opt in action item, browser console error AbortError Transition was skipped",
+"type": "app"
+},
+"148/148856-2": {
+"fix": "confirmed",
+"title": "BuddyBoss App Next Gen Header Bar items such as profile avatar and notifications saved in admin but not showing in the real app, only the post action button appears, after recreating the header bar menu in the database",
+"type": "app"
+},
+"148/148856-3": {
+"fix": "unconfirmed",
+"title": "BuddyBoss App Next Gen cannot sort or reorder Header Bar menu items, items snap back into position after dragging, profile link shows on the wrong side of the avatar",
+"type": "app"
+},
+"148/148856-4": {
+"fix": "unconfirmed",
+"title": "BuddyBoss App Next Gen Header Bar what Add New Button and Option button do, action buttons can only change icon, create post button shows blue in the app though set black in the header bar admin",
+"type": "app"
 }
 }
