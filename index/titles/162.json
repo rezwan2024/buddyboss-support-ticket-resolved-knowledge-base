@@ -1,0 +1,7 @@
+{
+"162/162026": {
+"fix": "confirmed",
+"title": "BuddyBoss Platform Members Directory search filters not updating results after pressing search (Last Name filter), results appear only after several page refreshes, caused by LiteSpeed Cache page caching",
+"type": "integration"
+}
+}

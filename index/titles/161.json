@@ -179,6 +179,16 @@
 "title": "BuddyBoss Platform with WooCommerce - regular members opening /wp-admin/ are redirected to WooCommerce My Account instead of the News Feed set in BuddyBoss login redirect settings, customer asks to reopen an auto-closed ticket",
 "type": "integration"
 },
+"161/161930": {
+"fix": "confirmed",
+"title": "BuddyBoss App plugin 3.2.9 update takes the site down with HTTP 500 on wp-login.php, PHP fatal error Call to undefined function BuddyBossApp\\wp_get_current_user() in NativeAppPage.php because the legacy DB migration runs before WordPress loads pluggable functions",
+"type": "app"
+},
+"161/161939": {
+"fix": "confirmed",
+"title": "BuddyBoss App plugin 3.2.9 update crashes the whole WordPress site with fatal error Call to undefined function BuddyBossApp\\wp_get_current_user() in NativeAppPage.php create_default_apppage, site down and app shows only the web fallback page, after updating from 3.2.8 when no app page titled Home exists",
+"type": "app"
+},
 "161/161963": {
 "fix": "confirmed",
 "title": "BuddyBoss Sharing add-on \"A critical error has occurred on your website\" on Account Settings, BuddyPanel and profile menu pages after updating Yoast SEO, WPSEO_Frontend class not found in Plugin_Compatibility.php",
@@ -193,5 +203,15 @@
 "fix": "confirmed",
 "title": "BuddyBoss Platform REST API treats users authenticated with WordPress Application Passwords as logged out, returns 403 bp_rest_authorization_required on groups, xprofile, moderation and member endpoints, and lists hidden groups to non-members (privacy bug, Platform 3.6.1)",
 "type": "web"
+},
+"161/161969": {
+"fix": "confirmed",
+"title": "BuddyBoss App plugin 3.2.9 update causes fatal error, site completely down and forced into WordPress Recovery Mode, Uncaught Error Call to undefined function BuddyBossApp\\wp_get_current_user() after updating the App plugin",
+"type": "app"
+},
+"161/161973": {
+"fix": "unconfirmed",
+"title": "BuddyBoss App Next Gen - option to switch to the Next Gen app missing on one site but available on another site with the same subscription, caused by an outdated BuddyBoss App plugin (2.x) whose update does not show in the dashboard",
+"type": "app"
 }
 }

@@ -27,7 +27,8 @@
 "filter": [
 "159/159964:integration",
 "160/160485:app",
-"160/160495:integration"
+"160/160495:integration",
+"162/162026:integration"
 ],
 "filtering": [
 "160/160485:app"

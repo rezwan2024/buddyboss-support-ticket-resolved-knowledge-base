@@ -29,6 +29,9 @@
 "app unavailable - please contact the site administrator for more information": [
 "119/119534"
 ],
+"call to undefined function buddybossapp\\wp_get_current_user() in include/nativeapppage.php:1503 create_default_apppage(), via brand/backward/versions/2_4_00/dbupdate/legacyupdater.php:146 on_database_update()": [
+"161/161939"
+],
 "call to undefined method buddyboss\\core\\admin\\mothership\\bb_license_manager::checklicensestatus()": [
 "160/160967"
 ],
@@ -95,6 +98,9 @@
 "php fatal error: failed opening required bp-core/classes/class-bp-admin.php (e_error) on admin-ajax.php": [
 "160/160516"
 ],
+"php fatal error: uncaught error: call to undefined function buddybossapp\\wp_get_current_user() in wp-content/plugins/buddyboss-app/include/nativeapppage.php:1503": [
+"161/161930"
+],
 "platformexception(sign_in_failed, com.google.android.gms.common.api.apiexception: 10)": [
 "161/161243"
 ],
@@ -127,6 +133,9 @@
 ],
 "uncaught error: array_map(): argument #2 ($array) must be of type array, null given in wp-content/plugins/helpgent/app/repositories/formrepository.php on line 1015": [
 "161/161062"
+],
+"uncaught error: call to undefined function buddybossapp\\wp_get_current_user()": [
+"161/161969"
 ],
 "uncaught typeerror: cannot read properties of null (reading 'id') at object.handleformdataevent": [
 "160/160861"
