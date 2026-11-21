@@ -125,7 +125,11 @@ To confirm one, change its header line to fix: confirmed and push.
 - 158/158764-3 BuddyBoss Platform Email Digest set to Weekly but a separate email still arrives right away, and how to make weekly digest the default for all existing members
 - 158/158767 BuddyBoss Platform Email Digest - how to choose what goes into the notification digest email, Situation checkboxes allow only one selection and do not save when editing the email template
 - 158/158767-2 BuddyBoss Platform Email Digest - Send Test Digest sends an empty digest and the digest email template Preview shows a blank page, cannot preview or test the notification digest email
+- 158/158771 BuddyBoss App notifications unreadable, notification list shows only avatar and time with empty text, tapping a notification only offers Mark as read or Delete, on iPhone and iPad after BuddyBoss Platform 3.5.0 update
 - 158/158862 BuddyBoss App signup endpoint returns recurring 403 Forbidden for logged-out app users, GET /wp-json/buddyboss-app/v1/signup/form, registration form fails to load, server WAF and ModSecurity ruled out
+- 159/159026 BuddyBoss Platform with WooCommerce - WooCommerce order emails fail to send and show as failed in the SMTP plugin log, while the SMTP test email and WordPress system emails send fine
+- 159/159026-2 BuddyBoss Platform - WooCommerce status log shows PHP fatal error "Uncaught ValueError: array_combine(): Argument #1 ($keys) and argument #2 ($values) must have the same number of elements" in bp-core-functions.php
+- 159/159026-3 BuddyBoss Platform - WordPress password reset and new user registration emails arrive as raw HTML code (<!DOCTYPE html> ...) instead of a formatted email, while using an SMTP plugin
 - 159/159047 BuddyBoss Platform Email Digest not sending digest emails, Send Test Digest sends nothing, last digest run shows 0 members processed 0 emails queued, other notification emails still arrive one by one
 - 159/159060 BuddyBoss App iOS build keeps failing at the signing step, provisioning profile expired and Apple Distribution certificate could not be found, Apple Developer account not connected in iOS settings
 - 159/159060-2 BuddyBoss App Android Google Play Console warning about Play Billing Library 8.0.0 or later still shows after releasing a new build, blocking app release on the Play Store
@@ -134,6 +138,8 @@ To confirm one, change its header line to fix: confirmed and push.
 - 159/159127-2 BuddyBoss App build fails in App Center with "Error downloading app resources from client server" because a firewall or Cloudflare blocks the BuddyBossBot user agent from downloading the language file
 - 159/159199-2 LearnDash App customer asks BuddyBoss for a license credit, renewal discount or extension because a build issue delayed their app launch
 - 159/159218 BuddyBoss App blog post in Activity Feed takes multiple taps to open or does not respond to taps on iOS and Android, worse after returning to the app or reopening it, possibly on pinned blog posts
+- 159/159229 BuddyBoss Platform and Platform Pro not offering an update in WordPress Multisite Network Admin, no Update now link, security scanner flags Platform 2.14.4 and asks to update to 3.1.0 or later, no License section found in old 2.x install
+- 159/159229-2 BuddyBoss Platform on WordPress Multisite, account activation link wp-activate.php shows "There has been a critical error on this site" for new users, even without an activation key, Platform 2.14.4 with LearnDash
 - 159/159261-2 BuddyBoss App Android shows "Critical Error" message when commenting on a group activity post, still happens after reinstalling the app
 - 159/159397 BuddyBoss Platform activity feed not loading, Recent Activity page loading icon keeps spinning forever on a Spanish site, not fixed by updating Platform and Platform Pro, caused by a broken placeholder in the Spanish translation crashing on newer PHP
 - 159/159397-2 BuddyBoss Platform forum discussion missing from the Recent Conversations or Latest Conversations widget on the Recent Activity page while other topics in the same forum show

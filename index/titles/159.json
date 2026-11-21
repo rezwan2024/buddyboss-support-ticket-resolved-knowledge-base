@@ -4,6 +4,21 @@
 "title": "BuddyBoss App and Platform Sign in with Apple option greyed out and disabled in Social Login settings, Verify Settings returns to the login page with empty username field, \"Token generation failed: Private key format is not valid!\", needed for Apple Guideline 4.8 review",
 "type": "app"
 },
+"159/159026": {
+"fix": "unconfirmed",
+"title": "BuddyBoss Platform with WooCommerce - WooCommerce order emails fail to send and show as failed in the SMTP plugin log, while the SMTP test email and WordPress system emails send fine",
+"type": "integration"
+},
+"159/159026-2": {
+"fix": "unconfirmed",
+"title": "BuddyBoss Platform - WooCommerce status log shows PHP fatal error \"Uncaught ValueError: array_combine(): Argument #1 ($keys) and argument #2 ($values) must have the same number of elements\" in bp-core-functions.php",
+"type": "web"
+},
+"159/159026-3": {
+"fix": "unconfirmed",
+"title": "BuddyBoss Platform - WordPress password reset and new user registration emails arrive as raw HTML code (<!DOCTYPE html> ...) instead of a formatted email, while using an SMTP plugin",
+"type": "web"
+},
 "159/159047": {
 "fix": "unconfirmed",
 "title": "BuddyBoss Platform Email Digest not sending digest emails, Send Test Digest sends nothing, last digest run shows 0 members processed 0 emails queued, other notification emails still arrive one by one",
@@ -82,6 +97,21 @@
 "159/159218": {
 "fix": "unconfirmed",
 "title": "BuddyBoss App blog post in Activity Feed takes multiple taps to open or does not respond to taps on iOS and Android, worse after returning to the app or reopening it, possibly on pinned blog posts",
+"type": "app"
+},
+"159/159229": {
+"fix": "unconfirmed",
+"title": "BuddyBoss Platform and Platform Pro not offering an update in WordPress Multisite Network Admin, no Update now link, security scanner flags Platform 2.14.4 and asks to update to 3.1.0 or later, no License section found in old 2.x install",
+"type": "web"
+},
+"159/159229-2": {
+"fix": "unconfirmed",
+"title": "BuddyBoss Platform on WordPress Multisite, account activation link wp-activate.php shows \"There has been a critical error on this site\" for new users, even without an activation key, Platform 2.14.4 with LearnDash",
+"type": "web"
+},
+"159/159231": {
+"fix": "confirmed",
+"title": "BuddyBoss App Next Gen - public posts show on my profile timeline but not on the main activity feed in the app, then the activity feed shows a critical error on Android and iPad, fixed by clearing app API cache and transients",
 "type": "app"
 },
 "159/159261": {

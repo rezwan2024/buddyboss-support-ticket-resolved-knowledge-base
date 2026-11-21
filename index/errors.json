@@ -113,6 +113,9 @@
 "critical error on group pages, yoast class wpseo_frontend not found": [
 "160/160998"
 ],
+"critical error on the activity feed in the app": [
+"159/159231"
+],
 "critical uncaught error: class \"wpseo_frontend\" not found in /wp-content/plugins/buddyboss-sharing/includes/modules/plugin_compatibility.php:134": [
 "161/161582"
 ],
@@ -350,6 +353,9 @@
 "there are no current certificates on this team matching the provided certificate ids compatible with ios_app_store profiles; relationship is required but was not provided: certificates": [
 "162/162574"
 ],
+"there has been a critical error on this site.": [
+"159/159229-2"
+],
 "there has been a critical error on this website": [
 "157/157169",
 "161/161062-2"
@@ -409,6 +415,9 @@
 ],
 "uncaught typeerror: in_array(): argument #2 ($haystack) must be of type array, null given in bp-core/bp-core-template-loader.php line 700, bp_show_hide_toolbar(), during bp_after_setup_theme": [
 "158/158633"
+],
+"uncaught valueerror: array_combine(): argument #1 ($keys) and argument #2 ($values) must have the same number of elements": [
+"159/159026-2"
 ],
 "unhandled js exception: typeerror: undefined is not a function (activitieswidget)": [
 "159/159261"

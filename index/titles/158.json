@@ -64,6 +64,16 @@
 "title": "BuddyBoss App LearnDash quiz completed in the app sends default \"LearnDash Quiz: One user completed a quiz\" email without $categories category scores, ignores custom Quiz Email Settings admin notification subject and message that work on web",
 "type": "integration"
 },
+"158/158525": {
+"fix": "confirmed",
+"title": "BuddyBoss Platform Pro polls and reactions disabled on live site even though licence is connected, customer asks if Theme subscription includes Platform Pro or needs a separate Add-ons licence",
+"type": "web"
+},
+"158/158525-2": {
+"fix": "confirmed",
+"title": "BuddyBoss Platform Pro and Add-ons licence activation reports success but licence is not accepted, site cannot verify it and Pro and Add-ons do not show as covered after a fresh reinstall",
+"type": "account"
+},
 "158/158553": {
 "fix": "confirmed",
 "title": "BuddyBoss App plugin cannot be updated, shows app license has expired even though the license is still in its grace period, caused by stale license status in object cache",
@@ -158,6 +168,11 @@
 "fix": "unconfirmed",
 "title": "BuddyBoss Platform Email Digest - Send Test Digest sends an empty digest and the digest email template Preview shows a blank page, cannot preview or test the notification digest email",
 "type": "web"
+},
+"158/158771": {
+"fix": "unconfirmed",
+"title": "BuddyBoss App notifications unreadable, notification list shows only avatar and time with empty text, tapping a notification only offers Mark as read or Delete, on iPhone and iPad after BuddyBoss Platform 3.5.0 update",
+"type": "app"
 },
 "158/158777": {
 "fix": "confirmed",
