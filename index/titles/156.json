@@ -209,6 +209,16 @@
 "title": "BuddyBoss Theme dark color scheme - \"Like this:\" Likes bar shows white background instead of dark under posts, does not follow theme colors or custom CSS (Jetpack Likes widget)",
 "type": "integration"
 },
+"156/156821": {
+"fix": "unconfirmed",
+"title": "BuddyBoss App offline course downloads - MP4 videos play in Flight Mode but MP3 audio files from the WordPress Media Library are not downloaded or do not play offline in LearnDash courses",
+"type": "app"
+},
+"156/156821-2": {
+"fix": "unconfirmed",
+"title": "BuddyBoss App offline course downloads - downloaded LearnDash courses are accessible in Flight Mode at first, then access to all courses is lost after some time or after refreshing or reloading the app offline",
+"type": "app"
+},
 "156/156848": {
 "fix": "confirmed",
 "title": "BuddyBoss App critical error crash when opening comments on a group activity post that has a reaction on a comment, TypeError undefined is not a function in titleTrim, iOS and Android, Platform 3.4.3 and App plugin 3.2.3",

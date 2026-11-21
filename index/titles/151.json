@@ -1,4 +1,29 @@
 {
+"151/151341": {
+"fix": "unconfirmed",
+"title": "BuddyBoss App Classic build custom toolbar icons show completely black while native icons display correctly, blocking new app builds",
+"type": "app"
+},
+"151/151370": {
+"fix": "confirmed",
+"title": "BuddyBoss App Classic iOS test build keeps failing with a different error each time (PKCS12_parse mac verify failure, icon fetch Terminated 15) while the release build works, regenerating certificates does not help",
+"type": "app"
+},
+"151/151370-2": {
+"fix": "confirmed",
+"title": "BuddyBoss App iOS build or upload fails with unknown error, build log shows E016 no Apple Distribution certificate for team found and E017 provisioning profile expired",
+"type": "app"
+},
+"151/151370-3": {
+"fix": "confirmed",
+"title": "BuddyBoss App iOS how to test the release build on a device before publishing to the App Store when the iOS test build is not available, using TestFlight",
+"type": "app"
+},
+"151/151370-4": {
+"fix": "unconfirmed",
+"title": "BuddyBoss App iOS publish to the App Store from the BuddyBoss publish process shows errors even though everything is set up in App Store Connect",
+"type": "app"
+},
 "151/151384": {
 "fix": "confirmed",
 "title": "BuddyBoss Theme Tutor LMS 4.0 dashboard layout broken, parts of the Tutor LMS dashboard not displaying correctly after updating Tutor LMS to 4.0",

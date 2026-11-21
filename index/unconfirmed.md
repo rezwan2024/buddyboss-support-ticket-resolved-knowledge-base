@@ -8,14 +8,18 @@ To confirm one, change its header line to fix: confirmed and push.
 - 131/131775-2 BuddyBoss App plugin 2.10.0 cannot be activated, fatal error Undefined constant AP_HOOK_PREFIX in InAppPurchases Orders.php, WordPress recovery mode email, plugin deactivated
 - 134/134133 BuddyBoss Platform and Theme web profile header splits long member name mid-word, a single letter wraps to a second line on mobile, tablet and large screens
 - 134/134133-2 BuddyBoss Platform and Theme web member profile page, the two boxes on the left side are not level and look misaligned
+- 137/137456 BuddyBoss App LearnDash Notes (Notes by LearnDash add-on) not showing in app course lessons, notes show on some lessons on the website but never inside the app
 - 148/148856-3 BuddyBoss App Next Gen cannot sort or reorder Header Bar menu items, items snap back into position after dragging, profile link shows on the wrong side of the avatar
 - 148/148856-4 BuddyBoss App Next Gen Header Bar what Add New Button and Option button do, action buttons can only change icon, create post button shows blue in the app though set black in the header bar admin
 - 150/150315-2 BuddyBoss App iOS build upload to App Store Connect fails with Application Loader error Unable to upload archive. Failed to get authorization for username and password, auth server returned a bad status code
+- 151/151341 BuddyBoss App Classic build custom toolbar icons show completely black while native icons display correctly, blocking new app builds
+- 151/151370-4 BuddyBoss App iOS publish to the App Store from the BuddyBoss publish process shows errors even though everything is set up in App Store Connect
 - 151/151793 BuddyBoss Platform moderation report description cut short in WordPress admin, cannot read the whole reporter message when viewing a reported member, text truncated with ellipsis in the view report modal
 - 153/153146-2 BuddyBoss Theme with Tutor LMS 4.0 - lesson list not visible inside a course, course menu disappears and students cannot navigate through lessons, after updating Theme to 2.22.4
 - 153/153146-3 BuddyBoss App Next Gen - Courses tab shows "This screen type is not yet implemented" (courses_all) with Tutor LMS Pro, first app build on App Core 3.2.4
 - 153/153847 BuddyBoss Platform private message email notifications not sent when notification delay is enabled (5 or 15 minutes), emails work only when delay is disabled, recipient logged out
 - 153/153911-2 BuddyBoss App Classic block with HTML and shortcodes uses web fallback (WebView) and causes scrolling problems that make the page impossible to navigate and duplicates the LearnDash lesson list in the app
+- 154/154278 BuddyBoss App Next Gen build fails only when dark mode is enabled, no error code shown, build succeeds with dark mode disabled, build files arrive empty on slow host behind Cloudflare
 - 154/154490 BuddyBoss App Next Gen LearnDash lesson button shows raw key ld_mark_as_incomplete, Mark as Incomplete string missing from BuddyBoss App Translations, custom wording from Loco Translate not showing in app after moving from Classic app
 - 154/154490-2 BuddyBoss App Next Gen LearnDash lesson button shows raw key ld_mark_as_incomplete, Mark as Incomplete string missing from BuddyBoss App Translations list, wording from older app lost after moving to Next Gen
 - 155/155215 BuddyBoss Platform and Theme web direct message notification opens the Messages inbox or a random conversation instead of the exact DM, and the message the notification refers to cannot be found, with a custom Elementor header
@@ -46,6 +50,8 @@ To confirm one, change its header line to fix: confirmed and push.
 - 156/156770 BuddyBoss App Classic - third-party chatbot bubble added with a JavaScript snippet in the WordPress header no longer appears in the mobile app on any screen after plugin updates, still works on the website
 - 156/156780 BuddyBoss App Next Gen custom group tab created with PHP (bp_register_group_extension) or a tab creator plugin fails to load, loops back to the start or kicks the user out of the app, works fine in the Classic app and in the browser, iOS and Android
 - 156/156798-2 BuddyBoss Platform admin notice BuddyBoss Platform is almost ready, you must update your permalink structure to something other than the default, still shows after the permalink structure was changed
+- 156/156821 BuddyBoss App offline course downloads - MP4 videos play in Flight Mode but MP3 audio files from the WordPress Media Library are not downloaded or do not play offline in LearnDash courses
+- 156/156821-2 BuddyBoss App offline course downloads - downloaded LearnDash courses are accessible in Flight Mode at first, then access to all courses is lost after some time or after refreshing or reloading the app offline
 - 156/156851 BuddyBoss Platform with WooCommerce - cart page loads very slowly after adding a product, hundreds of extra database queries (400+ more, 250+ duplicate get_option and update_meta_cache queries, BP_Core_Suspend user checks) only when BuddyBoss plugins are active
 - 156/156851-2 BuddyBoss Platform - PHP 8 deprecation warnings (Deprecated notices) from the bundled alchemy binary-driver library Configuration.php on every page
 - 156/156907-3 BuddyBoss App iOS Test build fails with an error after the test provisioning profile was fixed, while moving to the new app version

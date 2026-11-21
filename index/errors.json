@@ -29,6 +29,9 @@
 "@undefined": [
 "156/156685"
 ],
+"[e016] no certificate for team matching 'apple distribution' found / [e017] provisioning profile (release) expired": [
+"151/151370-2"
+],
 "a critical error has occurred on your website. (fatal error: class wpseo_frontend not found, plugin_compatibility.php line 134)": [
 "161/161963"
 ],
@@ -219,6 +222,9 @@
 ],
 "not installed": [
 "156/156336"
+],
+"openssl::pkcs12::pkcs12error: [!] pkcs12_parse: mac verify failure / fetch_bb_icons terminated: 15": [
+"151/151370"
 ],
 "php deprecated warnings in alchemy/binary-driver configuration.php": [
 "156/156851-2"

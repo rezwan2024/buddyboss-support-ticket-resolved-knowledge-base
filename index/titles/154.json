@@ -1,4 +1,9 @@
 {
+"154/154278": {
+"fix": "unconfirmed",
+"title": "BuddyBoss App Next Gen build fails only when dark mode is enabled, no error code shown, build succeeds with dark mode disabled, build files arrive empty on slow host behind Cloudflare",
+"type": "app"
+},
 "154/154490": {
 "fix": "unconfirmed",
 "title": "BuddyBoss App Next Gen LearnDash lesson button shows raw key ld_mark_as_incomplete, Mark as Incomplete string missing from BuddyBoss App Translations, custom wording from Loco Translate not showing in app after moving from Classic app",
