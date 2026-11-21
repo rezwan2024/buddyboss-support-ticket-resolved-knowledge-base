@@ -1,4 +1,9 @@
 {
+"162/162018": {
+"fix": "unconfirmed",
+"title": "BuddyBoss Gamification add-on how to retroactively award points and badges for past member activity (posts, comments, group joins) done before Gamification was enabled, no built-in backfill tool",
+"type": "addon"
+},
 "162/162026": {
 "fix": "confirmed",
 "title": "BuddyBoss Platform Members Directory search filters not updating results after pressing search (Last Name filter), results appear only after several page refreshes, caused by LiteSpeed Cache page caching",

@@ -234,6 +234,21 @@
 "title": "BuddyBoss App customer receiving unsolicited emails from third-party BuddyBoss development agencies before the app is published, asks how they know and whether BuddyBoss shared customer data (privacy concern)",
 "type": "account"
 },
+"161/161901": {
+"fix": "unconfirmed",
+"title": "BuddyBoss Platform BuddyBoss Courses (BB Courses) cannot attach or link existing lessons created under BB Courses > Lessons to a course, no option to assign a standalone lesson to a course",
+"type": "web"
+},
+"161/161906": {
+"fix": "unconfirmed",
+"title": "BuddyBoss Platform database error \"Table wp_bb_drm_events doesn't exist\" on admin_init from BB_DRM_Registry addon DRM check, table never created on MyISAM servers after update",
+"type": "web"
+},
+"161/161919": {
+"fix": "unconfirmed",
+"title": "BuddyBoss App PDF file such as a course certificate does not open full screen inside the app, view is cropped and unreadable, Open or download button does not save the file to the device on iOS and Android",
+"type": "app"
+},
 "161/161930": {
 "fix": "confirmed",
 "title": "BuddyBoss App plugin 3.2.9 update takes the site down with HTTP 500 on wp-login.php, PHP fatal error Call to undefined function BuddyBossApp\\wp_get_current_user() in NativeAppPage.php because the legacy DB migration runs before WordPress loads pluggable functions",
@@ -268,5 +283,10 @@
 "fix": "unconfirmed",
 "title": "BuddyBoss App Next Gen - option to switch to the Next Gen app missing on one site but available on another site with the same subscription, caused by an outdated BuddyBoss App plugin (2.x) whose update does not show in the dashboard",
 "type": "app"
+},
+"161/161986": {
+"fix": "confirmed",
+"title": "BuddyBoss Platform 3.6.2 front-end Account > Delete Account creates a replacement \"anonymized_\" user with the same Paid Memberships Pro level, sends the WordPress \"your email address has been changed\" notice and the user-deleted trigger does not fire, right after updating BuddyBoss plugins",
+"type": "integration"
 }
 }

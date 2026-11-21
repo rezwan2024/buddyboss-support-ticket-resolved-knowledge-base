@@ -23,6 +23,9 @@
 "an unknown error occurred / blog post not found": [
 "160/160410"
 ],
+"anonymized_ user created; wordpress email address changed notification": [
+"161/161986"
+],
 "app license has expired": [
 "161/161327"
 ],
@@ -184,6 +187,9 @@
 ],
 "warning: undefined array key 0 in wp-content/plugins/buddyboss-platform/bp-forums/forums/capabilities.php on line 125; warning: attempt to read property \"id\" on null in wp-content/plugins/elementor/core/base/document.php on line 356": [
 "159/159265"
+],
+"wordpress database error table '...wp_bb_drm_events' doesn't exist for query select * from wp_bb_drm_events where event = 'addon-buddyboss-addons' order by id desc limit 1": [
+"161/161906"
 ],
 "you are unauthorized to view this page.": [
 "160/160806"
