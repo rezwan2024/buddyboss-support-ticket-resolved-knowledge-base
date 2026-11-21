@@ -1,4 +1,29 @@
 {
+"156/156072": {
+"fix": "unconfirmed",
+"title": "BuddyBoss Platform Pro license activation fails in BuddyBoss License Activation with error \"License activation failed: The requested action could not be performed due to validation errors\"",
+"type": "account"
+},
+"156/156224": {
+"fix": "unconfirmed",
+"title": "BuddyBoss Platform license activation notice keeps asking to activate the license for Offload Media and Gamification add-ons even though the license was activated long ago, license data out of sync",
+"type": "account"
+},
+"156/156267": {
+"fix": "unconfirmed",
+"title": "BuddyBoss Platform cannot add members to a group via REST API or the group Manage Members screen, API returns 200 then 500 bp_rest_group_member_failed_to_join, member not shown on front end and group count not updating, group linked to a LearnDash group",
+"type": "integration"
+},
+"156/156279": {
+"fix": "unconfirmed",
+"title": "LearnDash activation takes the whole site down with a fatal error \"Call to undefined function mb_strtolower()\" on a BuddyBoss site, caused by the PHP mbstring extension being disabled on the server (PHP 8.3, often after a PHP version change)",
+"type": "integration"
+},
+"156/156279-2": {
+"fix": "unconfirmed",
+"title": "BuddyBoss Platform and Platform Pro cannot be activated because two copies of each plugin are installed, WordPress treats them as competing plugins, on a site running very outdated versions (Platform 2.14.4, Pro 2.10.1, Theme 2.14.0)",
+"type": "web"
+},
 "156/156472": {
 "fix": "confirmed",
 "title": "BuddyBoss Platform manual activation of a pending signup from WordPress admin fails with \"1 account was not activated. Google reCAPTCHA token is missing.\" when reCAPTCHA v3 is enabled for Account Activation, after updating BuddyBoss plugins (users registering through the Next Gen App land in Pending Signups)",

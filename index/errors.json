@@ -47,8 +47,14 @@
 "bb social login detected that your apple credentials have expired. please delete the current credentials and generate new one!": [
 "162/162730"
 ],
+"bp_rest_group_member_failed_to_join (http 500)": [
+"156/156267"
+],
 "call to undefined function buddybossapp\\wp_get_current_user() in include/nativeapppage.php:1503 create_default_apppage(), via brand/backward/versions/2_4_00/dbupdate/legacyupdater.php:146 on_database_update()": [
 "161/161939"
+],
+"call to undefined function mb_strtolower()": [
+"156/156279"
 ],
 "call to undefined method buddyboss\\core\\admin\\mothership\\bb_license_manager::checklicensestatus()": [
 "160/160967"
@@ -123,6 +129,9 @@
 ],
 "learndash quiz: one user completed a quiz": [
 "158/158401"
+],
+"license activation failed: the requested action could not be performed due to validation errors.": [
+"156/156072"
 ],
 "license activation failed: the requested action could not be performed due to validation errors. the license does not have any available production activations remaining.": [
 "160/160389"

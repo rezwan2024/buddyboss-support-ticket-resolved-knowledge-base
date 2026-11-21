@@ -109,6 +109,9 @@
 "162/162216-2:addon",
 "162/162281-2:integration"
 ],
+"strtolower": [
+"156/156279:integration"
+],
 "stuck": [
 "148/148023:app",
 "159/159940:web",
@@ -118,6 +121,7 @@
 "student": [
 "153/153146:integration",
 "153/153146-2:integration",
+"153/153911:app",
 "162/162281:web"
 ],
 "style": [

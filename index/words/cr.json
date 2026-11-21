@@ -48,6 +48,7 @@
 "162/162281-2:integration"
 ],
 "critical": [
+"156/156279:integration",
 "156/156848:app",
 "159/159261-2:app",
 "160/160998:addon",

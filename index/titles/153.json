@@ -18,5 +18,15 @@
 "fix": "unconfirmed",
 "title": "BuddyBoss Platform private message email notifications not sent when notification delay is enabled (5 or 15 minutes), emails work only when delay is disabled, recipient logged out",
 "type": "web"
+},
+"153/153911": {
+"fix": "confirmed",
+"title": "BuddyBoss App conditional shortcodes from a membership plugin (S2Member) do not render in app-approved blocks, show or hide content by student level on shared LearnDash lessons not working in the app, can PHP server-side shortcode execution be enabled",
+"type": "app"
+},
+"153/153911-2": {
+"fix": "unconfirmed",
+"title": "BuddyBoss App Classic block with HTML and shortcodes uses web fallback (WebView) and causes scrolling problems that make the page impossible to navigate and duplicates the LearnDash lesson list in the app",
+"type": "app"
 }
 }
