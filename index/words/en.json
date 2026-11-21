@@ -18,7 +18,8 @@
 ],
 "endpoint": [
 "159/159646:app",
-"160/160410:integration"
+"160/160410:integration",
+"161/161966:web"
 ],
 "ends": [
 "144/144667-2:addon",

@@ -1,9 +1,15 @@
 {
+"403 bp_rest_authorization_required \"sorry, you cannot view the group.\"; bp_rest_hidden_profile_field; bp_rest_invalid_item; bp_rest_group_member_cannot_promote; bp_rest_user_cannot_delete": [
+"161/161966"
+],
 "504 gateway time-out": [
 "160/160995-2"
 ],
 "@undefined": [
 "156/156685"
+],
+"a critical error has occurred on your website. (fatal error: class wpseo_frontend not found, plugin_compatibility.php line 134)": [
+"161/161963"
 ],
 "access restricted": [
 "160/160992"
@@ -88,6 +94,9 @@
 ],
 "php fatal error: failed opening required bp-core/classes/class-bp-admin.php (e_error) on admin-ajax.php": [
 "160/160516"
+],
+"platformexception(sign_in_failed, com.google.android.gms.common.api.apiexception: 10)": [
+"161/161243"
 ],
 "provisioning profile expired": [
 "160/160797-2"

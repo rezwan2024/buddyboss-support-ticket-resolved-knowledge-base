@@ -64,6 +64,11 @@
 "title": "BuddyBoss Platform security scanner report flagged, customer reports a security finding for BuddyBoss Web, fixed by updating to Platform 3.6.2 or later, database may still show no known fix",
 "type": "web"
 },
+"161/161243": {
+"fix": "unconfirmed",
+"title": "BuddyBoss App Android Google Social Login fails with PlatformException sign_in_failed ApiException 10 (developer error) in the app, noticed after Platform 3.6.1 and Platform Pro 3.3.3 update and Apple sign-in reconfiguration",
+"type": "app"
+},
 "161/161318": {
 "fix": "confirmed",
 "title": "BuddyBoss Platform Pro settings think I have the Start license when I have Launch, BuddyBoss asks me to upgrade to use polls, add-ons show Upgrade Scale labels",
@@ -83,6 +88,11 @@
 "fix": "confirmed",
 "title": "BuddyBoss App Next Gen iOS custom code from the custom Git repository not executing, index.js and applyCustomCode never run, no alerts or composer changes appear after a successful build on App Core 3.2.4",
 "type": "app"
+},
+"161/161375": {
+"fix": "confirmed",
+"title": "BuddyBoss Theme 2.22.3 with Tutor LMS 4.1.3 and Tutor LMS Pro 4.x, My Courses page layout broken, oversized course cards and partially unstyled dashboard after updating Tutor LMS to 4.x, works with a default theme",
+"type": "integration"
 },
 "161/161393": {
 "fix": "unconfirmed",
@@ -168,5 +178,20 @@
 "fix": "unconfirmed",
 "title": "BuddyBoss Platform with WooCommerce - regular members opening /wp-admin/ are redirected to WooCommerce My Account instead of the News Feed set in BuddyBoss login redirect settings, customer asks to reopen an auto-closed ticket",
 "type": "integration"
+},
+"161/161963": {
+"fix": "confirmed",
+"title": "BuddyBoss Sharing add-on \"A critical error has occurred on your website\" on Account Settings, BuddyPanel and profile menu pages after updating Yoast SEO, WPSEO_Frontend class not found in Plugin_Compatibility.php",
+"type": "addon"
+},
+"161/161963-2": {
+"fix": "confirmed",
+"title": "BuddyBoss Platform and Theme PHP 8.5 support, which PHP version to run on a live site, and should the host update PHP automatically after a PHP security patch release",
+"type": "web"
+},
+"161/161966": {
+"fix": "confirmed",
+"title": "BuddyBoss Platform REST API treats users authenticated with WordPress Application Passwords as logged out, returns 403 bp_rest_authorization_required on groups, xprofile, moderation and member endpoints, and lists hidden groups to non-members (privacy bug, Platform 3.6.1)",
+"type": "web"
 }
 }
