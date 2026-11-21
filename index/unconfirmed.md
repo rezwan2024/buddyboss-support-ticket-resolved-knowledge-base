@@ -11,6 +11,7 @@ To confirm one, change its header line to fix: confirmed and push.
 - 137/137456 BuddyBoss App LearnDash Notes (Notes by LearnDash add-on) not showing in app course lessons, notes show on some lessons on the website but never inside the app
 - 147/147208-2 BuddyBoss App Next Gen email invites show Invite Using Link option on an invite-only site, link sends invitees to the registration page they cannot use, Legacy app hides it
 - 147/147208-3 BuddyBoss App Next Gen group Invite + button missing in all groups for a group organizer after updating plugins and making a new app build
+- 148/148074 BuddyBoss Gamification 2.0.1 frontend labels (Points, Ranks, Achievements, Awards) still show in English after translating with Loco Translate, translation files generated but React/JavaScript strings not translated
 - 148/148856-3 BuddyBoss App Next Gen cannot sort or reorder Header Bar menu items, items snap back into position after dragging, profile link shows on the wrong side of the avatar
 - 148/148856-4 BuddyBoss App Next Gen Header Bar what Add New Button and Option button do, action buttons can only change icon, create post button shows blue in the app though set black in the header bar admin
 - 150/150315-2 BuddyBoss App iOS build upload to App Store Connect fails with Application Loader error Unable to upload archive. Failed to get authorization for username and password, auth server returned a bad status code
@@ -99,7 +100,13 @@ To confirm one, change its header line to fix: confirmed and push.
 - 157/157971 BuddyBoss App PDF file only shows a preview with no option to download, open or fill it out inside a LifterLMS lesson or course, while download works from the activity feed
 - 158/158221 BuddyBoss App Next Gen where is the documentation to create custom app pages, custom screens and interfaces, docs and App Codex seem to cover only the old Classic React Native app, custom landing screen by user type
 - 158/158221-2 BuddyBoss Platform 3.0 custom group meta fields added by other plugins disappeared, not showing on the new group admin screens after update to 3.0 dashboard, customizations broke
+- 158/158345 BuddyBoss Platform and Platform Pro slow site with 1,400+ database queries on simple static pages, 7 to 20 second page loads and slow login, cart page slow, much faster when BuddyBoss is deactivated
+- 158/158364-2 BuddyBoss Platform login page does not show on mobile after installing Wordfence and a plugin that changes the admin login URL, only loads when the full custom login address is typed
+- 158/158387 BuddyBoss Platform ReadyLaunch group (community) name runs shortcodes in the group header instead of showing the text, privacy bug report where shortcode output from another plugin shows private form data, Platform 3.4.4
+- 158/158387-2 BuddyBoss Platform ReadyLaunch activity comment box does not close when clicking Cancel on a group activity post, form stays visible with no console errors, Platform 3.4.4
 - 158/158553-2 BuddyBoss App iOS build is not uploading to the App Store after the app license status and Android build were fixed
+- 158/158561 BuddyBoss Platform video upload fails on activity feed for 72 MB and 82 MB files even though Settings Media Video max size is set to 1024 MB, server PHP upload limit lower than file size
+- 158/158561-2 BuddyBoss Platform photo uploads from mobile devices fail intermittently on activity feed, sometimes work and sometimes do not, server PHP upload and memory limits
 - 158/158562 BuddyBoss App memberships not showing in the app or at registration after new iOS build with BuddyBoss Memberships enabled, in-app products Integration Type still set to Select
 - 158/158562-2 BuddyBoss App should I set up memberships with MemberPress now or wait for BuddyBoss Memberships integration with the app to avoid migrating members later
 - 159/159060 BuddyBoss App iOS build keeps failing at the signing step, provisioning profile expired and Apple Distribution certificate could not be found, Apple Developer account not connected in iOS settings

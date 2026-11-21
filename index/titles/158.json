@@ -9,9 +9,34 @@
 "title": "BuddyBoss Platform 3.0 custom group meta fields added by other plugins disappeared, not showing on the new group admin screens after update to 3.0 dashboard, customizations broke",
 "type": "web"
 },
+"158/158345": {
+"fix": "unconfirmed",
+"title": "BuddyBoss Platform and Platform Pro slow site with 1,400+ database queries on simple static pages, 7 to 20 second page loads and slow login, cart page slow, much faster when BuddyBoss is deactivated",
+"type": "web"
+},
 "158/158346": {
 "fix": "confirmed",
 "title": "BuddyBoss Platform how to make email notifications mandatory for members when an organiser posts in a group (Zoom meetings, announcements), lock members from turning them off and apply to existing members",
+"type": "web"
+},
+"158/158364": {
+"fix": "confirmed",
+"title": "BuddyBoss Platform how to open the website so logged out visitors can see content but only members can post or comment, Private Website setting cannot be found in the new BuddyBoss admin",
+"type": "web"
+},
+"158/158364-2": {
+"fix": "unconfirmed",
+"title": "BuddyBoss Platform login page does not show on mobile after installing Wordfence and a plugin that changes the admin login URL, only loads when the full custom login address is typed",
+"type": "integration"
+},
+"158/158387": {
+"fix": "unconfirmed",
+"title": "BuddyBoss Platform ReadyLaunch group (community) name runs shortcodes in the group header instead of showing the text, privacy bug report where shortcode output from another plugin shows private form data, Platform 3.4.4",
+"type": "web"
+},
+"158/158387-2": {
+"fix": "unconfirmed",
+"title": "BuddyBoss Platform ReadyLaunch activity comment box does not close when clicking Cancel on a group activity post, form stays visible with no console errors, Platform 3.4.4",
 "type": "web"
 },
 "158/158401": {
@@ -28,6 +53,16 @@
 "fix": "unconfirmed",
 "title": "BuddyBoss App iOS build is not uploading to the App Store after the app license status and Android build were fixed",
 "type": "app"
+},
+"158/158561": {
+"fix": "unconfirmed",
+"title": "BuddyBoss Platform video upload fails on activity feed for 72 MB and 82 MB files even though Settings Media Video max size is set to 1024 MB, server PHP upload limit lower than file size",
+"type": "web"
+},
+"158/158561-2": {
+"fix": "unconfirmed",
+"title": "BuddyBoss Platform photo uploads from mobile devices fail intermittently on activity feed, sometimes work and sometimes do not, server PHP upload and memory limits",
+"type": "web"
 },
 "158/158562": {
 "fix": "unconfirmed",
