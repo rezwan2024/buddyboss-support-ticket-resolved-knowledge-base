@@ -114,6 +114,9 @@
 "google recaptcha token is missing.": [
 "160/160519"
 ],
+"http 200 with 0 byte body on /wp-json/buddyboss/v1/members": [
+"156/156337-2"
+],
 "imunify360 marks buddyboss-theme/inc/theme/functions.php as malicious": [
 "163/163003"
 ],
@@ -145,6 +148,9 @@
 "license activation failed: the requested action could not be performed due to validation errors. the license does not have any available production activations remaining.": [
 "160/160389"
 ],
+"license activation failed: wp_error : 1. (licensing server) short-circuited during vendor outage (jrms-caseproof-timeout.php)": [
+"156/156720"
+],
 "license required for buddyboss features - buddyboss addons": [
 "156/156236"
 ],
@@ -153,6 +159,9 @@
 ],
 "new version available": [
 "161/161594"
+],
+"no build available": [
+"150/150315"
 ],
 "no google analytics was found on your website. please follow the snippet installation instructions and try again.": [
 "159/159735"
@@ -256,6 +265,9 @@
 ],
 "unable to install": [
 "162/162183"
+],
+"unable to upload archive. failed to get authorization for username and password. the auth server returned a bad status code.": [
+"150/150315-2"
 ],
 "uncaught error: array_map(): argument #2 ($array) must be of type array, null given in wp-content/plugins/helpgent/app/repositories/formrepository.php on line 1015": [
 "161/161062"

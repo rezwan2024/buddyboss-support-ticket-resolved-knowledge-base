@@ -55,6 +55,7 @@
 "156/156279-2:web",
 "156/156327:web",
 "156/156336:web",
+"156/156720:account",
 "156/156803:web",
 "156/156970:app",
 "157/157191:app",
@@ -86,6 +87,9 @@
 "capabilitie": [
 "159/159265:web"
 ],
+"capped": [
+"150/150315:app"
+],
 "captcha": [
 "155/155419:integration"
 ],
@@ -108,6 +112,9 @@
 ],
 "cart": [
 "162/162755:integration"
+],
+"caseproof": [
+"156/156720:account"
 ],
 "categorie": [
 "158/158401:integration",

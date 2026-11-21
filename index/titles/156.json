@@ -4,6 +4,16 @@
 "title": "BuddyBoss Platform Pro license activation fails in BuddyBoss License Activation with error \"License activation failed: The requested action could not be performed due to validation errors\"",
 "type": "account"
 },
+"156/156143": {
+"fix": "unconfirmed",
+"title": "BuddyBoss App iOS and Android Sign In and Create an Account pages do not load and LinkedIn social login does not work in the app, no error shown, while social login and registration work on the website in a mobile browser",
+"type": "app"
+},
+"156/156193": {
+"fix": "unconfirmed",
+"title": "BuddyBoss Courses add-on has no certificates, no certificate post type found and no certificate offered to the student at 100% course completion, Certificate Builder only available through the LearnDash integration",
+"type": "addon"
+},
 "156/156224": {
 "fix": "unconfirmed",
 "title": "BuddyBoss Platform license activation notice keeps asking to activate the license for Offload Media and Gamification add-ons even though the license was activated long ago, license data out of sync",
@@ -39,6 +49,16 @@
 "title": "BuddyBoss Platform Pro shows BuddyBoss Addons as Not Installed, cannot enable pinned posts, polls, social login, emotion reactions after installing Platform Pro",
 "type": "web"
 },
+"156/156337": {
+"fix": "unconfirmed",
+"title": "BuddyBoss App sends one Pusher auth request per message thread on every cold launch, hundreds of /pusher/auth requests make Members and Community stuck on loading skeletons for users with many message threads (App 3.2.0, iOS)",
+"type": "app"
+},
+"156/156337-2": {
+"fix": "unconfirmed",
+"title": "BuddyBoss App Members and Community stay on loading skeletons forever because BuddyBoss REST endpoints return HTTP 200 with an empty body under heavy server load, and the app treats the empty response as success",
+"type": "app"
+},
 "156/156353": {
 "fix": "unconfirmed",
 "title": "BuddyBoss Platform newer emojis show as blank image or broken emoji in private messages, activity posts and comments, emoji URL hardcoded to old emoji version 14.0.0 returns 301 redirect",
@@ -53,6 +73,11 @@
 "fix": "confirmed",
 "title": "BuddyBoss Platform user blocking does not work, blocked user still sees and comments on the blocking user's posts in the activity feed and groups, mention shows \"@undefined\", fixed in Platform 3.5.1",
 "type": "web"
+},
+"156/156720": {
+"fix": "confirmed",
+"title": "BuddyBoss Platform Pro license activation keeps failing for days with \"License activation failed: WP_Error : 1\" and \"short-circuited during vendor outage (jrms-caseproof-timeout.php)\"",
+"type": "account"
 },
 "156/156780": {
 "fix": "unconfirmed",

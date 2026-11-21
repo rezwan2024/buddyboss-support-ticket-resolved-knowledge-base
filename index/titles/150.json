@@ -1,0 +1,12 @@
+{
+"150/150315": {
+"fix": "confirmed",
+"title": "BuddyBoss App iOS build upload keeps failing, Upload page and upload history blank showing No Build Available, previous uploads disappeared, timeout snippet did not help because a custom theme capped all outgoing HTTP requests at 10 seconds",
+"type": "app"
+},
+"150/150315-2": {
+"fix": "unconfirmed",
+"title": "BuddyBoss App iOS build upload to App Store Connect fails with Application Loader error Unable to upload archive. Failed to get authorization for username and password, auth server returned a bad status code",
+"type": "app"
+}
+}
