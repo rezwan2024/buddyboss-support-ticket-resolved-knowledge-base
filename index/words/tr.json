@@ -46,6 +46,9 @@
 "trigger": [
 "161/161986:integration"
 ],
+"truncated": [
+"151/151793:web"
+],
 "try": [
 "144/144667:addon",
 "159/159593:app",

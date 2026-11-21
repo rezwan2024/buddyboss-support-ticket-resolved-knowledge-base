@@ -1,4 +1,9 @@
 {
+"162/162007": {
+"fix": "confirmed",
+"title": "BuddyBoss App Next Gen search field text sits low and bottom of letters is cut off (clipped) on Messages, Forums, Activity and More screen with a custom font that has tall line metrics, such as Palanquin, and Font Scale above 100",
+"type": "app"
+},
 "162/162011": {
 "fix": "confirmed",
 "title": "BuddyBoss Platform ReadyLaunch member-uploaded images not displaying in forums and activity feed, /bb-media-preview/ URL returns a ReadyLaunch HTML page instead of the image, works with WordPress Theme site layout, caused by ReadyLaunch Blog page enabled",
@@ -54,9 +59,29 @@
 "title": "BuddyBoss App Next Gen Android test app build will not install, installer page shows Unable to Install and blocks the download because the phone browser opened in Desktop site mode, after a plugin update",
 "type": "app"
 },
+"162/162216": {
+"fix": "confirmed",
+"title": "BuddyBoss Membership 1.14.2 Connect with Stripe button returns 404 Not Found from stripe.buddyboss.com/connect, Stripe Connect cannot be set up under Memberships Payments settings after update",
+"type": "addon"
+},
+"162/162216-2": {
+"fix": "confirmed",
+"title": "BuddyBoss Membership 1.14.1 and 1.14.2 Stripe checkout broken with fatal error Class \"BbmsStripeTaxIntegration\" not found, checkout page fails to render and submit",
+"type": "addon"
+},
+"162/162234": {
+"fix": "unconfirmed",
+"title": "BuddyBoss Theme 2.22.4 inc/theme/functions.php flagged as malware by Imunify host scanner after updating from 2.22.3, false positive scanner report",
+"type": "web"
+},
 "162/162263": {
 "fix": "confirmed",
 "title": "BuddyBoss Platform \"There has been a critical error on this website\" only on activity feed, groups and forum discussions, caused by malformed saved notification settings (bb_enabled_notification) breaking the forum reply form",
+"type": "web"
+},
+"162/162514": {
+"fix": "confirmed",
+"title": "BuddyBoss Platform newly registered user not showing in Members directory or member search, user exists in WordPress as subscriber, Repair Member Profiles and clearing cache do not help",
 "type": "web"
 }
 }

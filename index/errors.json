@@ -5,6 +5,9 @@
 "403 bp_rest_authorization_required \"sorry, you cannot view the group.\"; bp_rest_hidden_profile_field; bp_rest_invalid_item; bp_rest_group_member_cannot_promote; bp_rest_user_cannot_delete": [
 "161/161966"
 ],
+"404 not found (stripe.buddyboss.com/connect)": [
+"162/162216"
+],
 "504 gateway time-out": [
 "160/160995-2"
 ],
@@ -62,6 +65,9 @@
 ],
 "excluded by noindex tag": [
 "160/160386"
+],
+"fatal error: class \"bbmsstripetaxintegration\" not found": [
+"162/162216-2"
 ],
 "fatal error: uncaught typeerror: buddybossplatform\\groundlevel\\mothership\\updateservice::pluginautoupdate(): return value must be of type ?bool, string returned": [
 "161/161670"
@@ -153,7 +159,8 @@
 "160/160373-2"
 ],
 "smw-inj-cloudav-php.bkdr.wptheme.inj-wptheme1-0": [
-"161/161537-2"
+"161/161537-2",
+"162/162234"
 ],
 "something went wrong - tap to retry": [
 "159/159646"
