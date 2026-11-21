@@ -41,6 +41,9 @@ To confirm one, change its header line to fix: confirmed and push.
 - 156/156764-3 BuddyBoss App build screen "App Core Version" is not the BuddyBoss App plugin version, feature request to show the app plugin version on the build screen
 - 156/156770 BuddyBoss App Classic - third-party chatbot bubble added with a JavaScript snippet in the WordPress header no longer appears in the mobile app on any screen after plugin updates, still works on the website
 - 156/156780 BuddyBoss App Next Gen custom group tab created with PHP (bp_register_group_extension) or a tab creator plugin fails to load, loops back to the start or kicks the user out of the app, works fine in the Classic app and in the browser, iOS and Android
+- 156/156798-2 BuddyBoss Platform admin notice BuddyBoss Platform is almost ready, you must update your permalink structure to something other than the default, still shows after the permalink structure was changed
+- 156/156851 BuddyBoss Platform with WooCommerce - cart page loads very slowly after adding a product, hundreds of extra database queries (400+ more, 250+ duplicate get_option and update_meta_cache queries, BP_Core_Suspend user checks) only when BuddyBoss plugins are active
+- 156/156851-2 BuddyBoss Platform - PHP 8 deprecation warnings (Deprecated notices) from the bundled alchemy binary-driver library Configuration.php on every page
 - 156/156907-3 BuddyBoss App iOS Test build fails with an error after the test provisioning profile was fixed, while moving to the new app version
 - 156/156914 BuddyBoss App iOS live App Store app asks users to upgrade to Pro membership on every LearnDash course even though courses are set Free/Public and access is All Logged-In Members, in-app purchase Show on Course(s) set to All Courses with Paid Memberships Pro
 - 156/156914-3 BuddyBoss App iOS Sign Up registration page takes about two minutes to load after tapping Sign Up in the live App Store app and TestFlight build, users think the app is frozen
@@ -48,6 +51,8 @@ To confirm one, change its header line to fix: confirmed and push.
 - 157/157043 BuddyBoss Gamification and Member Blogging add-ons stay in English after translating strings to German with Loco Translate, translations have no effect
 - 157/157121 BuddyBoss Community portal login stuck in survey loop, survey keeps reappearing after submit, then 404 Page Not Found on the survey page after login
 - 157/157122 BuddyBoss Platform 3.0.4 Network Search Members report of SQL injection, search term not escaped in the Members search query, reachable by logged-out visitors through the search AJAX endpoint
+- 157/157147 BuddyBoss App branding colors revert to default after save in wp-admin app settings, colors actually saved but host page cache (Pressidium Adaptive Caching) serves old settings screen
+- 157/157147-4 BuddyBoss App show blog posts from a separate external WordPress site in the app, no RSS block or similar option found in app builder
 - 157/157169-2 BuddyBoss Platform group Members tab says no members found although the group has members, after fixing a critical error
 - 157/157169-3 BuddyBoss Platform group activity feed shows everything from the News Feed and posts from other groups instead of only that group's posts
 - 157/157227 BuddyBoss App likes on images or videos in group post comments are not registered when liked from the opened full media view, like works only from the thumbnail in the comment

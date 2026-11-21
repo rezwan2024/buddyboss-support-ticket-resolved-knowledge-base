@@ -189,6 +189,16 @@
 "title": "BuddyBoss App Next Gen custom group tab created with PHP (bp_register_group_extension) or a tab creator plugin fails to load, loops back to the start or kicks the user out of the app, works fine in the Classic app and in the browser, iOS and Android",
 "type": "app"
 },
+"156/156798": {
+"fix": "confirmed",
+"title": "BuddyBoss Platform new members click the account activation link in the activation email and get an incorrect activation key error, asked to enter a correct activation key, registration cannot be completed, started suddenly",
+"type": "web"
+},
+"156/156798-2": {
+"fix": "unconfirmed",
+"title": "BuddyBoss Platform admin notice BuddyBoss Platform is almost ready, you must update your permalink structure to something other than the default, still shows after the permalink structure was changed",
+"type": "web"
+},
 "156/156803": {
 "fix": "confirmed",
 "title": "BuddyBoss Platform activity update with an @mention does not post and shows \"An error occurred while saving your post\", then starts working again on its own (temporary error)",
@@ -203,6 +213,16 @@
 "fix": "confirmed",
 "title": "BuddyBoss App critical error crash when opening comments on a group activity post that has a reaction on a comment, TypeError undefined is not a function in titleTrim, iOS and Android, Platform 3.4.3 and App plugin 3.2.3",
 "type": "app"
+},
+"156/156851": {
+"fix": "unconfirmed",
+"title": "BuddyBoss Platform with WooCommerce - cart page loads very slowly after adding a product, hundreds of extra database queries (400+ more, 250+ duplicate get_option and update_meta_cache queries, BP_Core_Suspend user checks) only when BuddyBoss plugins are active",
+"type": "integration"
+},
+"156/156851-2": {
+"fix": "unconfirmed",
+"title": "BuddyBoss Platform - PHP 8 deprecation warnings (Deprecated notices) from the bundled alchemy binary-driver library Configuration.php on every page",
+"type": "web"
 },
 "156/156907": {
 "fix": "confirmed",

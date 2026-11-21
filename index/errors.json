@@ -32,6 +32,9 @@
 "a critical error has occurred on your website. (fatal error: class wpseo_frontend not found, plugin_compatibility.php line 134)": [
 "161/161963"
 ],
+"a mis à jour le profil de leur": [
+"157/157584-2"
+],
 "access restricted": [
 "160/160992"
 ],
@@ -64,6 +67,9 @@
 ],
 "bp_rest_group_member_failed_to_join (http 500)": [
 "156/156267"
+],
+"buddyboss platform is almost ready. you must update your permalink structure to something other than the default for it to work.": [
+"156/156798-2"
 ],
 "call to undefined function buddybossapp\\wp_get_current_user() in include/nativeapppage.php:1503 create_default_apppage(), via brand/backward/versions/2_4_00/dbupdate/legacyupdater.php:146 on_database_update()": [
 "161/161939"
@@ -210,6 +216,9 @@
 "not installed": [
 "156/156336"
 ],
+"php deprecated warnings in alchemy/binary-driver configuration.php": [
+"156/156851-2"
+],
 "php fatal error: failed opening required bp-core/classes/class-bp-admin.php (e_error) on admin-ajax.php": [
 "160/160516"
 ],
@@ -251,6 +260,9 @@
 ],
 "purchase history shows access revoked immediately after purchase": [
 "131/131775"
+],
+"put a correct activation key in": [
+"156/156798"
 ],
 "reduce unused css; render-blocking requests": [
 "159/159940-2"
