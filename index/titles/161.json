@@ -114,9 +114,49 @@
 "title": "BuddyBoss Platform and Theme - BuddyBoss Courses lesson buttons show blue instead of the site's green theme color, previous and complete and continue buttons ignore color settings, no course color settings found",
 "type": "web"
 },
+"161/161546": {
+"fix": "unconfirmed",
+"title": "BuddyBoss App iOS build failing in AppCenter while Android build succeeds, build stops within a few seconds on the build server and produces no app files, customer says all new builds are failing",
+"type": "app"
+},
+"161/161546-2": {
+"fix": "unconfirmed",
+"title": "BuddyBoss App in-app purchases not showing to iOS and Android users in the app even though the products are enabled in the app settings on the site",
+"type": "app"
+},
+"161/161580": {
+"fix": "confirmed",
+"title": "BuddyBoss App login screen Terms of Service link opens a blank white window in the native app (iOS and Android) while Privacy Policy loads fine, page works in browser, page built with Thrive Architect, blocks Apple App Store review",
+"type": "app"
+},
+"161/161695": {
+"fix": "confirmed",
+"title": "BuddyBoss Platform activity post publishing very slow, shows \"An error occurred while saving your post.\" but post is saved in background, users click Post again and create duplicate posts in groups, continues after latest update",
+"type": "web"
+},
 "161/161715": {
 "fix": "confirmed",
 "title": "BuddyBoss Sharing add-on with Yoast SEO 28.7 - \"There has been a critical error on this website\" on Notifications, Groups, member profiles and other community pages while News Feed and the app still work, after updating Yoast SEO",
 "type": "addon"
+},
+"161/161806": {
+"fix": "unconfirmed",
+"title": "BuddyBoss App signup form shows a required Nickname field even though the display name is set to First Name only, how to remove Nickname from app registration",
+"type": "app"
+},
+"161/161806-2": {
+"fix": "unconfirmed",
+"title": "BuddyBoss App turn off email verification on app signup so new members can log in right after registering without the account activation email",
+"type": "app"
+},
+"161/161806-3": {
+"fix": "unconfirmed",
+"title": "BuddyBoss App in-app purchase free trial product shows the wrong label \"Free Lifetime\" on the app signup screen instead of 7-day trial, with PMPro membership level",
+"type": "app"
+},
+"161/161823": {
+"fix": "unconfirmed",
+"title": "BuddyBoss Platform Courses (BuddyBoss Courses without LearnDash) can it drip weekly lessons by enrolment date or calendar date, keep future weeks locked and email participants when a new week unlocks, question about dropping LearnDash and a cohort plugin",
+"type": "web"
 }
 }

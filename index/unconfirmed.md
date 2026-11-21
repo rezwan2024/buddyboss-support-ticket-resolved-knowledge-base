@@ -67,3 +67,9 @@ To confirm one, change its header line to fix: confirmed and push.
 - 161/161443 BuddyBoss Theme forum topic labels in the Discussions list show colors that are not in Theme Options, how to change the forum name label color
 - 161/161509 BuddyBoss App Next Gen with Paid Memberships Pro (PMPro), is PMPro supported or do we need to switch to MemberPress or BuddyBoss Memberships, plus WooCommerce Subscriptions payments and memberships given by activation codes or invitations
 - 161/161541 BuddyBoss Platform and Theme - BuddyBoss Courses lesson buttons show blue instead of the site's green theme color, previous and complete and continue buttons ignore color settings, no course color settings found
+- 161/161546 BuddyBoss App iOS build failing in AppCenter while Android build succeeds, build stops within a few seconds on the build server and produces no app files, customer says all new builds are failing
+- 161/161546-2 BuddyBoss App in-app purchases not showing to iOS and Android users in the app even though the products are enabled in the app settings on the site
+- 161/161806 BuddyBoss App signup form shows a required Nickname field even though the display name is set to First Name only, how to remove Nickname from app registration
+- 161/161806-2 BuddyBoss App turn off email verification on app signup so new members can log in right after registering without the account activation email
+- 161/161806-3 BuddyBoss App in-app purchase free trial product shows the wrong label "Free Lifetime" on the app signup screen instead of 7-day trial, with PMPro membership level
+- 161/161823 BuddyBoss Platform Courses (BuddyBoss Courses without LearnDash) can it drip weekly lessons by enrolment date or calendar date, keep future weeks locked and email participants when a new week unlocks, question about dropping LearnDash and a cohort plugin
