@@ -99,3 +99,8 @@ To confirm one, change its header line to fix: confirmed and push.
 - 162/162018 BuddyBoss Gamification add-on how to retroactively award points and badges for past member activity (posts, comments, group joins) done before Gamification was enabled, no built-in backfill tool
 - 162/162032 BuddyBoss Theme site very slow for logged-in users, about 7 seconds per page on LearnDash course, lesson, quiz, WooCommerce, PMPro checkout and login pages, poor Core Web Vitals despite months of frontend optimization and Cloudflare, refund requested
 - 162/162234 BuddyBoss Theme 2.22.4 inc/theme/functions.php flagged as malware by Imunify host scanner after updating from 2.22.3, false positive scanner report
+- 162/162275 BuddyBoss Platform profile type members shortcode default sorting order, what does Recently Active mean (last activity, not registration date, login date or profile modified date)
+- 162/162281-2 BuddyBoss Membership migrate WooCommerce Subscriptions customers without re-entering credit card details, Stripe saved payment methods, subscriptions not shown in Stripe dashboard
+- 162/162427 BuddyBoss Platform ReadyLaunch profile cover image upload missing, Enable cover images for member profiles turned on but no cover image shows and the change cover image page opens without an upload form
+- 162/162451 BuddyBoss Platform Send Group Message limit question, how many members can receive a group message and does it use cron or batch sending to avoid PHP timeout for 10,000 member groups
+- 162/162477 BuddyBoss Theme login page image too short on mobile, split login layout image height and spacing look wrong on small screens, how to increase the login image height for mobile view

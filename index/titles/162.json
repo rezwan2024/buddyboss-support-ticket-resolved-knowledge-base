@@ -79,6 +79,36 @@
 "title": "BuddyBoss Platform \"There has been a critical error on this website\" only on activity feed, groups and forum discussions, caused by malformed saved notification settings (bb_enabled_notification) breaking the forum reply form",
 "type": "web"
 },
+"162/162275": {
+"fix": "unconfirmed",
+"title": "BuddyBoss Platform profile type members shortcode default sorting order, what does Recently Active mean (last activity, not registration date, login date or profile modified date)",
+"type": "web"
+},
+"162/162281": {
+"fix": "confirmed",
+"title": "BuddyBoss Platform BB Courses how to migrate courses from LearnDash to built-in BuddyBoss Courses without students losing access or progress",
+"type": "web"
+},
+"162/162281-2": {
+"fix": "unconfirmed",
+"title": "BuddyBoss Membership migrate WooCommerce Subscriptions customers without re-entering credit card details, Stripe saved payment methods, subscriptions not shown in Stripe dashboard",
+"type": "integration"
+},
+"162/162427": {
+"fix": "unconfirmed",
+"title": "BuddyBoss Platform ReadyLaunch profile cover image upload missing, Enable cover images for member profiles turned on but no cover image shows and the change cover image page opens without an upload form",
+"type": "web"
+},
+"162/162451": {
+"fix": "unconfirmed",
+"title": "BuddyBoss Platform Send Group Message limit question, how many members can receive a group message and does it use cron or batch sending to avoid PHP timeout for 10,000 member groups",
+"type": "web"
+},
+"162/162477": {
+"fix": "unconfirmed",
+"title": "BuddyBoss Theme login page image too short on mobile, split login layout image height and spacing look wrong on small screens, how to increase the login image height for mobile view",
+"type": "web"
+},
 "162/162514": {
 "fix": "confirmed",
 "title": "BuddyBoss Platform newly registered user not showing in Members directory or member search, user exists in WordPress as subscriber, Repair Member Profiles and clearing cache do not help",
