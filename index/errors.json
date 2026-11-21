@@ -53,6 +53,12 @@
 "critical error": [
 "159/159261-2"
 ],
+"critical error on group pages, yoast class wpseo_frontend not found": [
+"160/160998"
+],
+"critical uncaught error: class \"wpseo_frontend\" not found in /wp-content/plugins/buddyboss-sharing/includes/modules/plugin_compatibility.php:134": [
+"161/161582"
+],
 "delivery failed: invalid apns credential": [
 "159/159290"
 ],
@@ -149,6 +155,12 @@
 "php fatal error: uncaught error: class \"menu_icons_settings\" not found in wp-content/themes/buddyboss-theme/inc/plugins/buddyboss-menu-icons/includes/front.php:60": [
 "162/162524"
 ],
+"php fatal error: uncaught error: class \"wpseo_frontend\" not found in /wp-content/plugins/buddyboss-sharing/includes/modules/plugin_compatibility.php:134": [
+"161/161146"
+],
+"php fatal error: uncaught error: class \"wpseo_frontend\" not found in buddyboss-sharing/includes/modules/plugin_compatibility.php:134": [
+"161/161072"
+],
 "platformexception(sign_in_failed, com.google.android.gms.common.api.apiexception: 10)": [
 "161/161243"
 ],
@@ -193,6 +205,7 @@
 "161/161062-2"
 ],
 "there has been a critical error on this website.": [
+"161/161132",
 "161/161715",
 "162/162263"
 ],

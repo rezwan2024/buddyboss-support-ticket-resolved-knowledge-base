@@ -34,6 +34,11 @@
 "title": "BuddyBoss Theme with Tutor LMS 4.x, course pages and lesson pages crash after updating Tutor LMS to the newest version, known compatibility issue",
 "type": "integration"
 },
+"161/161072": {
+"fix": "confirmed",
+"title": "BuddyBoss Sharing add-on with Yoast SEO active makes all single group pages return 404, fatal error Class \"WPSEO_Frontend\" not found in Plugin_Compatibility.php, fixed in Sharing 2.1.2",
+"type": "addon"
+},
 "161/161109": {
 "fix": "confirmed",
 "title": "BuddyBoss Platform Member Blogging settings page shows Upgrade Plus label and feature looks locked even though the plan includes it, BuddyBoss settings admin not working on outdated Platform and Platform Pro versions",
@@ -58,6 +63,16 @@
 "fix": "confirmed",
 "title": "BuddyBoss Platform let users sign up and log in with Google instead of email verification, or with a one-time SMS text code, faster registration options",
 "type": "web"
+},
+"161/161132": {
+"fix": "confirmed",
+"title": "BuddyBoss Sharing add-on causes \"There has been a critical error on this website\" on most pages except newsfeed and members when Yoast SEO is active, fixed in Sharing 2.1.2",
+"type": "addon"
+},
+"161/161146": {
+"fix": "confirmed",
+"title": "BuddyBoss Sharing add-on fatal error Class \"WPSEO_Frontend\" not found in Plugin_Compatibility.php line 134 on every front-end page (member profiles, group pages) when Yoast SEO is active, Sharing 2.1.0 with current Yoast versions",
+"type": "addon"
 },
 "161/161202": {
 "fix": "unconfirmed",
@@ -158,6 +173,11 @@
 "fix": "confirmed",
 "title": "BuddyBoss App login screen Terms of Service link opens a blank white window in the native app (iOS and Android) while Privacy Policy loads fine, page works in browser, page built with Thrive Architect, blocks Apple App Store review",
 "type": "app"
+},
+"161/161582": {
+"fix": "confirmed",
+"title": "BuddyBoss Sharing add-on fatal error Critical Uncaught Error Class \"WPSEO_Frontend\" not found in Plugin_Compatibility.php after updating Yoast SEO to 28.7, frontend pages and messaging broken",
+"type": "addon"
 },
 "161/161594": {
 "fix": "confirmed",

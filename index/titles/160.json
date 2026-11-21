@@ -258,5 +258,10 @@
 "fix": "unconfirmed",
 "title": "BuddyBoss ReadyLaunch community pages not showing site logo, original site menu or slogan after installing BuddyBoss Platform and Theme, and where to change the footer copyright text",
 "type": "web"
+},
+"160/160998": {
+"fix": "confirmed",
+"title": "BuddyBoss Sharing add-on with Yoast SEO active - group pages show a critical error on the web after updating, app still works, Sharing Yoast compatibility looks for missing class WPSEO_Frontend",
+"type": "addon"
 }
 }
