@@ -9,6 +9,11 @@
 "title": "BuddyBoss Platform license activation notice keeps asking to activate the license for Offload Media and Gamification add-ons even though the license was activated long ago, license data out of sync",
 "type": "account"
 },
+"156/156236": {
+"fix": "confirmed",
+"title": "BuddyBoss Platform license notice \"License required for BuddyBoss features\" for BuddyBoss Addons (Offload Media, Gamification) keeps showing and license warning emails are sent although the license is active, appeared after updating the Groundhogg plugin",
+"type": "account"
+},
 "156/156267": {
 "fix": "unconfirmed",
 "title": "BuddyBoss Platform cannot add members to a group via REST API or the group Manage Members screen, API returns 200 then 500 bp_rest_group_member_failed_to_join, member not shown on front end and group count not updating, group linked to a LearnDash group",
@@ -22,6 +27,16 @@
 "156/156279-2": {
 "fix": "unconfirmed",
 "title": "BuddyBoss Platform and Platform Pro cannot be activated because two copies of each plugin are installed, WordPress treats them as competing plugins, on a site running very outdated versions (Platform 2.14.4, Pro 2.10.1, Theme 2.14.0)",
+"type": "web"
+},
+"156/156327": {
+"fix": "unconfirmed",
+"title": "BuddyBoss Platform Pro cannot activate Like/Reactions, Polls, Pin Posts, Like Buttons and Social Logins in BuddyBoss settings although Platform Pro and other add-ons are active, BuddyBoss Addons shown as Not Installed",
+"type": "web"
+},
+"156/156336": {
+"fix": "unconfirmed",
+"title": "BuddyBoss Platform Pro shows BuddyBoss Addons as Not Installed, cannot enable pinned posts, polls, social login, emotion reactions after installing Platform Pro",
 "type": "web"
 },
 "156/156472": {
@@ -38,6 +53,16 @@
 "fix": "unconfirmed",
 "title": "BuddyBoss App Next Gen custom group tab created with PHP (bp_register_group_extension) or a tab creator plugin fails to load, loops back to the start or kicks the user out of the app, works fine in the Classic app and in the browser, iOS and Android",
 "type": "app"
+},
+"156/156803": {
+"fix": "confirmed",
+"title": "BuddyBoss Platform activity update with an @mention does not post and shows \"An error occurred while saving your post\", then starts working again on its own (temporary error)",
+"type": "web"
+},
+"156/156809": {
+"fix": "confirmed",
+"title": "BuddyBoss Theme dark color scheme - \"Like this:\" Likes bar shows white background instead of dark under posts, does not follow theme colors or custom CSS (Jetpack Likes widget)",
+"type": "integration"
 },
 "156/156848": {
 "fix": "confirmed",

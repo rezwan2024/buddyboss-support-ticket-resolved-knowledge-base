@@ -26,6 +26,9 @@
 "access restricted": [
 "160/160992"
 ],
+"an error occurred while saving your post": [
+"156/156803"
+],
 "an error occurred while saving your post.": [
 "161/161695"
 ],
@@ -136,6 +139,9 @@
 "license activation failed: the requested action could not be performed due to validation errors. the license does not have any available production activations remaining.": [
 "160/160389"
 ],
+"license required for buddyboss features - buddyboss addons": [
+"156/156236"
+],
 "membership required": [
 "157/157605"
 ],
@@ -151,6 +157,9 @@
 ],
 "not found (404) on buddyboss photo urls": [
 "162/162222"
+],
+"not installed": [
+"156/156336"
 ],
 "php fatal error: failed opening required bp-core/classes/class-bp-admin.php (e_error) on admin-ajax.php": [
 "160/160516"

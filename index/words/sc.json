@@ -23,6 +23,9 @@
 "scheduling": [
 "161/161823:web"
 ],
+"scheme": [
+"156/156809:integration"
+],
 "score": [
 "144/144667:addon",
 "158/158401:integration"
