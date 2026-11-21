@@ -1,0 +1,17 @@
+{
+"151/151384": {
+"fix": "confirmed",
+"title": "BuddyBoss Theme Tutor LMS 4.0 dashboard layout broken, parts of the Tutor LMS dashboard not displaying correctly after updating Tutor LMS to 4.0",
+"type": "integration"
+},
+"151/151411": {
+"fix": "confirmed",
+"title": "BuddyBoss Theme with Tutor LMS 4.x broken layout, Tutor LMS pages and dashboard look broken after updating Tutor LMS from 3.9 to 4.0",
+"type": "integration"
+},
+"151/151847": {
+"fix": "confirmed",
+"title": "BuddyBoss Theme with Tutor LMS - Tutor LMS dashboard not displayed correctly, layout broken after updating BuddyBoss Platform and Theme",
+"type": "integration"
+}
+}

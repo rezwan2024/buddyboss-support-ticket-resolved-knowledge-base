@@ -8,7 +8,13 @@
 "161/161479-2:app"
 ],
 "tutor": [
+"151/151384:integration",
+"151/151411:integration",
+"151/151847:integration",
 "160/160495:integration",
 "161/161071-2:integration"
+],
+"tutorlm": [
+"151/151411:integration"
 ]
 }

@@ -1,6 +1,8 @@
 {
 "page": [
 "144/144667-2:addon",
+"151/151384:integration",
+"151/151411:integration",
 "156/156780:app",
 "157/157605:integration",
 "157/157971:app",
@@ -39,7 +41,8 @@
 "161/161109:web",
 "161/161318-2:web",
 "161/161580:app",
-"161/161715:addon"
+"161/161715:addon",
+"161/161835:integration"
 ],
 "pagespeed": [
 "159/159940-2:web"
@@ -50,6 +53,9 @@
 ],
 "paidmembershipspro": [
 "161/161509:integration"
+],
+"part": [
+"151/151384:integration"
 ],
 "partial": [
 "159/159199-2:account"

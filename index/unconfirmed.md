@@ -73,3 +73,4 @@ To confirm one, change its header line to fix: confirmed and push.
 - 161/161806-2 BuddyBoss App turn off email verification on app signup so new members can log in right after registering without the account activation email
 - 161/161806-3 BuddyBoss App in-app purchase free trial product shows the wrong label "Free Lifetime" on the app signup screen instead of 7-day trial, with PMPro membership level
 - 161/161823 BuddyBoss Platform Courses (BuddyBoss Courses without LearnDash) can it drip weekly lessons by enrolment date or calendar date, keep future weeks locked and email participants when a new week unlocks, question about dropping LearnDash and a cohort plugin
+- 161/161835 BuddyBoss Platform with WooCommerce - regular members opening /wp-admin/ are redirected to WooCommerce My Account instead of the News Feed set in BuddyBoss login redirect settings, customer asks to reopen an auto-closed ticket

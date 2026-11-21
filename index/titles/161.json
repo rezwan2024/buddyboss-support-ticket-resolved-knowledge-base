@@ -158,5 +158,15 @@
 "fix": "unconfirmed",
 "title": "BuddyBoss Platform Courses (BuddyBoss Courses without LearnDash) can it drip weekly lessons by enrolment date or calendar date, keep future weeks locked and email participants when a new week unlocks, question about dropping LearnDash and a cohort plugin",
 "type": "web"
+},
+"161/161829": {
+"fix": "confirmed",
+"title": "BuddyBoss support receives a customer's community newsletter email (new features and holiday reminders announcement) by mistake because the support email address was on the site's member mailing list, not a support request",
+"type": "account"
+},
+"161/161835": {
+"fix": "unconfirmed",
+"title": "BuddyBoss Platform with WooCommerce - regular members opening /wp-admin/ are redirected to WooCommerce My Account instead of the News Feed set in BuddyBoss login redirect settings, customer asks to reopen an auto-closed ticket",
+"type": "integration"
 }
 }

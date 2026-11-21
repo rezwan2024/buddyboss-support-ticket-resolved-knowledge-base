@@ -2,6 +2,9 @@
 "subject": [
 "158/158401:integration"
 ],
+"subscribed": [
+"161/161829:account"
+],
 "subscriber": [
 "160/160793-2:web"
 ],
@@ -22,7 +25,8 @@
 ],
 "support": [
 "159/159261:app",
-"160/160724:web"
+"160/160724:web",
+"161/161829:account"
 ],
 "supported": [
 "161/161393:app",

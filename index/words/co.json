@@ -49,9 +49,12 @@
 "160/160673:web",
 "160/160994:web",
 "160/160995-3:web",
-"161/161715:addon"
+"161/161715:addon",
+"161/161829:account"
 ],
 "compatibility": [
+"151/151384:integration",
+"151/151411:integration",
 "156/156780:app",
 "161/161071-2:integration",
 "161/161509:integration"
@@ -171,6 +174,8 @@
 "160/160495:integration"
 ],
 "correctly": [
+"151/151384:integration",
+"151/151847:integration",
 "159/159846:app"
 ],
 "cost": [
